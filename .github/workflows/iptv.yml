@@ -1,0 +1,33 @@
+name: IPTV Spor Güncelleme
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"   # Her 12 saatte bir çalışır
+  workflow_dispatch:         # Manuel çalıştırma butonu da olsun
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📥 Repo indiriliyor
+        uses: actions/checkout@v3
+
+      - name: 🐍 Python kurulumu
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.10"
+
+      - name: 📦 Kütüphaneler yükleniyor
+        run: pip install -r requirements.txt
+
+      - name: ▶️ IPTV script çalıştırılıyor
+        run: python iptv.py
+
+      - name: 💾 Güncel spor.m3u8 commit ediliyor
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add spor.m3u8
+          git commit -m "🔄 Otomatik spor.m3u8 güncellendi" || echo "No changes to commit"
+          git push
