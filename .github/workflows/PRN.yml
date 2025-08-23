@@ -1,0 +1,39 @@
+name: Update Porn18 M3U
+
+on:
+  schedule:
+    # Her 6 saatte bir çalıştır
+    - cron: '0 */6 * * *'
+  workflow_dispatch:  # Manuel çalıştırma için
+
+jobs:
+  update_m3u:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run IPTV script
+        run: python PRN.py
+
+      - name: Commit & Push updated M3U files
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git add aktif_porn18_kanallar.m3u calismayan_porn18_kanallar.m3u
+          git commit -m "Update M3U files [ci skip]" || echo "No changes to commit"
+          git push
+        env:
+          # Eğer özel token gerekiyorsa buraya ekleyin
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
