@@ -24,7 +24,7 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests
 
-      - name: Scripti çalıştır
+      - name: porn18_update Scripti çalıştır
         run: python porn18_update.py
 
       - name: Güncellenen dosyaları commit ve push et
