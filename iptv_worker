@@ -1,9 +1,6 @@
 import requests
 import re
 from concurrent.futures import ThreadPoolExecutor
-from tqdm import tqdm
-import json
-import time
 
 # --- M3U8 çözme ---
 def m3u8_coz(icerik):
@@ -31,38 +28,38 @@ def m3u8_coz(icerik):
 
 # --- Porn+18 filtresi ---
 def kategori_filtrele(kanallar):
-    anahtarlar = ['porn', '18+', 'adult', 'xxx']
+    anahtarlar = ['porn', '18+']
     filtreli = []
 
     for k in kanallar:
         grup = k['grup'].lower()
         kanal_ad = k['kanal'].lower()
-        if any(anahtar in grup or anahtar in kanal_ad for anahtar in anahtarlar):
-            filtreli.append(k)
+        for anahtar in anahtarlar:
+            if anahtar in grup or anahtar in kanal_ad:
+                filtreli.append(k)
+                break
+
     return filtreli
 
-# --- Bağlantı kontrol (retry destekli) ---
-def baglanti_kontrol(kanal, retries=2):
-    for _ in range(retries):
-        try:
-            response = requests.get(kanal['url'], timeout=5, stream=True)
-            if response.status_code in [200, 301, 302]:
-                return True
-        except:
-            time.sleep(1)
-    return False
-
 # --- Multi-thread bağlantı kontrol ---
+def baglanti_kontrol(kanal):
+    try:
+        response = requests.head(kanal['url'], timeout=5, allow_redirects=True)
+        return response.status_code in [200, 301, 302]
+    except:
+        return False
+
 def baglanti_kontrol_multi(kanallar, max_workers=20):
     aktif = []
     pasif = []
+    print(f"[•] {len(kanallar)} kanal test ediliyor...\n")
 
     def kontrol(kanal):
         return kanal, baglanti_kontrol(kanal)
 
-    print(f"[•] {len(kanallar)} kanal test ediliyor...\n")
     with ThreadPoolExecutor(max_workers=max_workers) as executor:
-        for kanal, durum in tqdm(executor.map(kontrol, kanallar), total=len(kanallar)):
+        for kanal, durum in executor.map(kontrol, kanallar):
+            print(f"{kanal['kanal']} ({kanal['grup']}): {'✅' if durum else '❌'}")
             if durum:
                 aktif.append(kanal)
             else:
@@ -79,18 +76,13 @@ def m3u_kaydet(kanallar, dosya_adi):
             f.write(f'{kanal["url"]}\n')
     print(f"[💾] {dosya_adi} kaydedildi. ({len(kanallar)} kanal)")
 
-# --- JSON kaydetme ---
-def json_kaydet(kanallar, dosya_adi):
-    with open(dosya_adi, "w", encoding="utf-8") as f:
-        json.dump(kanallar, f, ensure_ascii=False, indent=2)
-    print(f"[💾] {dosya_adi} kaydedildi. ({len(kanallar)} kanal)")
-
 # --- Ana program ---
 def main():
     playlist_urls = [
         "https://raw.githubusercontent.com/Drewski2423/DrewLive/refs/heads/main/DaddyLive.m3u8",
         "https://raw.githubusercontent.com/Drewski2423/DrewLive/refs/heads/main/DrewAll.m3u8",
         "https://raw.githubusercontent.com/Drewski2423/DrewLive/refs/heads/main/DrewLiveVOD.m3u8",
+        # İhtiyacınıza göre ek M3U8 listeleri ekleyebilirsiniz
     ]
 
     print("[📡] Tüm IPTV listeleri indiriliyor...")
@@ -112,7 +104,7 @@ def main():
 
     # Sadece porn+18 filtrele
     filtreli = kategori_filtrele(kanallar)
-    print(f"[🔍] 'Porn+18' kategorisinde {len(filtreli)} kanal bulundu.\n")
+    print(f"[🔍] 'porn+18' kategorisinde {len(filtreli)} kanal bulundu.\n")
 
     # Bağlantıları test et (multi-thread)
     aktif, pasif = baglanti_kontrol_multi(filtreli)
@@ -120,9 +112,6 @@ def main():
     # Dosyaları kaydet
     m3u_kaydet(aktif, "aktif_porn18_kanallar.m3u")
     m3u_kaydet(pasif, "calismayan_porn18_kanallar.m3u")
-
-    json_kaydet(aktif, "aktif_porn18_kanallar.json")
-    json_kaydet(pasif, "calismayan_porn18_kanallar.json")
 
     print(f"\n✅ {len(aktif)} çalışıyor | ❌ {len(pasif)} çalışmıyor")
 
