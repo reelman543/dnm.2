@@ -1,33 +1,34 @@
-name: PRN Güncelleme
+name: PRN Otomatik
 
 on:
   schedule:
-    - cron: "0 */6 * * *"   # Her 6 saatte bir çalışır
-  workflow_dispatch:         # Manuel çalıştırma butonu da olsun
+    - cron: "0 */3 * * *" # Her 3 saatte bir
+  workflow_dispatch: # Manuel çalıştırma
 
 jobs:
-  build:
+  run-umitmod:
     runs-on: ubuntu-latest
-
     steps:
-      - name: 📥 Repo indiriliyor
-        uses: actions/checkout@v3
+      - name: Repo'yu Klonla
+        uses: actions/checkout@v4
 
-      - name: 🐍 Python kurulumu
-        uses: actions/setup-python@v4
+      - name: Python Kur
+        uses: actions/setup-python@v5
         with:
-          python-version: "3.10"
+          python-version: "3.x"
 
-      - name: 📦 Kütüphaneler yükleniyor
-        run: pip install -r requirements.txt
+      - name: Bağımlılıkları Kur
+        run: |
+          pip install requests
 
-      - name: ▶️ IPTV script çalıştırılıyor
-        run: python PRN.py
+      - name: PRN Script Çalıştır
+        run: |
+          python PRN.py
 
-      - name: 💾 Güncel PRN.m3u8 commit ediliyor
+      - name: Playlist'i Commit Et
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add spor.m3u8
-          git commit -m "🔄 Otomatik spor.m3u8 güncellendi" || echo "No changes to commit"
+          git add PRN.m3u
+          git commit -m "Otomatik güncelleme: $(date '+%Y-%m-%d %H:%M:%S')" || echo "Değişiklik yok"
           git push
