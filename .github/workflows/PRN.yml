@@ -1,39 +1,43 @@
-name: Update Porn18 M3U
+name: IPTV Worker
+
 
 on:
-  schedule:
-    # Her 6 saatte bir çalıştır
-    - cron: '0 */6 * * *'
-  workflow_dispatch:  # Manuel çalıştırma için
+schedule:
+- cron: "0 */6 * * *" # Her 6 saatte bir
+workflow_dispatch:
+
 
 jobs:
-  update_m3u:
-    runs-on: ubuntu-latest
+update-iptv:
+runs-on: ubuntu-latest
 
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
 
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.11'
+steps:
+- name: Repo'yu klonla
+uses: actions/checkout@v4
 
-      - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install -r requirements.txt
 
-      - name: Run IPTV script
-        run: python PRN.py
+- name: Python kur
+uses: actions/setup-python@v4
+with:
+python-version: "3.11"
 
-      - name: Commit & Push updated M3U files
-        run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "actions@github.com"
-          git add aktif_porn18_kanallar.m3u calismayan_porn18_kanallar.m3u
-          git commit -m "Otomatik güncelleme: $(date '+%Y-%m-%d %H:%M:%S')" || echo "Değişiklik yok"
-          git push
-        env:
-          # Eğer özel token gerekiyorsa buraya ekleyin
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+- name: Bağımlılıkları yükle
+run: |
+python -m pip install --upgrade pip
+pip install -r requirements.txt
+
+
+- name: IPTV scripti çalıştır
+run: |
+python iptv_worker.py
+
+
+- name: Çıktıları commit ve push
+run: |
+git config --local user.email "github-actions[bot]@users.noreply.github.com"
+git config --local user.name "github-actions[bot]"
+git add aktif_porn18_kanallar.* calismayan_porn18_kanallar.*
+git commit -m "Otomatik güncelleme $(date +'%Y-%m-%d %H:%M:%S')" || echo "No changes to commit"
+git push
