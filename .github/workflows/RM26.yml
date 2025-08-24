@@ -1,0 +1,63 @@
+name: Update M3U (every 3h)
+
+on:
+  schedule:
+    - cron: "0 */3 * * *"   # 3 saatte bir (UTC)
+  workflow_dispatch:        # Manuel tetikleme
+
+permissions:
+  contents: write           # GITHUB_TOKEN ile push için gerekli
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0    # commit/push için tam geçmişe gerek duyulabilir
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install deps
+        run: |
+          python -m pip install --upgrade pip
+          pip install -q requests
+
+      - name: Run RM26.py script
+        # .py dosyanın adını burada güncelle (ör: merge_m3u.py)
+        run: |
+          python RM26.py
+
+      - name: Show git status (debug)
+        run: |
+          git status
+          echo "Changed files:"
+          git diff --name-only || true
+
+      - name: Commit & push if changed
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          TZ: Europe/Istanbul
+        run: |
+          # Bazı runner'larda 'dubious ownership' hatasını önlemek için:
+          git config --global --add safe.directory "$GITHUB_WORKSPACE"
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          # Uzak adresi token ile ayarla (push yetkisi için):
+          git remote set-url origin "https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git"
+
+          # Sadece RM26.m3u değiştiyse commit et
+          if [[ -n "$(git status --porcelain RM26.m3u)" ]]; then
+            git add RM26.m3u
+            git commit -m "Auto update RM26.m3u ($(date +'%Y-%m-%d %H:%M:%S %Z')) [skip ci]"
+            # Mevcut branch'a pushla
+            git push origin HEAD:${{ github.ref_name }}
+          else
+            echo "No changes to commit."
+          fi
