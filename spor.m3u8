@@ -439,6 +439,8 @@ http://fl1.moveonjoy.com/MOTOR_TREND/index.m3u8
 http://fl5.moveonjoy.com/NBA_10/index.m3u8
 #EXTINF:-1 group-title="MoveOnJoy",NBA 12
 http://fl5.moveonjoy.com/NBA_12/index.m3u8
+#EXTINF:-1 group-title="MoveOnJoy",NBA 5
+http://fl5.moveonjoy.com/NBA_5/index.m3u8
 #EXTINF:-1 group-title="MoveOnJoy",NBA 6
 http://fl5.moveonjoy.com/NBA_6/index.m3u8
 #EXTINF:-1 group-title="MoveOnJoy",NBA 7
