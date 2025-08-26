@@ -21,7 +21,7 @@ jobs:
       - name: Bağımlılıkları yükle
         run: pip install requests
 
-      - name: Scripti çalıştır
+      - name: RM26 Scripti çalıştır
         run: python RM26.py   # senin dosya adın, örn: merge.py
 
       - name: Çıktıyı commit et
