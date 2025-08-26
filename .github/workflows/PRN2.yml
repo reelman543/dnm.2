@@ -27,7 +27,7 @@ jobs:
         run: pip install requests
 
       - name: 🎯 Run scraping script
-        run: python iptv.py
+        run: python PRN2.py
 
       - name: 💾 Commit & Safely Push if Playlist Changed
         env:
