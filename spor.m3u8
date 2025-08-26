@@ -435,10 +435,18 @@ https://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 https://fl3.moveonjoy.com/MLB_NETWORK/index.m3u8
 #EXTINF:-1 group-title="MoveOnJoy",MotorTrend
 http://fl1.moveonjoy.com/MOTOR_TREND/index.m3u8
+#EXTINF:-1 group-title="MoveOnJoy",NBA 10
+http://fl5.moveonjoy.com/NBA_10/index.m3u8
 #EXTINF:-1 group-title="MoveOnJoy",NBA 12
 http://fl5.moveonjoy.com/NBA_12/index.m3u8
+#EXTINF:-1 group-title="MoveOnJoy",NBA 6
+http://fl5.moveonjoy.com/NBA_6/index.m3u8
 #EXTINF:-1 group-title="MoveOnJoy",NBA 7
 http://fl5.moveonjoy.com/NBA_7/index.m3u8
+#EXTINF:-1 group-title="MoveOnJoy",NBA 8
+http://fl5.moveonjoy.com/NBA_8/index.m3u8
+#EXTINF:-1 group-title="MoveOnJoy",NBA 9
+http://fl5.moveonjoy.com/NBA_9/index.m3u8
 #EXTINF:-1 group-title="MoveOnJoy",NBA TV
 https://fl3.moveonjoy.com/NBA_TV/index.m3u8
 #EXTINF:-1 group-title="MoveOnJoy",NBC Golf
