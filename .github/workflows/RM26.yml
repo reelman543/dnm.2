@@ -24,10 +24,10 @@ jobs:
       - name: RM26 Scripti çalıştır
         run: python RM26.py   # senin dosya adın, örn: merge.py
 
-      - name: Çıktıyı commit et
+      - name: Güncel RM26.m3u8 commit ediliyor
         run: |
           git config --local user.name "github-actions[bot]"
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git add kanallar.m3u
-          git commit -m "Otomatik M3U güncelleme" || echo "Değişiklik yok"
+          git commit -m "Otomatik RM26.m3u8 güncellendi" || echo "Değişiklik yok"
           git push
