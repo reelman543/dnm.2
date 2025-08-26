@@ -1,36 +1,35 @@
-name: M3U Listesi Güncelle
+import requests
 
-on:
-  schedule:
-    - cron: "0 */3 * * *"   # 3 saatte bir çalışır
-  workflow_dispatch:        # Manuel çalıştırma için
+# M3U kaynak linkleri
+m3u_urls = [
+    "https://raw.githubusercontent.com/kadirsener1/CanliTvListe/main/yeni.m3u",
+    # Diğer M3U linklerini buraya ekleyebilirsin
+]
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
+# Üretilen dosya adı
+output_file = "RM26.m3u"
 
-    steps:
-      - name: Repo'yu çek
-        uses: actions/checkout@v3
+merged_content = "#EXTM3U\n"
+eklenen_kanallar = set()
 
-      - name: Python kur
-        uses: actions/setup-python@v4
-        with:
-          python-version: "3.10"
+for url in m3u_urls:
+    try:
+        r = requests.get(url)
+        r.raise_for_status()
+        lines = r.text.splitlines()
+        for i, line in enumerate(lines):
+            if line.startswith("#EXTINF:"):
+                kanal = line.strip()
+                if kanal not in eklenen_kanallar:
+                    merged_content += kanal + "\n"
+                    eklenen_kanallar.add(kanal)
+                    # Sonraki satırda URL vardır
+                    if i + 1 < len(lines):
+                        merged_content += lines[i + 1].strip() + "\n"
+    except Exception as e:
+        print(f"Hata: {e} ({url})")
 
-      - name: Bağımlılıkları yükle
-        run: pip install requests
+with open(output_file, "w", encoding="utf-8") as f:
+    f.write(merged_content)
 
-      - name: RM26 Scripti çalıştır
-        run: python RM26.py
-
-      - name: Çıkan dosyaları listele (debug)
-        run: ls -lah
-
-      - name: Güncel RM26.m3u commit et
-        run: |
-          git config --local user.name "github-actions[bot]"
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git add RM26.m3u
-          git commit -m "Otomatik RM26.m3u güncellendi" || echo "No changes to commit"
-          git push
+print(f"{output_file} dosyası oluşturuldu.")
