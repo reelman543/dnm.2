@@ -22,12 +22,15 @@ jobs:
         run: pip install requests
 
       - name: RM26 Scripti çalıştır
-        run: python RM26.py   # betiğin adı
+        run: python RM26.py
+
+      - name: Çıkan dosyaları listele (debug)
+        run: ls -lah
 
       - name: Güncel RM26.m3u commit et
         run: |
           git config --local user.name "github-actions[bot]"
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git add RM26.m3u   # betiğin ürettiği dosya adı ile aynı olmalı
+          git add RM26.m3u
           git commit -m "Otomatik RM26.m3u güncellendi" || echo "No changes to commit"
           git push
