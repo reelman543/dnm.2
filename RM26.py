@@ -1,44 +1,36 @@
-import requests
+name: M3U Listesi Güncelle
 
-# M3U kaynak linkleri
-m3u_urls = [
-    "https://raw.githubusercontent.com/kadirsener1/CanliTvListe/main/yeni.m3u",
-    
-]
+on:
+  schedule:
+    - cron: "0 */3 * * *"   # 3 saatte bir çalışır
+  workflow_dispatch:        # Manuel çalıştırma için
 
-output_file = ".m3u"
-merged_content = "#EXTM3U\n"
-eklenen_kanallar = set()
+jobs:
+  build:
+    runs-on: ubuntu-latest
 
-for url in m3u_urls:
-    try:
-        print(f"İndiriliyor: {url}")
-        response = requests.get(url, timeout=10)
-        response.raise_for_status()
-        content = response.text.strip()
+    steps:
+      - name: Repo'yu çek
+        uses: actions/checkout@v3
 
-        if content.startswith("#EXTM3U"):
-            content = content.split("\n", 1)[1]
+      - name: Python kur
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.10"
 
-        lines = content.strip().splitlines()
-        i = 0
-        while i < len(lines):
-            line = lines[i].strip()
-            if line.startswith("#EXTINF"):
-                kanal_satiri = line
-                i += 1
-                if i < len(lines):
-                    stream_url = lines[i].strip()
-                    kanal_anahtar = kanal_satiri + stream_url
-                    if kanal_anahtar not in eklenen_kanallar:
-                        eklenen_kanallar.add(kanal_anahtar)
-                        merged_content += kanal_satiri + "\n" + stream_url + "\n"
-            i += 1
+      - name: Bağımlılıkları yükle
+        run: pip install requests
 
-    except Exception as e:
-        print(f"Hata oluştu: {url}\n{e}")
+      - name: RM26 Scripti çalıştır
+        run: python RM26.py
 
-with open(output_file, "w", encoding="utf-8") as f:
-    f.write(merged_content.strip() + "\n")
+      - name: Çıkan dosyaları listele (debug)
+        run: ls -lah
 
-print(f"\nBirleştirme tamamlandı: {output_file}")
+      - name: Güncel RM26.m3u commit et
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git add RM26.m3u
+          git commit -m "Otomatik RM26.m3u güncellendi" || echo "No changes to commit"
+          git push
