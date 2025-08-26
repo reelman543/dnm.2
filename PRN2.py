@@ -28,7 +28,7 @@ playlist_urls = [
 
 EPG_URL = "http://drewlive24.duckdns.org:8081/merged2_epg.xml.gz"
 OUTPUT_FILE = "MergedPlaylist.m3u8"
-OUTPUT_FILE_2 = "NSFW.m3u8"
+OUTPUT_FILE = "NSFW.m3u8"
 
 def fetch_playlist(url):
     try:
