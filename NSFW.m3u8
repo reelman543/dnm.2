@@ -887,6 +887,8 @@ http://128.230.54.128:5004/auto/v64.1
 https://tvpass.org/live/CSPAN/hd
 #EXTINF:-1 tvg-id="C-SPAN 2" -1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/c-span-2-us.png group-title="AriaPlus - United States",C-SPAN 2
 https://tvpass.org/live/CSPAN2/hd
+#EXTINF:-1 tvg-id="Caltex Music" -1 tvg-logo="" group-title="AriaPlus - United States",Caltex Music
+https://vid1.caltexmusic.com/hls/caltextv.m3u8
 #EXTINF:-1 tvg-id="Cartoon Network / Adult Swim" -1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cartoon-network-us.png" group-title="AriaPlus - United States",Cartoon Network / Adult Swim
 https://tvpass.org/live/CartoonNetworkEast/hd
 #EXTINF:-1 tvg-id="Catchy Comedy" -1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/catchy-comedy-us.png" group-title="AriaPlus - United States",Catchy Comedy
