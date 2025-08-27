@@ -851,16 +851,30 @@ http://81.78.159.220:7000/stream/channelid/848211560?ticket=C9B6BA61D2588D9F28D8
 #EXTGRP:AriaPlus - United States
 #EXTINF:-1 tvg-id="2x2" -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/2x2_TV_Logo.svg" group-title="AriaPlus - United States",2x2
 https://livetv.mylifeisgood.net.ru/channels/2x2.m3u8
+#EXTINF:-1 tvg-id="ABC (WABC)" -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/1200px-ABC-2021-LOGO.svg.png" group-title="AriaPlus - United States",ABC (WABC)
+http://108.14.66.42:5004/auto/v7.1
+#EXTINF:-1 tvg-id="Adult Swim (5PM-6AM ONLY)" -1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/adult-swim-ca.png" group-title="AriaPlus - United States",Adult Swim (5PM-6AM ONLY)
+https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8
+#EXTINF:-1 tvg-id="Adult Swim West (8PM-9AM ONLY)" -1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/adult-swim-ca.png" group-title="AriaPlus - United States",Adult Swim West (8PM-9AM ONLY)
+https://turnerlive.warnermediacdn.com/hls/live/2023185/aswest/noslate/VIDEO_1_5128000.m3u8
+#EXTINF:-1 tvg-id="h_1330,al_c/c9b69f_d1a226f6aeb9451bb1b1807473228d0a~mv2.png",OUTLAW" -1 tvg-logo="https://static.wixstatic.com/media/c9b69f_d1a226f6aeb9451bb1b1807473228d0a~mv2.png/v1/fit/w_2500 group-title="AriaPlus - United States",h_1330,al_c/c9b69f_d1a226f6aeb9451bb1b1807473228d0a~mv2.png",OUTLAW
+http://108.14.66.42:5004/auto/v48.4
 #EXTINF:-1 tvg-id="AMC" -1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/amc-us.png" group-title="AriaPlus - United States",AMC
 https://tvpass.org/live/AMC/hd
+#EXTINF:-1 tvg-id="Antenna TV" -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Antenna_TV_2022_logo.png" group-title="AriaPlus - United States",Antenna TV
+http://108.14.66.42:5004/auto/v11.2
 #EXTINF:-1 tvg-id="BET" -1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bet-us.png" group-title="AriaPlus - United States",BET
 http://128.230.54.128:5004/auto/v40.2
 #EXTINF:-1 tvg-id="Boing Plus" -1 group-title="AriaPlus - United States",Boing Plus
 http://195.32.117.185:9981/stream/channelid/259728202?profile=pass
 #EXTINF:-1 tvg-id="Boomerang" -1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hallmark-network-us.png" group-title="AriaPlus - United States",Boomerang
 https://tvpass.org/live/Boomerang/hd
+#EXTINF:-1 tvg-id="Bounce" -1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bounce-tv-us.png" group-title="AriaPlus - United States",Bounce
+http://108.14.66.42:5004/auto/v31.2
 #EXTINF:-1 tvg-id="Bravo" -1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bravo-us.png" group-title="AriaPlus - United States",Bravo
 https://tvpass.org/live/BravoEast/hd
+#EXTINF:-1 tvg-id="Buzzer" -1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/buzzer-us.png" group-title="AriaPlus - United States",Buzzer
+http://108.14.66.42:5004/auto/v9.3
 #EXTINF:-1 tvg-id="BYU TV" -1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/byu-tv-us.png" group-title="AriaPlus - United States",BYU TV
 http://128.230.54.128:5004/auto/v64.1
 #EXTINF:-1 tvg-id="C-SPAN" -1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/c-span-1-us.png group-title="AriaPlus - United States",C-SPAN
@@ -869,12 +883,24 @@ https://tvpass.org/live/CSPAN/hd
 https://tvpass.org/live/CSPAN2/hd
 #EXTINF:-1 tvg-id="Cartoon Network / Adult Swim" -1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cartoon-network-us.png" group-title="AriaPlus - United States",Cartoon Network / Adult Swim
 https://tvpass.org/live/CartoonNetworkEast/hd
+#EXTINF:-1 tvg-id="Catchy Comedy" -1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/catchy-comedy-us.png" group-title="AriaPlus - United States",Catchy Comedy
+http://108.14.66.42:5004/auto/v5.5
+#EXTINF:-1 tvg-id="CBS (WCBS)" -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/CBS_Logo.png" group-title="AriaPlus - United States",CBS (WCBS)
+http://108.14.66.42:5004/auto/v2.1
+#EXTINF:-1 tvg-id="Charge!" -1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/charge-us.png" group-title="AriaPlus - United States",Charge!
+http://108.14.66.42:5004/auto/v7.3
 #EXTINF:-1 tvg-id="CNN" -1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnn-us.png" group-title="AriaPlus - United States",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="Comedy Central" -1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/comedy-central-us.png" group-title="AriaPlus - United States",Comedy Central
 https://tvpass.org/live/ComedyCentralEast/hd
+#EXTINF:-1 tvg-id="Comet" -1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/comet-us.png" group-title="AriaPlus - United States",Comet
+http://108.14.66.42:5004/auto/v2.5
 #EXTINF:-1 tvg-id="CourtTV.us" tvg-name="Court TV East" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/Court_TV_2019.png" group-title="AriaPlus - United States",Court TV
 https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
+#EXTINF:-1 tvg-id="Cozi TV" -1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cozi-tv-us.png" group-title="AriaPlus - United States",Cozi TV
+http://108.14.66.42:5004/auto/v4.2
+#EXTINF:-1 tvg-id="Dabl" -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Dabl_logo.svg/1200px-Dabl_logo.svg.png" group-title="AriaPlus - United States",Dabl
+http://108.14.66.42:5004/auto/v2.3
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Deluxe_Music_Logo_2019.svg/1200px-Deluxe_Music_Logo_2019.svg.png" group-title="AriaPlus - United States",Deluxe Music SD
 https://viamotionhsi.netplus.ch/live/eds/deluxemusic/browser-dash/deluxemusic.mpd
 #EXTINF:-1 tvg-id="Discovery Family (DFC)" -1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-family-us.png" group-title="AriaPlus - United States",Discovery Family (DFC)
@@ -887,7 +913,9 @@ https://tvpass.org/live/DisneyJuniorEast/hd
 https://tvpass.org/live/DisneyXDEast/hd
 #EXTINF:-1 tvg-id="First Channel America" -1 tvg-logo="https://i.ibb.co/cXTmtzvd/1000024590-removebg-preview.png" group-title="AriaPlus - United States",First Channel America
 https://amtv.tulixcdn.com/amtv4/am4abr/index.m3u8
-#EXTINF:-1 tvg-id="Fox News" -1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-news-network-us.png" group-title="AriaPlus - United States",Fox News
+#EXTINF:-1 tvg-id="FOX (WNYW)" -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/FOX_wordmark-orange_2.svg/1200px-FOX_wordmark-orange_2.svg.png" group-title="AriaPlus - United States",FOX (WNYW)
+http://108.14.66.42:5004/auto/v5.1
+#EXTINF:-1 tvg-id="Fox News" -1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-news-channel-us.png" group-title="AriaPlus - United States",Fox News
 https://tvpass.org/live/FoxNewsChannel/hd
 #EXTINF:-1 tvg-id="FoxWeather.us" tvg-name="FOX Weather" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/1200px-Fox_Weather_logo.svg.png" group-title="AriaPlus - United States",FOX Weather
 https://247wlive.foxweather.com/stream/index.m3u8
@@ -895,6 +923,10 @@ https://247wlive.foxweather.com/stream/index.m3u8
 https://tvpass.org/live/FoxSports1/hd
 #EXTINF:-1 tvg-id="Game Shows Network" -1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/game-show-network-us.png" group-title="AriaPlus - United States",Game Shows Network
 https://tvpass.org/live/game-show-network-east/hd
+#EXTINF:-1 tvg-id="Grit" -1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/grit-us.png" group-title="AriaPlus - United States",Grit
+http://108.14.66.42:5004/auto/v31.3
+#EXTINF:-1 tvg-id="Heroes and Icons" -1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/heroes-and-icons-us.png" group-title="AriaPlus - United States",Heroes and Icons
+http://108.14.66.42:5004/auto/v9.4
 #EXTINF:-1 tvg-id="HLN" -1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hln-us.png" group-title="AriaPlus - United States",HLN
 https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="HSN2.us" tvg-name="HSN 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/HSN2_2018.svg/revision/latest?cb=20221114163129" group-title="AriaPlus - United States",HSN 2
@@ -903,20 +935,32 @@ https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn2us/master.m3u8
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1us/master.m3u8
 #EXTINF:-1 tvg-id="HSNPacific.us" tvg-name="HSN West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/HSN_logo.svg/1200px-HSN_logo.svg.png" group-title="AriaPlus - United States",HSN West
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1uswest/master.m3u8
+#EXTINF:-1 tvg-id="Ion" -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/1200px-Ion_logo.svg.png" group-title="AriaPlus - United States",Ion
+http://108.14.66.42:5004/auto/v31.1
 #EXTINF:-1 tvg-id="IonMystery.us" tvg-name="ION Mystery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/ION_Mystery_logo.svg/1200px-ION_Mystery_logo.svg.png" group-title="AriaPlus - United States",ION Mystery
 https://livetv-fa.tubi.video/ion-mystery/playlist.m3u8
+#EXTINF:-1 tvg-id="Ion Plus" -1 tvg-logo="https://cms.scrippsnetworks.com/wp-content/uploads/2022/02/IONPLusRebrand_WhiteLogo_800x318.png" group-title="AriaPlus - United States",Ion Plus
+http://108.14.66.42:5004/auto/v31.5
 #EXTINF:-1 tvg-id="LRT Plius" -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/LRT_Plius_Logo_2022.svg/250px-LRT_Plius_Logo_2022.svg.png" group-title="AriaPlus - United States",LRT Plius
 http://6f1f83d9.akadatel.com/iptv/ET85VGCD8YTWLC/6362/index.m3u8
+#EXTINF:-1 tvg-id="MeTV" -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/55/MeTV_Logo.svg/250px-MeTV_Logo.svg.png" group-title="AriaPlus - United States",MeTV
+http://108.14.66.42:5004/auto/v43.3
+#EXTINF:-1 tvg-id="MeTV Toons" -1 tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-dark/metv_toons_bw.png" group-title="AriaPlus - United States",MeTV Toons
+http://108.14.66.42:5004/auto/v43.4
 #EXTINF:-1 tvg-id="Movistar Plus SD" -1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/moviestar-plus-es.png" group-title="AriaPlus - United States",Movistar Plus SD
 http://185.189.225.150:85/LaSexta/index.m3u8
-#EXTINF:-1 tvg-id="MSNBC" -1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/trutv-us.png" group-title="AriaPlus - United States",MSNBC
+#EXTINF:-1 tvg-id="MSNBC (Soon to be MSNOW)" -1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/msnbc-us.png" group-title="AriaPlus - United States",MSNBC (Soon to be MSNOW)
 https://tvpass.org/live/MSNBC/hd
 #EXTINF:-1 tvg-id="MTV" -1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mtv-us.png" group-title="AriaPlus - United States",MTV
 https://tvpass.org/live/MTVEast/hd
 #EXTINF:-1 tvg-id="MTV2" -1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mtv-2-us.png" group-title="AriaPlus - United States",MTV2
 https://tvpass.org/live/MTV2East/hd
+#EXTINF:-1 tvg-id="MyNetworkTV (WWOR)" -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/1200px-MyNetworkTV_2D_Logo.svg.png" group-title="AriaPlus - United States",MyNetworkTV (WWOR)
+http://108.14.66.42:5004/auto/v9.1
 #EXTINF:-1 tvg-id="National Geographic" -1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/national-geographic-us.png" group-title="AriaPlus - United States",National Geographic
 https://tvpass.org/live/NationalGeographicEast/hd
+#EXTINF:-1 tvg-id="NBC (WNBC)" -1 tvg-logo="https://mediaproxy.tvtropes.org/width/1200/https://static.tvtropes.org/pmwiki/pub/images/nbc_logo_2022_verticalsvg.png" group-title="AriaPlus - United States",NBC (WNBC)
+http://108.14.66.42:5004/auto/v4.1
 #EXTINF:-1 tvg-id="Nick Jr." -1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nick-jr-us.png" group-title="AriaPlus - United States",Nick Jr.
 https://tvpass.org/live/NickJrEast/hd
 #EXTINF:-1 tvg-id="Nickelodeon" -1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nickelodeon-us.png" group-title="AriaPlus - United States",Nickelodeon
@@ -941,23 +985,45 @@ http://31.121.110.30:4000/play/a024/index.m3u8
 http://31.121.110.30:4000/play/a025/index.m3u8
 #EXTINF:-1 tvg-id="Solnce" -1 tvg-logo="https://static.wikia.nocookie.net/iepfanon/images/5/55/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%A1%D0%9E%D0%9B%D0%9D%D0%A6%D0%95.png/revision/latest?cb=20230717235537" group-title="AriaPlus - United States",Solnce
 https://tv.mediacdn.ru/live/solntse/playlist_3000k.m3u8
+#EXTINF:-1 tvg-id="Start TV" -1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/start-tv-us.png" group-title="AriaPlus - United States",Start TV
+http://108.14.66.42:5004/auto/v2.2
 #EXTINF:-1 tvg-id="SYFY" -1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/syfy-us.png" group-title="AriaPlus - United States",SYFY
 https://tvpass.org/live/SyfyEast/hd
 #EXTINF:-1 tvg-id="TBS" -1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tbs-us.png" group-title="AriaPlus - United States",TBS
-https://tvpass.org/live/TBSEast/hd
+https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="TBS West" -1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tbs-us.png" group-title="AriaPlus - United States",TBS West
+https://turnerlive.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="TCM" -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/1200px-TCM_2021.svg.png" group-title="AriaPlus - United States",TCM
+https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
+#EXTINF:-1 tvg-id="TCM" -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/1200px-TCM_2021.svg.png" group-title="AriaPlus - United States",TCM
+https://turnerlive.warnermediacdn.com/hls/live/2023187/tcmwest/noslate/VIDEO_1_5128000.m3u8
 #EXTINF:-1 tvg-id="TeenNick" -1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/teen-nick-us.png" group-title="AriaPlus - United States",TeenNick
 https://tvpass.org/live/TeenNickEast/hd
+#EXTINF:-1 tvg-id="Telemundo" -1 tvg-logo="https://www.pngmart.com/files/23/Telemundo-Logo-PNG-HD.png" group-title="AriaPlus - United States",Telemundo
+http://108.14.66.42:5004/auto/v47.1
+#EXTINF:-1 tvg-id="TeleXitos" -1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/telexitos-us.png" group-title="AriaPlus - United States",TeleXitos
+http://108.14.66.42:5004/auto/v47.2
+#EXTINF:-1 tvg-id="The CW (WPIX)" -1 tvg-logo="https://shop.cwtv.com/_next/image?url=https%3A%2F%2Fs3.us-west-2.amazonaws.com%2Fprod-cwtenantstack-citadelbucket0907d78c-ma0g5pjr1rvu%2Fcw-logo-1735322808088.webp&w=640&q=75" group-title="AriaPlus - United States",The CW (WPIX)
+http://108.14.66.42:5004/auto/v11.1
 #EXTINF:-1 tvg-id="TNT" -1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tnt-us.png" group-title="AriaPlus - United States",TNT
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="TNT West" -1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tnt-us.png" group-title="AriaPlus - United States",TNT West
+https://turnerlive.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="Toggo Plus" -1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/toggo-plus-de.png" group-title="AriaPlus - United States",Toggo Plus
 http://212.95.30.186:9981/stream/channelid/288150308?profile=pass
 #EXTINF:-1 tvg-id="TruTV" -1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tru-tv-us.png" group-title="AriaPlus - United States",TruTV
 https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="TruTV West" -1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tru-tv-us.png" group-title="AriaPlus - United States",TruTV West
+https://turnerlive.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="TV Land" -1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tv-land-us.png" group-title="AriaPlus - United States",TV Land
 https://tvpass.org/live/tv-land-eastern/hd
 #EXTINF:-1 tvg-id="TV3 Plus" -1 tvg-logo="hthttps://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/TV3_Plus_Logo_2021.svg/1200px-TV3_Plus_Logo_2021.svg.png" group-title="AriaPlus - United States",TV3 Plus
 http://6f1f83d9.akadatel.com/iptv/ET85VGCD8YTWLC/12001/index.m3u8
-#EXTINF:-1 tvg-id="UP TV" -1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/uptv-us.png" group-title="AriaPlus - United States",UP TV
+#EXTINF:-1 tvg-id="Unimás" -1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/unimas-us.png" group-title="AriaPlus - United States",Unimás
+http://108.14.66.42:5004/auto/v68.1
+#EXTINF:-1 tvg-id="Univision" -1 tvg-logo="https://www.univision.ca/wp-content/uploads/2025/05/unvision-logo-without-words.webp" group-title="AriaPlus - United States",Univision
+http://108.14.66.42:5004/auto/v41.1
+#EXTINF:-1 tvg-id="UP TV" -1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/up-tv-us.png" group-title="AriaPlus - United States",UP TV
 http://128.230.54.128:5004/auto/v53.1
 #EXTINF:-1 tvg-id="USA Network" -1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/usa-us.png" group-title="AriaPlus - United States",USA Network
 https://tvpass.org/live/USANetworkEast/hd
@@ -5151,66 +5217,6 @@ https://v14.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=rAqh-n1qsf7SE7TUb
 https://v14.thetvapp.to/hls/mlb-14/tracks-v2a1/mono.m3u8?token=6zl2Zy0JVj844qPZqnGO4g&expires=1756272946&user_id=YnBiUTFCUVppNWRBV3RFN2o1eEwyYVhSdGp5ejNCS3VTTUhKdG5XdA==
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Cincinnati Reds @ Los Angeles Dodgers - 8/27/25, 2:11:00 AM UTC" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB",Cincinnati Reds @ Los Angeles Dodgers - 8/27/25, 2:11:00 AM UTC
 https://v4.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=ubZLuNJP97mYNelSIK1zZg&expires=1756272950&user_id=YnBiUTFCUVppNWRBV3RFN2o1eEwyYVhSdGp5ejNCS3VTTUhKdG5XdA==
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Arizona Diamondbacks @ Milwaukee Brewers (08/26 7:41 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Arizona Diamondbacks @ Milwaukee Brewers (08/26 7:41 Pm Et) Hd
-https://tvpass.org/live/mlb-16/hd
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Arizona Diamondbacks @ Milwaukee Brewers (08/26 7:41 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Arizona Diamondbacks @ Milwaukee Brewers (08/26 7:41 Pm Et) Sd
-https://tvpass.org/live/mlb-16/sd
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Atlanta Braves @ Miami Marlins (08/26 6:41 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Atlanta Braves @ Miami Marlins (08/26 6:41 Pm Et) Hd
-https://tvpass.org/live/mlb-07/hd
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Atlanta Braves @ Miami Marlins (08/26 6:41 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Atlanta Braves @ Miami Marlins (08/26 6:41 Pm Et) Sd
-https://tvpass.org/live/mlb-07/sd
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Boston Red Sox @ Baltimore Orioles (08/26 6:36 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Boston Red Sox @ Baltimore Orioles (08/26 6:36 Pm Et) Hd
-https://tvpass.org/live/mlb-17/hd
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Boston Red Sox @ Baltimore Orioles (08/26 6:36 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Boston Red Sox @ Baltimore Orioles (08/26 6:36 Pm Et) Sd
-https://tvpass.org/live/mlb-17/sd
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Chicago Cubs @ San Francisco Giants (08/26 9:46 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Chicago Cubs @ San Francisco Giants (08/26 9:46 Pm Et) Hd
-https://tvpass.org/live/mlb-27/hd
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Chicago Cubs @ San Francisco Giants (08/26 9:46 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Chicago Cubs @ San Francisco Giants (08/26 9:46 Pm Et) Sd
-https://tvpass.org/live/mlb-27/sd
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Cincinnati Reds @ Los Angeles Dodgers (08/26 10:11 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Cincinnati Reds @ Los Angeles Dodgers (08/26 10:11 Pm Et) Hd
-https://tvpass.org/live/mlb-14/hd
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Cincinnati Reds @ Los Angeles Dodgers (08/26 10:11 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Cincinnati Reds @ Los Angeles Dodgers (08/26 10:11 Pm Et) Sd
-https://tvpass.org/live/mlb-14/sd
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Colorado Rockies @ Houston Astros (08/26 8:11 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Colorado Rockies @ Houston Astros (08/26 8:11 Pm Et) Hd
-https://tvpass.org/live/mlb-06/hd
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Colorado Rockies @ Houston Astros (08/26 8:11 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Colorado Rockies @ Houston Astros (08/26 8:11 Pm Et) Sd
-https://tvpass.org/live/mlb-06/sd
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Detroit Tigers @ Oakland Athletics (08/26 10:06 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Detroit Tigers @ Oakland Athletics (08/26 10:06 Pm Et) Hd
-https://tvpass.org/live/mlb-19/hd
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Detroit Tigers @ Oakland Athletics (08/26 10:06 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Detroit Tigers @ Oakland Athletics (08/26 10:06 Pm Et) Sd
-https://tvpass.org/live/mlb-19/sd
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Kansas City Royals @ Chicago White Sox (08/26 7:41 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Kansas City Royals @ Chicago White Sox (08/26 7:41 Pm Et) Hd
-https://tvpass.org/live/mlb-03/hd
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Kansas City Royals @ Chicago White Sox (08/26 7:41 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Kansas City Royals @ Chicago White Sox (08/26 7:41 Pm Et) Sd
-https://tvpass.org/live/mlb-03/sd
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Los Angeles Angels @ Texas Rangers (08/26 8:06 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Los Angeles Angels @ Texas Rangers (08/26 8:06 Pm Et) Hd
-https://tvpass.org/live/mlb-13/hd
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Los Angeles Angels @ Texas Rangers (08/26 8:06 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Los Angeles Angels @ Texas Rangers (08/26 8:06 Pm Et) Sd
-https://tvpass.org/live/mlb-13/sd
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Minnesota Twins @ Toronto Blue Jays (08/26 7:08 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Minnesota Twins @ Toronto Blue Jays (08/26 7:08 Pm Et) Hd
-https://tvpass.org/live/mlb-12/hd
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Minnesota Twins @ Toronto Blue Jays (08/26 7:08 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Minnesota Twins @ Toronto Blue Jays (08/26 7:08 Pm Et) Sd
-https://tvpass.org/live/mlb-12/sd
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Philadelphia Phillies @ New York Mets (08/26 7:11 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Philadelphia Phillies @ New York Mets (08/26 7:11 Pm Et) Hd
-https://tvpass.org/live/mlb-24/hd
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Philadelphia Phillies @ New York Mets (08/26 7:11 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Philadelphia Phillies @ New York Mets (08/26 7:11 Pm Et) Sd
-https://tvpass.org/live/mlb-24/sd
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Pittsburgh Pirates @ St. Louis Cardinals (08/26 7:46 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Pittsburgh Pirates @ St. Louis Cardinals (08/26 7:46 Pm Et) Hd
-https://tvpass.org/live/mlb-08/hd
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Pittsburgh Pirates @ St. Louis Cardinals (08/26 7:46 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Pittsburgh Pirates @ St. Louis Cardinals (08/26 7:46 Pm Et) Sd
-https://tvpass.org/live/mlb-08/sd
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="San Diego Padres @ Seattle Mariners (08/26 9:41 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",San Diego Padres @ Seattle Mariners (08/26 9:41 Pm Et) Hd
-https://tvpass.org/live/mlb-10/hd
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="San Diego Padres @ Seattle Mariners (08/26 9:41 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",San Diego Padres @ Seattle Mariners (08/26 9:41 Pm Et) Sd
-https://tvpass.org/live/mlb-10/sd
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Tampa Bay Rays @ Cleveland Guardians (08/26 6:41 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Tampa Bay Rays @ Cleveland Guardians (08/26 6:41 Pm Et) Hd
-https://tvpass.org/live/mlb-30/hd
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Tampa Bay Rays @ Cleveland Guardians (08/26 6:41 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Tampa Bay Rays @ Cleveland Guardians (08/26 6:41 Pm Et) Sd
-https://tvpass.org/live/mlb-30/sd
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Washington Nationals @ New York Yankees (08/26 7:06 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Washington Nationals @ New York Yankees (08/26 7:06 Pm Et) Hd
-https://tvpass.org/live/mlb-15/hd
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Washington Nationals @ New York Yankees (08/26 7:06 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Washington Nationals @ New York Yankees (08/26 7:06 Pm Et) Sd
-https://tvpass.org/live/mlb-15/sd
 
 #EXTGRP:MoveOnJoy
 #EXTINF:-1  tvg-name="getTV" tvg-id="CW.(KGET-TV2).+.Bakersfield,.CA.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/get-tv-us.png?raw=true" group-title="MoveOnJoy" radio="false",getTV
@@ -14379,16 +14385,6 @@ https://live-manifest.production-public.tubi.io/live/b81250ad-f476-4a4b-a824-731
 https://live-manifest.production-public.tubi.io/live/a3464610-a73b-4a07-b53d-bc5065cd340d/playlist.m3u8
 #EXTINF:-1  tvg-id="702892" tvg-logo="https://canvas-lb.tubitv.com/opts/rHjNqeTfLE8Pow==/075f8826-fdc1-4007-aed3-abe290b90ff7/CHgQeDoFMS4xLjhAAQ==" group-title="TubiTV",Xplore
 https://live-manifest.production-public.tubi.io/live/959d05b5-9ced-455b-be91-ffa0ba802e71/playlist.m3u8
-
-#EXTGRP:WNBA
-#EXTINF:-1 tvg-id="WNBA.dummy.us" tvg-name="Phoenix Mercury @ Los Angeles Sparks (08/26 10:00 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/WNBA.png" group-title="WNBA",Phoenix Mercury @ Los Angeles Sparks (08/26 10:00 Pm Et) Hd
-https://tvpass.org/live/NBATV/hd
-#EXTINF:-1 tvg-id="WNBA.dummy.us" tvg-name="Phoenix Mercury @ Los Angeles Sparks (08/26 10:00 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/WNBA.png" group-title="WNBA",Phoenix Mercury @ Los Angeles Sparks (08/26 10:00 Pm Et) Sd
-https://tvpass.org/live/NBATV/sd
-#EXTINF:-1 tvg-id="WNBA.dummy.us" tvg-name="Seattle Storm @ Indiana Fever (08/26 7:00 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/WNBA.png" group-title="WNBA",Seattle Storm @ Indiana Fever (08/26 7:00 Pm Et) Hd
-https://tvpass.org/live/CBSSportsNetworkUSA/hd
-#EXTINF:-1 tvg-id="WNBA.dummy.us" tvg-name="Seattle Storm @ Indiana Fever (08/26 7:00 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/WNBA.png" group-title="WNBA",Seattle Storm @ Indiana Fever (08/26 7:00 Pm Et) Sd
-https://tvpass.org/live/CBSSportsNetworkUSA/sd
 
 #EXTGRP:Xumo Streams
 #EXTINF:-1  tvg-name="25 Words or Less" tvg-id="99991659" tvg-logo="https://image.xumo.com/v1/channels/channel/99991659/168x168.png?type=color_onBlack" group-title="Xumo Streams",25 Words or Less
