@@ -451,6 +451,8 @@ http://fl5.moveonjoy.com/NBA_8/index.m3u8
 http://fl5.moveonjoy.com/NBA_9/index.m3u8
 #EXTINF:-1 group-title="MoveOnJoy",NBA TV
 https://fl3.moveonjoy.com/NBA_TV/index.m3u8
+#EXTINF:-1 group-title="MoveOnJoy",NBC Golf
+http://23.237.104.106:8080/USA_GOLTV/index.m3u8
 #EXTINF:-1 group-title="MoveOnJoy",NFL Network
 https://fl3.moveonjoy.com/NFL_NETWORK/index.m3u8
 #EXTINF:-1 group-title="MoveOnJoy",NFL RedZone
