@@ -443,6 +443,10 @@ https://a1xs.vip/40000043
 https://a1xs.vip/8000012
 #EXTINF:-1 group-title="MoveOnJoy",BEIN SPORTS
 http://fl1.moveonjoy.com/BEIN_SPORTS/index.m3u8
+#EXTINF:-1 group-title="MoveOnJoy",CBS SPORTS NETWORK
+https://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1 group-title="MoveOnJoy",MLB Network
+https://fl3.moveonjoy.com/MLB_NETWORK/index.m3u8
 #EXTINF:-1 group-title="MoveOnJoy",MotorTrend
 http://fl1.moveonjoy.com/MOTOR_TREND/index.m3u8
 #EXTINF:-1 group-title="MoveOnJoy",NBA 10
@@ -459,10 +463,18 @@ http://fl5.moveonjoy.com/NBA_7/index.m3u8
 http://fl5.moveonjoy.com/NBA_8/index.m3u8
 #EXTINF:-1 group-title="MoveOnJoy",NBA 9
 http://fl5.moveonjoy.com/NBA_9/index.m3u8
+#EXTINF:-1 group-title="MoveOnJoy",NBA TV
+https://fl3.moveonjoy.com/NBA_TV/index.m3u8
 #EXTINF:-1 group-title="MoveOnJoy",NBC Golf
 http://23.237.104.106:8080/USA_GOLTV/index.m3u8
+#EXTINF:-1 group-title="MoveOnJoy",NFL Network
+https://fl3.moveonjoy.com/NFL_NETWORK/index.m3u8
 #EXTINF:-1 group-title="MoveOnJoy",NFL RedZone
 http://fl1.moveonjoy.com/NFL_RedZone/index.m3u8
+#EXTINF:-1 group-title="MoveOnJoy",NHL Network
+https://fl3.moveonjoy.com/NHL_NETWORK/index.m3u8
+#EXTINF:-1 group-title="MoveOnJoy",Sportsman Channel
+https://fl3.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8
 #EXTINF:-1 group-title="MoveOnJoy",Tennis Channel
 http://fl1.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
 #EXTINF:-1 group-title="DaddyLive - Soccer Action",UEFA Europa League Draw *Group Stage (Aug 29, 2025 11:00 AM UK / Aug 29, 2025 4:00 AM MT / Aug 29, 2025 6:00 AM EST)
