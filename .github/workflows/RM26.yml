@@ -1,0 +1,37 @@
+
+name: M3U Listesi Güncelle
+
+on:
+  schedule:
+    - cron: "0 */3 * * *"   # 3 saatte bir çalışır
+  workflow_dispatch:        # Manuel çalıştırma için
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Repo'yu çek
+        uses: actions/checkout@v3
+
+      - name: Python kur
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.10"
+
+      - name: Bağımlılıkları yükle
+        run: pip install requests
+
+      - name: RM26 Scripti çalıştır
+        run: python RM26.py
+
+      - name: Çıkan dosyaları listele (debug)
+        run: ls -lah
+
+      - name: Güncel RM26.m3u commit et
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git add RM26.m3u
+          git commit -m "Otomatik RM26.m3u güncellendi" || echo "No changes to commit"
+          git push
