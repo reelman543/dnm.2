@@ -1,5 +1,20 @@
 import requests
 
+payload = {
+    "username": "SeninKullaniciAdin",    # 👈 input name="username"
+    "password": "SeninSifren",           # 👈 input name="password"
+
+    # Login butonunun value’su — bazen "Login", bazen "Giriş"
+    "login": "Login",
+
+    # Forumun eklediği gizli alanlar:
+    "creation_time": "BURAYA_HTMLDEN_ALINAN",  # hidden input
+    "form_token": "BURAYA_HTMLDEN_ALINAN",     # hidden input
+
+    # Redirect alanı olabiliyor
+    "redirect": "./index.php",
+}
+
 m3u_urls = [
     "https://sat-forum.net/download/file.php?id=28161",
 ]
