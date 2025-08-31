@@ -1,8 +1,8 @@
 import requests
 
 payload = {
-    "username": "SeninKullaniciAdin",    # 👈 input name="username"
-    "password": "SeninSifren",           # 👈 input name="password"
+    "username": "FORZA ESES",    # 👈 input name="username"
+    "password": "aTv26E",           # 👈 input name="password"
 
     # Login butonunun value’su — bazen "Login", bazen "Giriş"
     "login": "Login",
