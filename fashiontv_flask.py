@@ -77,12 +77,16 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     if args.once:
-        html = fetch_html(SOURCE_URL)
-        if html:
-            url = extract_m3u(html)
-            if url:
-                save_m3u(url)
-        sys.exit(0)
+        try:
+            html = fetch_html(SOURCE_URL)
+            if html:
+                url = extract_m3u(html)
+                if url:
+                    save_m3u(url)
+        except Exception as e:
+            logging.error("❌ Tek seferlik güncelleme hatası: %s", e)
+        finally:
+            sys.exit(0)  # Her durumda 0 döner
     else:
         thread = threading.Thread(target=update_url, daemon=True)
         thread.start()
