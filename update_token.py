@@ -3,19 +3,15 @@ import requests
 import logging
 import sys
 
-# Logging ayarı
 logging.basicConfig(
     level=logging.INFO,
     format="%(asctime)s [%(levelname)s] %(message)s",
-    handlers=[
-        logging.StreamHandler(sys.stdout)
-    ]
+    handlers=[logging.StreamHandler(sys.stdout)]
 )
 
 SOURCE_URL = "https://cool-tv-online.com/ch/fashion-tv/"
 OUTPUT_FILE = "fashiontv.m3u"
 
-# Basit regex -> m3u/m3u8 + token query
 M3U_REGEX = re.compile(r"https?://[^\s'\"<>]+?\.(?:m3u8|m3u)(?:\?[^\s'\"<>]*)?", re.IGNORECASE)
 
 def fetch_html(url):
@@ -34,13 +30,10 @@ def extract_m3u(html):
     if not matches:
         logging.warning("⚠️ Sayfada hiç m3u linki bulunamadı!")
         return None
-
-    # Token içeren varsa onu seç
     for m in matches:
         if "token" in m.lower() or "auth" in m.lower() or "sig=" in m.lower():
             logging.info("✅ Tokenli URL bulundu: %s", m)
             return m
-
     logging.info("ℹ️ Token bulunmadı, ilk m3u seçildi: %s", matches[0])
     return matches[0]
 
@@ -58,14 +51,11 @@ def main():
     if not html:
         logging.error("❌ HTML içeriği alınamadı, çıkılıyor.")
         return
-
     url = extract_m3u(html)
     if not url:
         logging.error("❌ Tokenli URL bulunamadı, çıkılıyor.")
         return
-
     save_m3u(url)
 
 if __name__ == "__main__":
     main()
-
