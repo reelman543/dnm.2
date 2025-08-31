@@ -2,7 +2,7 @@ import requests
 
 # M3U kaynak linkleri
 m3u_urls = [
-    "https://sat-forum.net/download/file.php?id=28055",
+    "https://sat-forum.net/download/file.php?id=28161",
     # Diğer M3U linklerini buraya ekleyebilirsin
 ]
 
