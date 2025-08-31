@@ -2,7 +2,7 @@ import requests
 
 # M3U kaynak linkleri
 m3u_urls = [
-    "https://raw.githubusercontent.com/kadirsener1/CanliTvListe/main/yeni.m3u",
+    "https://sat-forum.net/download/file.php?id=28055",
     # Diğer M3U linklerini buraya ekleyebilirsin
 ]
 
