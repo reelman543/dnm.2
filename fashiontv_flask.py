@@ -12,7 +12,7 @@ logging.basicConfig(
     handlers=[logging.StreamHandler(sys.stdout)]
 )
 
-SOURCE_URL = "https://cool-tv-online.com/ch/fashion-tv/"
+SOURCE_URL = "c-bbc-top-gear2/1920x1080.m3u8?ap.debug=0&ap.pt=0&ap.sid=507e96b3-ead4-4a23-9845-44fbfacb5898&ap.skip_fallback=0&ap.c=default_cohort&ap.ss=1c361ef4412a4969efed460035d8c19f"
 OUTPUT_FILE = "fashiontv.m3u"
 UPDATE_INTERVAL = 300
 
@@ -91,3 +91,4 @@ if __name__ == "__main__":
         thread = threading.Thread(target=update_url, daemon=True)
         thread.start()
         app.run(host="0.0.0.0", port=5000)
+
