@@ -2,6 +2,9 @@ import re
 import requests
 import logging
 import sys
+import threading
+import time
+from flask import Flask, jsonify
 
 logging.basicConfig(
     level=logging.INFO,
@@ -11,8 +14,12 @@ logging.basicConfig(
 
 SOURCE_URL = "https://cool-tv-online.com/ch/fashion-tv/"
 OUTPUT_FILE = "fashiontv.m3u"
+UPDATE_INTERVAL = 300
 
-M3U_REGEX = re.compile(r"https?://[^\s'\"<>]+?\.(?:m3u8|m3u)(?:\?[^\s'\"<>]*)?", re.IGNORECASE)
+M3U_REGEX = re.compile(r"https?://[^\s'"<>]+?\.(?:m3u8|m3u)(?:\?[^\s'"<>]*)?", re.IGNORECASE)
+current_url = None
+
+app = Flask(__name__)
 
 def fetch_html(url):
     headers = {"User-Agent": "Mozilla/5.0 (compatible; TokenUpdater/1.0)"}
@@ -46,16 +53,37 @@ def save_m3u(url):
     except Exception as e:
         logging.error("❌ Dosya yazılamadı: %s", e)
 
-def main():
-    html = fetch_html(SOURCE_URL)
-    if not html:
-        logging.error("❌ HTML içeriği alınamadı, çıkılıyor.")
-        return
-    url = extract_m3u(html)
-    if not url:
-        logging.error("❌ Tokenli URL bulunamadı, çıkılıyor.")
-        return
-    save_m3u(url)
+def update_url():
+    global current_url
+    while True:
+        html = fetch_html(SOURCE_URL)
+        if html:
+            url = extract_m3u(html)
+            if url:
+                current_url = url
+                save_m3u(url)
+        time.sleep(UPDATE_INTERVAL)
+
+@app.route("/current", methods=["GET"])
+def get_current():
+    if current_url:
+        return jsonify({"url": current_url})
+    return jsonify({"error": "URL henüz alınamadı"}), 503
 
 if __name__ == "__main__":
-    main()
+    import argparse
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--once", action="store_true", help="Tek seferlik çalıştır")
+    args = parser.parse_args()
+
+    if args.once:
+        html = fetch_html(SOURCE_URL)
+        if html:
+            url = extract_m3u(html)
+            if url:
+                save_m3u(url)
+        sys.exit(0)
+    else:
+        thread = threading.Thread(target=update_url, daemon=True)
+        thread.start()
+        app.run(host="0.0.0.0", port=5000)
