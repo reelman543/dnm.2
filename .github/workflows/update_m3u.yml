@@ -2,7 +2,7 @@ name: 🔄 Auto Update FashionTV M3U
 
 on:
   schedule:
-    - cron: "*/5 * * * *"  # Her 5 dakikada bir
+    - cron: "*/5 * * * *"
   workflow_dispatch:
 
 jobs:
@@ -10,28 +10,25 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Repo’yu çek
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      # Python kurulumu
       - name: Setup Python
         uses: actions/setup-python@v4
         with:
           python-version: "3.11"
 
-      # Gereksinimleri yükle
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install requests flask
 
-      # Script’i tek sefer çalıştır
-      - name: Run update script
-        run: python fashiontv_flask.py --once
+      - name: Run update script (safely)
+        run: python fashiontv_flask.py --once || echo "⚠️ Script hata verdi ama workflow devam ediyor."
 
-      # Commit ve push, değişiklik yoksa atla
       - name: Commit & Push
         run: |
           git config user.name "github-actions"
-          git config user.email "github-actions@github
+          git config user.email "github-actions@github.com"
+          git add fashiontv.m3u
+          git diff --cached --quiet || (git commit -m "🔄 Auto-update fashiontv.m3u" && git push)
