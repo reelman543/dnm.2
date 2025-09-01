@@ -335,8 +335,12 @@ https://a1xs.vip/2000010
 https://a1xs.vip/2000013
 #EXTINF:-1 group-title="A1xmedia UK Sports",Sky Sports+ FHD
 https://a1xs.vip/2000012
+#EXTINF:-1 group-title="A1xmedia UK Sports",TNT Sports 1 FHD
+https://a1xs.vip/2000021
 #EXTINF:-1 group-title="A1xmedia UK Sports",TNT Sports 2 FHD
 https://a1xs.vip/2000022
+#EXTINF:-1 group-title="A1xmedia UK Sports",TNT Sports 3 FHD
+https://a1xs.vip/2000023
 #EXTINF:-1 group-title="A1xmedia UK Sports",TNT Sports 4 FHD
 https://a1xs.vip/2000024
 #EXTINF:-1 group-title="A1xmedia UK Sports",TNT Sports Ultimate UHD
@@ -401,6 +405,8 @@ https://a1xs.vip/400051
 https://a1xs.vip/4000004
 #EXTINF:-1 group-title="A1xmedia US Sports",NESN UHD
 https://a1xs.vip/4000080
+#EXTINF:-1 group-title="A1xmedia US Sports",NFL Network
+https://a1xs.vip/40000032
 #EXTINF:-1 group-title="A1xmedia US Sports",NFL RedZone
 https://a1xs.vip/40000033
 #EXTINF:-1 group-title="A1xmedia US Sports",NHL Network
