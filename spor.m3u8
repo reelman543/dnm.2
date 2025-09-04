@@ -455,16 +455,12 @@ http://fl5.moveonjoy.com/NBA_9/index.m3u8
 https://fl3.moveonjoy.com/NBA_TV/index.m3u8
 #EXTINF:-1 group-title="MoveOnJoy",NBC Golf
 http://23.237.104.106:8080/USA_GOLTV/index.m3u8
-#EXTINF:-1 group-title="MoveOnJoy",NFL Network
-https://fl3.moveonjoy.com/NFL_NETWORK/index.m3u8
 #EXTINF:-1 group-title="MoveOnJoy",NFL RedZone
 http://fl1.moveonjoy.com/NFL_RedZone/index.m3u8
 #EXTINF:-1 group-title="MoveOnJoy",NHL Network
 https://fl3.moveonjoy.com/NHL_NETWORK/index.m3u8
 #EXTINF:-1 group-title="MoveOnJoy",Sportsman Channel
 https://fl3.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8
-#EXTINF:-1 group-title="MoveOnJoy",Tennis Channel
-http://fl1.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
 #EXTINF:-1 group-title="DaddyLive - Soccer Action",FIFA Beach Soccer World Cup : Japan vs Portugal (Sep 3, 2025 1:00 PM UK / Sep 3, 2025 6:00 AM MT / Sep 3, 2025 8:00 AM EST)
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fddy6new.newkso.ru%2Fddy6%2Fpremium540%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
 #EXTINF:-1 group-title="DaddyLive - Soccer Action",FIFA/CONMEBOL WC 2026 Qualifiers : Argentina vs Venezuela (Sep 3, 2025 8:00 PM UK / Sep 3, 2025 1:00 PM MT / Sep 3, 2025 3:00 PM EST)
