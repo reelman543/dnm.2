@@ -285,16 +285,12 @@ https://a1xs.vip/120003
 https://a1xs.vip/120001
 #EXTINF:-1 group-title="A1xmedia EU Sports",IRE: Premier Sports 1 FHD
 https://a1xs.vip/8000021
-#EXTINF:-1 group-title="A1xmedia EU Sports",IRE: Premier Sports 2 FHD
-https://a1xs.vip/8000022
 #EXTINF:-1 group-title="A1xmedia EU Sports",NL: Ziggo Sport 2 FHD
 https://a1xs.vip/140002
 #EXTINF:-1 group-title="A1xmedia EU Sports",NL: Ziggo Sport 4 FHD
 https://a1xs.vip/140004
 #EXTINF:-1 group-title="A1xmedia EU Sports",NL: Ziggo Sport FHD
 https://a1xs.vip/140001
-#EXTINF:-1 group-title="A1xmedia NZ Sports",SKY Sport 1 NZ
-https://a1xs.vip/700031
 #EXTINF:-1 group-title="A1xmedia NZ Sports",SKY Sport 2 NZ
 https://a1xs.vip/700032
 #EXTINF:-1 group-title="A1xmedia NZ Sports",SKY Sport 3 NZ
@@ -307,6 +303,8 @@ https://a1xs.vip/700035
 https://a1xs.vip/700036
 #EXTINF:-1 group-title="A1xmedia NZ Sports",SKY Sport 7 NZ
 https://a1xs.vip/700037
+#EXTINF:-1 group-title="A1xmedia UHD | 4K",Eleven Sports 1 4K
+https://a1xs.vip/14001
 #EXTINF:-1 group-title="A1xmedia UHD | 4K",HK: Now Sports 1 4k
 https://a1xs.vip/9000011
 #EXTINF:-1 group-title="A1xmedia UHD | 4K",SE: V Sport Ultra HD
@@ -363,6 +361,8 @@ https://a1xs.vip/40000047
 https://a1xs.vip/4000009
 #EXTINF:-1 group-title="A1xmedia US Sports",CBS Sports HQ FHD
 https://a1xs.vip/4000007
+#EXTINF:-1 group-title="A1xmedia US Sports",CBS Sports Network
+https://a1xs.vip/4000008
 #EXTINF:-1 group-title="A1xmedia US Sports",Chicago Sports Network
 https://a1xs.vip/4000049
 #EXTINF:-1 group-title="A1xmedia US Sports",ESPN HD
@@ -477,6 +477,12 @@ http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fnfsnew.newkso.ru%2Fnfs%2Fpr
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fddy6new.newkso.ru%2Fddy6%2Fpremium434%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
 #EXTINF:-1 group-title="DaddyLive - Golf Tee-Off",DP World Tour Amgen Irish Open (Sep 4, 2025 12:00 PM UK / Sep 4, 2025 5:00 AM MT / Sep 4, 2025 7:00 AM EST)
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2Fpremium70%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
+#EXTINF:-1 group-title="DaddyLive - Golf Tee-Off",DP World Tour Amgen Irish Open (Sep 4, 2025 12:00 PM UK / Sep 4, 2025 5:00 AM MT / Sep 4, 2025 7:00 AM EST)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fdokko1new.newkso.ru%2Fdokko1%2Fpremium591%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
+#EXTINF:-1 group-title="DaddyLive - Golf Tee-Off",DP World Tour Amgen Irish Open (Sep 4, 2025 12:00 PM UK / Sep 4, 2025 5:00 AM MT / Sep 4, 2025 7:00 AM EST)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium901%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
+#EXTINF:-1 group-title="DaddyLive - Gridiron Football",NFL : Philadelphia Eagles vs Dallas Cowboys (Sep 4, 2025 12:20 AM UK / Sep 3, 2025 5:20 PM MT / Sep 3, 2025 7:20 PM EST)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2Fpremium131%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
 #EXTINF:-1 group-title="DaddyLive - Gridiron Football",NFL : Philadelphia Eagles vs Dallas Cowboys (Sep 4, 2025 12:20 AM UK / Sep 3, 2025 5:20 PM MT / Sep 3, 2025 7:20 PM EST)
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium114%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
 #EXTINF:-1 group-title="DaddyLive - Gridiron Football",NFL : Philadelphia Eagles vs Dallas Cowboys (Sep 4, 2025 12:20 AM UK / Sep 3, 2025 5:20 PM MT / Sep 3, 2025 7:20 PM EST)
