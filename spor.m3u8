@@ -393,8 +393,6 @@ https://a1xs.vip/40000047
 https://a1xs.vip/4000009
 #EXTINF:-1 group-title="A1xmedia US Sports",CBS Sports HQ FHD
 https://a1xs.vip/4000007
-#EXTINF:-1 group-title="A1xmedia US Sports",CBS Sports Network
-https://a1xs.vip/4000008
 #EXTINF:-1 group-title="A1xmedia US Sports",Chicago Sports Network
 https://a1xs.vip/4000049
 #EXTINF:-1 group-title="A1xmedia US Sports",ESPN HD
@@ -471,8 +469,6 @@ http://fl3.moveonjoy.com/BEIN_SPORTS/index.m3u8
 https://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 #EXTINF:-1 group-title="MoveOnJoy",MLB Network
 https://fl3.moveonjoy.com/MLB_NETWORK/index.m3u8
-#EXTINF:-1 group-title="MoveOnJoy",MotorTrend
-http://fl1.moveonjoy.com/MOTOR_TREND/index.m3u8
 #EXTINF:-1 group-title="MoveOnJoy",NBA 10
 http://fl5.moveonjoy.com/NBA_10/index.m3u8
 #EXTINF:-1 group-title="MoveOnJoy",NBA 12
@@ -493,8 +489,6 @@ https://fl3.moveonjoy.com/NBA_TV/index.m3u8
 http://23.237.104.106:8080/USA_GOLTV/index.m3u8
 #EXTINF:-1 group-title="MoveOnJoy",NFL Network
 https://fl3.moveonjoy.com/NFL_NETWORK/index.m3u8
-#EXTINF:-1 group-title="MoveOnJoy",NFL RedZone
-http://fl1.moveonjoy.com/NFL_RedZone/index.m3u8
 #EXTINF:-1 group-title="MoveOnJoy",NHL Network
 https://fl3.moveonjoy.com/NHL_NETWORK/index.m3u8
 #EXTINF:-1 group-title="MoveOnJoy",Sportsman Channel
