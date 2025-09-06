@@ -249,6 +249,14 @@ http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2F
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2Fpremium459%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
 #EXTINF:-1 group-title="A1xmedia AU Sports",Fox Sports 501 FHD
 https://a1xs.vip/700001
+#EXTINF:-1 group-title="A1xmedia AU Sports",Fox Sports 503 FHD
+https://a1xs.vip/700003
+#EXTINF:-1 group-title="A1xmedia AU Sports",Fox Sports 504 FHD
+https://a1xs.vip/700004
+#EXTINF:-1 group-title="A1xmedia AU Sports",Fox Sports 506 FHD
+https://a1xs.vip/700006
+#EXTINF:-1 group-title="A1xmedia AU Sports",Fox Sports 507 FHD
+https://a1xs.vip/700007
 #EXTINF:-1 group-title="A1xmedia AU Sports",Optus Sports 1
 https://a1xs.vip/700010
 #EXTINF:-1 group-title="A1xmedia AU Sports",Optus Sports 2
@@ -273,6 +281,8 @@ https://a1xs.vip/9000001
 https://a1xs.vip/1100002
 #EXTINF:-1 group-title="A1xmedia EPL",Peacock Premier League TV
 https://a1xs.vip/1100021
+#EXTINF:-1 group-title="A1xmedia EPL",Sky Sport PL NZ
+https://a1xs.vip/700008
 #EXTINF:-1 group-title="A1xmedia EU Sports",AL: Super Sport 1 FHD
 https://a1xs.vip/130001
 #EXTINF:-1 group-title="A1xmedia EU Sports",AL: Super Sport 2 FHD
@@ -291,10 +301,14 @@ https://a1xs.vip/8000021
 https://a1xs.vip/8000022
 #EXTINF:-1 group-title="A1xmedia EU Sports",NL: Ziggo Sport 2 FHD
 https://a1xs.vip/140002
+#EXTINF:-1 group-title="A1xmedia EU Sports",NL: Ziggo Sport 3 FHD
+https://a1xs.vip/140003
 #EXTINF:-1 group-title="A1xmedia EU Sports",NL: Ziggo Sport 4 FHD
 https://a1xs.vip/140004
 #EXTINF:-1 group-title="A1xmedia EU Sports",NL: Ziggo Sport FHD
 https://a1xs.vip/140001
+#EXTINF:-1 group-title="A1xmedia NZ Sports",SKY Sport 1 NZ
+https://a1xs.vip/700031
 #EXTINF:-1 group-title="A1xmedia NZ Sports",SKY Sport 2 NZ
 https://a1xs.vip/700032
 #EXTINF:-1 group-title="A1xmedia NZ Sports",SKY Sport 3 NZ
@@ -307,6 +321,8 @@ https://a1xs.vip/700035
 https://a1xs.vip/700036
 #EXTINF:-1 group-title="A1xmedia NZ Sports",SKY Sport 7 NZ
 https://a1xs.vip/700037
+#EXTINF:-1 group-title="A1xmedia NZ Sports",Sky Sport 8 - Premier League NZ
+https://a1xs.vip/700008
 #EXTINF:-1 group-title="A1xmedia UHD | 4K",Eleven Sports 1 4K
 https://a1xs.vip/14001
 #EXTINF:-1 group-title="A1xmedia UHD | 4K",HK: Now Sports 1 4k
@@ -317,6 +333,8 @@ https://a1xs.vip/9000013
 https://a1xs.vip/2000016
 #EXTINF:-1 group-title="A1xmedia UHD | 4K",UK: Sky Sports Main Event UHD
 https://a1xs.vip/2000015
+#EXTINF:-1 group-title="A1xmedia UHD | 4K",UK: TNT Sports Ultimate UHD
+https://a1xs.vip/2000031
 #EXTINF:-1 group-title="A1xmedia UK Sports",Sky Sports Action FHD
 https://a1xs.vip/2000011
 #EXTINF:-1 group-title="A1xmedia UK Sports",Sky Sports Cricket FHD
@@ -351,6 +369,8 @@ https://a1xs.vip/2000022
 https://a1xs.vip/2000023
 #EXTINF:-1 group-title="A1xmedia UK Sports",TNT Sports 4 FHD
 https://a1xs.vip/2000024
+#EXTINF:-1 group-title="A1xmedia UK Sports",TNT Sports Ultimate UHD
+https://a1xs.vip/2000031
 #EXTINF:-1 group-title="A1xmedia US Sports",ACC Network HD
 https://a1xs.vip/40000016
 #EXTINF:-1 group-title="A1xmedia US Sports",Altitude Sports
