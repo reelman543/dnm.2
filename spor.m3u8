@@ -295,6 +295,8 @@ https://a1xs.vip/9000001
 https://a1xs.vip/1100002
 #EXTINF:-1 group-title="A1xmedia EPL",Peacock Premier League TV
 https://a1xs.vip/1100021
+#EXTINF:-1 group-title="A1xmedia EPL",Sky Sport PL NZ
+https://a1xs.vip/700008
 #EXTINF:-1 group-title="A1xmedia EU Sports",DE: Sky Sport Bundesliga FHD
 https://a1xs.vip/120002
 #EXTINF:-1 group-title="A1xmedia EU Sports",DE: Sky Sport Top Event FHD
@@ -313,8 +315,6 @@ https://a1xs.vip/140003
 https://a1xs.vip/140004
 #EXTINF:-1 group-title="A1xmedia EU Sports",NL: Ziggo Sport FHD
 https://a1xs.vip/140001
-#EXTINF:-1 group-title="A1xmedia NZ Sports",SKY Sport 1 NZ
-https://a1xs.vip/700031
 #EXTINF:-1 group-title="A1xmedia NZ Sports",SKY Sport 2 NZ
 https://a1xs.vip/700032
 #EXTINF:-1 group-title="A1xmedia NZ Sports",SKY Sport 3 NZ
@@ -327,6 +327,8 @@ https://a1xs.vip/700035
 https://a1xs.vip/700036
 #EXTINF:-1 group-title="A1xmedia NZ Sports",SKY Sport 7 NZ
 https://a1xs.vip/700037
+#EXTINF:-1 group-title="A1xmedia NZ Sports",Sky Sport 8 - Premier League NZ
+https://a1xs.vip/700008
 #EXTINF:-1 group-title="A1xmedia UHD | 4K",Eleven Sports 1 4K
 https://a1xs.vip/14001
 #EXTINF:-1 group-title="A1xmedia UHD | 4K",HK: Now Sports 1 4k
