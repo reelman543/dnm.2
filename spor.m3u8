@@ -331,8 +331,6 @@ https://a1xs.vip/700036
 https://a1xs.vip/700037
 #EXTINF:-1 group-title="A1xmedia NZ Sports",Sky Sport 8 - Premier League NZ
 https://a1xs.vip/700008
-#EXTINF:-1 group-title="A1xmedia UHD | 4K",Eleven Sports 1 4K
-https://a1xs.vip/14001
 #EXTINF:-1 group-title="A1xmedia UHD | 4K",HK: Now Sports 1 4k
 https://a1xs.vip/9000011
 #EXTINF:-1 group-title="A1xmedia UHD | 4K",SE: V Sport Ultra HD
@@ -499,10 +497,6 @@ https://fl3.moveonjoy.com/NHL_NETWORK/index.m3u8
 https://fl3.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8
 #EXTINF:-1 group-title="MoveOnJoy",Tennis Channel
 http://fl1.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
-#EXTINF:-1 group-title="DaddyLive - Soccer Action",Germany Amateur A-Junioren-Bundesliga West - Borussia Monchengladbach vs. Wuppertaler SV (Sep 7, 2025 9:00 AM UK / Sep 7, 2025 2:00 AM MT / Sep 7, 2025 4:00 AM EST)
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fddy6new.newkso.ru%2Fddy6%2Fpremium558%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
-#EXTINF:-1 group-title="DaddyLive - Soccer Action",Austria Amateur Bundesliga Women : FK Austria Wien vs. First Vienna FC 1894 (Sep 7, 2025 10:30 AM UK / Sep 7, 2025 3:30 AM MT / Sep 7, 2025 5:30 AM EST)
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fnfsnew.newkso.ru%2Fnfs%2Fpremium14%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
 #EXTINF:-1 group-title="DaddyLive - Soccer Action",Spain - Segunda Division : AlmerÃ­a vs Racing Santander (Sep 7, 2025 4:30 PM UK / Sep 7, 2025 9:30 AM MT / Sep 7, 2025 11:30 AM EST)
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fddy6new.newkso.ru%2Fddy6%2Fpremium771%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
 #EXTINF:-1 group-title="DaddyLive - Soccer Action",Spain - Segunda Division : AlmerÃ­a vs Racing Santander (Sep 7, 2025 4:30 PM UK / Sep 7, 2025 9:30 AM MT / Sep 7, 2025 11:30 AM EST)
@@ -545,14 +539,6 @@ http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2F
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium768%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
 #EXTINF:-1 group-title="DaddyLive - Gridiron Football",NFL : Jacksonville Jaguars vs Carolina Panthers (Sep 7, 2025 5:00 PM UK / Sep 7, 2025 10:00 AM MT / Sep 7, 2025 12:00 PM EST)
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fnfsnew.newkso.ru%2Fnfs%2Fpremium25%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4wfE9yaWdpbj1odHRwczovL2ZuanBsYXkueHl6fFJlZmVyZXI9aHR0cHM6Ly9mbmpwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDEuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDEuMA%3D%3D
-#EXTINF:-1 group-title="DaddyLive - Gridiron Football",NFL : Denver Broncos vs Tennessee Titans (Sep 7, 2025 8:05 PM UK / Sep 7, 2025 1:05 PM MT / Sep 7, 2025 3:05 PM EST)
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fnfsnew.newkso.ru%2Fnfs%2Fpremium930%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
-#EXTINF:-1 group-title="DaddyLive - Gridiron Football",NFL : Seattle Seahawks vs San Francisco 49ers (Sep 7, 2025 8:05 PM UK / Sep 7, 2025 1:05 PM MT / Sep 7, 2025 3:05 PM EST)
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fnfsnew.newkso.ru%2Fnfs%2Fpremium12%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
-#EXTINF:-1 group-title="DaddyLive - Gridiron Football",NFL : Seattle Seahawks vs San Francisco 49ers (Sep 7, 2025 8:05 PM UK / Sep 7, 2025 1:05 PM MT / Sep 7, 2025 3:05 PM EST)
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium111%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
-#EXTINF:-1 group-title="DaddyLive - Gridiron Football",NFL : Green Bay Packers vs Detroit Lions (Sep 7, 2025 8:25 PM UK / Sep 7, 2025 1:25 PM MT / Sep 7, 2025 3:25 PM EST)
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fnfsnew.newkso.ru%2Fnfs%2Fpremium13%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4wfE9yaWdpbj1odHRwczovL2ZuanBsYXkueHl6fFJlZmVyZXI9aHR0cHM6Ly9mbmpwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDEuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDEuMA%3D%3D
 #EXTINF:-1 group-title="DaddyLive - Gridiron Football",NFL : Green Bay Packers vs Detroit Lions (Sep 7, 2025 8:25 PM UK / Sep 7, 2025 1:25 PM MT / Sep 7, 2025 3:25 PM EST)
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium767%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
 #EXTINF:-1 group-title="DaddyLive - Gridiron Football",NFL : Green Bay Packers vs Detroit Lions (Sep 7, 2025 8:25 PM UK / Sep 7, 2025 1:25 PM MT / Sep 7, 2025 3:25 PM EST)
