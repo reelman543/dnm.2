@@ -295,8 +295,6 @@ https://a1xs.vip/9000001
 https://a1xs.vip/1100002
 #EXTINF:-1 group-title="A1xmedia EPL",Peacock Premier League TV
 https://a1xs.vip/1100021
-#EXTINF:-1 group-title="A1xmedia EPL",Sky Sport PL NZ
-https://a1xs.vip/700008
 #EXTINF:-1 group-title="A1xmedia EU Sports",AL: Super Sport 1 FHD
 https://a1xs.vip/130001
 #EXTINF:-1 group-title="A1xmedia EU Sports",AL: Super Sport 2 FHD
@@ -323,18 +321,12 @@ https://a1xs.vip/140004
 https://a1xs.vip/140001
 #EXTINF:-1 group-title="A1xmedia NZ Sports",SKY Sport 1 NZ
 https://a1xs.vip/700031
-#EXTINF:-1 group-title="A1xmedia NZ Sports",SKY Sport 3 NZ
-https://a1xs.vip/700033
-#EXTINF:-1 group-title="A1xmedia NZ Sports",SKY Sport 4 NZ
-https://a1xs.vip/700034
-#EXTINF:-1 group-title="A1xmedia NZ Sports",SKY Sport 5 NZ
-https://a1xs.vip/700035
+#EXTINF:-1 group-title="A1xmedia NZ Sports",SKY Sport 2 NZ
+https://a1xs.vip/700032
 #EXTINF:-1 group-title="A1xmedia NZ Sports",SKY Sport 6 NZ
 https://a1xs.vip/700036
 #EXTINF:-1 group-title="A1xmedia NZ Sports",SKY Sport 7 NZ
 https://a1xs.vip/700037
-#EXTINF:-1 group-title="A1xmedia NZ Sports",Sky Sport 8 - Premier League NZ
-https://a1xs.vip/700008
 #EXTINF:-1 group-title="A1xmedia UHD | 4K",Eleven Sports 1 4K
 https://a1xs.vip/14001
 #EXTINF:-1 group-title="A1xmedia UHD | 4K",HK: Now Sports 1 4k
@@ -369,10 +361,6 @@ https://a1xs.vip/2000004
 https://a1xs.vip/2000002
 #EXTINF:-1 group-title="A1xmedia UK Sports",Sky Sports Racing FHD
 https://a1xs.vip/2000010
-#EXTINF:-1 group-title="A1xmedia UK Sports",Sky Sports Tennis FHD
-https://a1xs.vip/2000013
-#EXTINF:-1 group-title="A1xmedia UK Sports",Sky Sports+ FHD
-https://a1xs.vip/2000012
 #EXTINF:-1 group-title="A1xmedia UK Sports",TNT Sports 1 FHD
 https://a1xs.vip/2000021
 #EXTINF:-1 group-title="A1xmedia UK Sports",TNT Sports 2 FHD
@@ -439,8 +427,6 @@ https://a1xs.vip/4000001
 https://a1xs.vip/400050
 #EXTINF:-1 group-title="A1xmedia US Sports",NESN FHD
 https://a1xs.vip/4000004
-#EXTINF:-1 group-title="A1xmedia US Sports",NESN UHD
-https://a1xs.vip/4000080
 #EXTINF:-1 group-title="A1xmedia US Sports",NFL Network
 https://a1xs.vip/40000032
 #EXTINF:-1 group-title="A1xmedia US Sports",NFL RedZone
