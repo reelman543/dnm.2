@@ -297,12 +297,6 @@ https://a1xs.vip/1100002
 https://a1xs.vip/1100021
 #EXTINF:-1 group-title="A1xmedia EPL",Sky Sport PL NZ
 https://a1xs.vip/700008
-#EXTINF:-1 group-title="A1xmedia EU Sports",AL: Super Sport 1 FHD
-https://a1xs.vip/130001
-#EXTINF:-1 group-title="A1xmedia EU Sports",AL: Super Sport 2 FHD
-https://a1xs.vip/130002
-#EXTINF:-1 group-title="A1xmedia EU Sports",AL: Super Sport 3 FHD
-https://a1xs.vip/130003
 #EXTINF:-1 group-title="A1xmedia EU Sports",DE: Sky Sport Bundesliga FHD
 https://a1xs.vip/120002
 #EXTINF:-1 group-title="A1xmedia EU Sports",DE: Sky Sport Top Event FHD
@@ -325,16 +319,8 @@ https://a1xs.vip/140001
 https://a1xs.vip/700031
 #EXTINF:-1 group-title="A1xmedia NZ Sports",SKY Sport 2 NZ
 https://a1xs.vip/700032
-#EXTINF:-1 group-title="A1xmedia NZ Sports",SKY Sport 3 NZ
-https://a1xs.vip/700033
-#EXTINF:-1 group-title="A1xmedia NZ Sports",SKY Sport 4 NZ
-https://a1xs.vip/700034
 #EXTINF:-1 group-title="A1xmedia NZ Sports",SKY Sport 5 NZ
 https://a1xs.vip/700035
-#EXTINF:-1 group-title="A1xmedia NZ Sports",SKY Sport 6 NZ
-https://a1xs.vip/700036
-#EXTINF:-1 group-title="A1xmedia NZ Sports",SKY Sport 7 NZ
-https://a1xs.vip/700037
 #EXTINF:-1 group-title="A1xmedia NZ Sports",Sky Sport 8 - Premier League NZ
 https://a1xs.vip/700008
 #EXTINF:-1 group-title="A1xmedia UHD | 4K",Eleven Sports 1 4K
@@ -347,6 +333,8 @@ https://a1xs.vip/9000013
 https://a1xs.vip/2000016
 #EXTINF:-1 group-title="A1xmedia UHD | 4K",UK: Sky Sports Main Event UHD
 https://a1xs.vip/2000015
+#EXTINF:-1 group-title="A1xmedia UHD | 4K",UK: TNT Sports Ultimate UHD
+https://a1xs.vip/2000031
 #EXTINF:-1 group-title="A1xmedia UK Sports",Sky Sports Action FHD
 https://a1xs.vip/2000011
 #EXTINF:-1 group-title="A1xmedia UK Sports",Sky Sports Cricket FHD
@@ -383,6 +371,8 @@ https://a1xs.vip/2000022
 https://a1xs.vip/2000023
 #EXTINF:-1 group-title="A1xmedia UK Sports",TNT Sports 4 FHD
 https://a1xs.vip/2000024
+#EXTINF:-1 group-title="A1xmedia UK Sports",TNT Sports Ultimate UHD
+https://a1xs.vip/2000031
 #EXTINF:-1 group-title="A1xmedia US Sports",ACC Network HD
 https://a1xs.vip/40000016
 #EXTINF:-1 group-title="A1xmedia US Sports",Altitude Sports
