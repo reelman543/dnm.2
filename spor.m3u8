@@ -469,12 +469,6 @@ https://a1xs.vip/40000043
 https://a1xs.vip/8000011
 #EXTINF:-1 group-title="A1xmedia World Sports",Star Sports Select 2 FHD
 https://a1xs.vip/8000012
-#EXTINF:-1 group-title="MoveOnJoy",BEIN SPORTS
-http://fl3.moveonjoy.com/BEIN_SPORTS/index.m3u8
-#EXTINF:-1 group-title="MoveOnJoy",CBS SPORTS NETWORK
-https://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
-#EXTINF:-1 group-title="MoveOnJoy",MLB Network
-https://fl3.moveonjoy.com/MLB_NETWORK/index.m3u8
 #EXTINF:-1 group-title="MoveOnJoy",MotorTrend
 http://fl1.moveonjoy.com/MOTOR_TREND/index.m3u8
 #EXTINF:-1 group-title="MoveOnJoy",NBA 10
@@ -491,18 +485,10 @@ http://fl5.moveonjoy.com/NBA_7/index.m3u8
 http://fl5.moveonjoy.com/NBA_8/index.m3u8
 #EXTINF:-1 group-title="MoveOnJoy",NBA 9
 http://fl5.moveonjoy.com/NBA_9/index.m3u8
-#EXTINF:-1 group-title="MoveOnJoy",NBA TV
-https://fl3.moveonjoy.com/NBA_TV/index.m3u8
 #EXTINF:-1 group-title="MoveOnJoy",NBC Golf
 http://23.237.104.106:8080/USA_GOLTV/index.m3u8
-#EXTINF:-1 group-title="MoveOnJoy",NFL Network
-https://fl3.moveonjoy.com/NFL_NETWORK/index.m3u8
 #EXTINF:-1 group-title="MoveOnJoy",NFL RedZone
 http://fl1.moveonjoy.com/NFL_RedZone/index.m3u8
-#EXTINF:-1 group-title="MoveOnJoy",NHL Network
-https://fl3.moveonjoy.com/NHL_NETWORK/index.m3u8
-#EXTINF:-1 group-title="MoveOnJoy",Sportsman Channel
-https://fl3.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8
 #EXTINF:-1 group-title="MoveOnJoy",Tennis Channel
 http://fl1.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
 #EXTINF:-1 group-title="DaddyLive - Golf Tee-Off",College Golf Folds of Honor Collegiate-First Round (Sep 8-2025 1:30 PM UK / Sep 8-2025 6:30 AM MT / Sep 8-2025 8:30 AM EST)
@@ -511,6 +497,8 @@ http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2F
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium318%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
 #EXTINF:-1 group-title="DaddyLive - Golf Tee-Off",Golf Central Special College Golf Fall Preview â€¢ Live (Sep 8-2025 12:00 AM UK / Sep 7-2025 5:00 PM MT / Sep 7-2025 7:00 PM EST)
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium318%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
+#EXTINF:-1 group-title="DaddyLive - Gridiron Football",NFL : Chicago Bears vs Minnesota Vikings (Sep 8-2025 12:15 AM UK / Sep 7-2025 5:15 PM MT / Sep 7-2025 7:15 PM EST)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium44%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
 #EXTINF:-1 group-title="DaddyLive - Gridiron Football",NFL : Chicago Bears vs Minnesota Vikings (Sep 8-2025 12:15 AM UK / Sep 7-2025 5:15 PM MT / Sep 7-2025 7:15 PM EST)
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fdokko1new.newkso.ru%2Fdokko1%2Fpremium839%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
 #EXTINF:-1 group-title="DaddyLive - Gridiron Football",NFL : Chicago Bears vs Minnesota Vikings (Sep 8-2025 12:15 AM UK / Sep 7-2025 5:15 PM MT / Sep 7-2025 7:15 PM EST)
@@ -589,10 +577,14 @@ http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2F
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium111%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
 #EXTINF:-1 group-title="DaddyLive - Diamond Baseball",MLB : Texas Rangers vs Milwaukee Brewers (Sep 9-2025 12:05 AM UK / Sep 8-2025 5:05 PM MT / Sep 8-2025 7:05 PM EST)
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium113%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
-#EXTINF:-1 group-title="DaddyLive - Diamond Baseball",MLB : Texas Rangers vs Milwaukee Brewers (Sep 9-2025 12:05 AM UK / Sep 8-2025 5:05 PM MT / Sep 8-2025 7:05 PM EST)
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium114%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
-#EXTINF:-1 group-title="DaddyLive - Diamond Baseball",MLB : Texas Rangers vs Milwaukee Brewers (Sep 9-2025 12:05 AM UK / Sep 8-2025 5:05 PM MT / Sep 8-2025 7:05 PM EST)
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium115%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
+#EXTINF:-1 group-title="DaddyLive - Diamond Baseball",MLB : Seattle Mariners vs St. Louis Cardinals (Sep 9-2025 1:40 AM UK / Sep 8-2025 6:40 PM MT / Sep 8-2025 8:40 PM EST)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fnfsnew.newkso.ru%2Fnfs%2Fpremium17%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
+#EXTINF:-1 group-title="DaddyLive - Diamond Baseball",MLB : Seattle Mariners vs St. Louis Cardinals (Sep 9-2025 1:40 AM UK / Sep 8-2025 6:40 PM MT / Sep 8-2025 8:40 PM EST)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium896%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
+#EXTINF:-1 group-title="DaddyLive - Diamond Baseball",MLB : Oakland Athletics vs Boston Red Sox (Sep 9-2025 2:05 AM UK / Sep 8-2025 7:05 PM MT / Sep 8-2025 9:05 PM EST)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fnfsnew.newkso.ru%2Fnfs%2Fpremium762%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
+#EXTINF:-1 group-title="DaddyLive - Diamond Baseball",MLB : Oakland Athletics vs Boston Red Sox (Sep 9-2025 2:05 AM UK / Sep 8-2025 7:05 PM MT / Sep 8-2025 9:05 PM EST)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2Fpremium755%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
 #EXTINF:-1 group-title="DaddyLive - Diamond Baseball",MLB : Oakland Athletics vs Boston Red Sox (Sep 9-2025 2:05 AM UK / Sep 8-2025 7:05 PM MT / Sep 8-2025 9:05 PM EST)
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fdokko1new.newkso.ru%2Fdokko1%2Fpremium833%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
 #EXTINF:-1 group-title="DaddyLive - Hoops Central",EuroBasket 2025 quarter-final : Turkey vs Poland (Sep 9-2025 1:50 PM UK / Sep 9-2025 6:50 AM MT / Sep 9-2025 8:50 AM EST)
