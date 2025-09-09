@@ -281,6 +281,8 @@ https://a1xs.vip/6000014
 https://a1xs.vip/6000012
 #EXTINF:-1 group-title="A1xmedia CA Sports",Sportsnet Ontario FHD
 https://a1xs.vip/6000011
+#EXTINF:-1 group-title="A1xmedia CA Sports",TSN1
+https://a1xs.vip/6000001
 #EXTINF:-1 group-title="A1xmedia CA Sports",TSN4
 https://a1xs.vip/6000004
 #EXTINF:-1 group-title="A1xmedia CA Sports",TSN5
@@ -319,8 +321,16 @@ https://a1xs.vip/140001
 https://a1xs.vip/700031
 #EXTINF:-1 group-title="A1xmedia NZ Sports",SKY Sport 2 NZ
 https://a1xs.vip/700032
+#EXTINF:-1 group-title="A1xmedia NZ Sports",SKY Sport 3 NZ
+https://a1xs.vip/700033
+#EXTINF:-1 group-title="A1xmedia NZ Sports",SKY Sport 4 NZ
+https://a1xs.vip/700034
 #EXTINF:-1 group-title="A1xmedia NZ Sports",SKY Sport 5 NZ
 https://a1xs.vip/700035
+#EXTINF:-1 group-title="A1xmedia NZ Sports",SKY Sport 6 NZ
+https://a1xs.vip/700036
+#EXTINF:-1 group-title="A1xmedia NZ Sports",SKY Sport 7 NZ
+https://a1xs.vip/700037
 #EXTINF:-1 group-title="A1xmedia NZ Sports",Sky Sport 8 - Premier League NZ
 https://a1xs.vip/700008
 #EXTINF:-1 group-title="A1xmedia UHD | 4K",Eleven Sports 1 4K
