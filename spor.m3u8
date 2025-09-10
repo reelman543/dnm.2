@@ -321,6 +321,14 @@ https://a1xs.vip/700031
 https://a1xs.vip/700032
 #EXTINF:-1 group-title="A1xmedia NZ Sports",SKY Sport 3 NZ
 https://a1xs.vip/700033
+#EXTINF:-1 group-title="A1xmedia NZ Sports",SKY Sport 4 NZ
+https://a1xs.vip/700034
+#EXTINF:-1 group-title="A1xmedia NZ Sports",SKY Sport 5 NZ
+https://a1xs.vip/700035
+#EXTINF:-1 group-title="A1xmedia NZ Sports",SKY Sport 6 NZ
+https://a1xs.vip/700036
+#EXTINF:-1 group-title="A1xmedia NZ Sports",SKY Sport 7 NZ
+https://a1xs.vip/700037
 #EXTINF:-1 group-title="A1xmedia NZ Sports",Sky Sport 8 - Premier League NZ
 https://a1xs.vip/700008
 #EXTINF:-1 group-title="A1xmedia UHD | 4K",Eleven Sports 1 4K
@@ -357,6 +365,8 @@ https://a1xs.vip/2000012
 https://a1xs.vip/2000021
 #EXTINF:-1 group-title="A1xmedia UK Sports",TNT Sports 2 FHD
 https://a1xs.vip/2000022
+#EXTINF:-1 group-title="A1xmedia UK Sports",TNT Sports 3 FHD
+https://a1xs.vip/2000023
 #EXTINF:-1 group-title="A1xmedia UK Sports",TNT Sports 4 FHD
 https://a1xs.vip/2000024
 #EXTINF:-1 group-title="A1xmedia UK Sports",TNT Sports Ultimate UHD
@@ -433,12 +443,26 @@ https://a1xs.vip/40000045
 https://a1xs.vip/40000040
 #EXTINF:-1 group-title="A1xmedia US Sports",Willow Cricket FHD
 https://a1xs.vip/40000042
+#EXTINF:-1 group-title="MoveOnJoy",BEIN SPORTS
+http://fl3.moveonjoy.com/BEIN_SPORTS/index.m3u8
+#EXTINF:-1 group-title="MoveOnJoy",CBS SPORTS NETWORK
+https://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1 group-title="MoveOnJoy",MLB Network
+https://fl3.moveonjoy.com/MLB_NETWORK/index.m3u8
 #EXTINF:-1 group-title="MoveOnJoy",MotorTrend
 http://fl1.moveonjoy.com/MOTOR_TREND/index.m3u8
+#EXTINF:-1 group-title="MoveOnJoy",NBA TV
+https://fl3.moveonjoy.com/NBA_TV/index.m3u8
 #EXTINF:-1 group-title="MoveOnJoy",NBC Golf
 http://23.237.104.106:8080/USA_GOLTV/index.m3u8
+#EXTINF:-1 group-title="MoveOnJoy",NFL Network
+https://fl3.moveonjoy.com/NFL_NETWORK/index.m3u8
 #EXTINF:-1 group-title="MoveOnJoy",NFL RedZone
 http://fl1.moveonjoy.com/NFL_RedZone/index.m3u8
+#EXTINF:-1 group-title="MoveOnJoy",NHL Network
+https://fl3.moveonjoy.com/NHL_NETWORK/index.m3u8
+#EXTINF:-1 group-title="MoveOnJoy",Sportsman Channel
+https://fl3.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8
 #EXTINF:-1 group-title="MoveOnJoy",Tennis Channel
 http://fl1.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
 #EXTINF:-1 group-title="DaddyLive - Soccer Action",United States - NCAA Women's Soccer : Wake Forest vs Miami (FL) (Sep 10-2025 12:00 AM UK / Sep 9-2025 5:00 PM MT / Sep 9-2025 7:00 PM EST)
