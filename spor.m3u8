@@ -311,6 +311,8 @@ https://a1xs.vip/120003
 https://a1xs.vip/120001
 #EXTINF:-1 group-title="A1xmedia EU Sports",IRE: Premier Sports 1 FHD
 https://a1xs.vip/8000021
+#EXTINF:-1 group-title="A1xmedia EU Sports",IRE: Premier Sports 2 FHD
+https://a1xs.vip/8000022
 #EXTINF:-1 group-title="A1xmedia EU Sports",NL: Ziggo Sport 2 FHD
 https://a1xs.vip/140002
 #EXTINF:-1 group-title="A1xmedia EU Sports",NL: Ziggo Sport 3 FHD
@@ -439,6 +441,8 @@ https://a1xs.vip/4000001
 https://a1xs.vip/400050
 #EXTINF:-1 group-title="A1xmedia US Sports",NESN FHD
 https://a1xs.vip/4000004
+#EXTINF:-1 group-title="A1xmedia US Sports",NFL Network
+https://a1xs.vip/40000032
 #EXTINF:-1 group-title="A1xmedia US Sports",NFL RedZone
 https://a1xs.vip/40000033
 #EXTINF:-1 group-title="A1xmedia US Sports",NHL Network
