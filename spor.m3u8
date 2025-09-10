@@ -295,6 +295,8 @@ https://a1xs.vip/9000001
 https://a1xs.vip/1100002
 #EXTINF:-1 group-title="A1xmedia EPL",Peacock Premier League TV
 https://a1xs.vip/1100021
+#EXTINF:-1 group-title="A1xmedia EPL",Sky Sport PL NZ
+https://a1xs.vip/700008
 #EXTINF:-1 group-title="A1xmedia EU Sports",AL: Super Sport 1 FHD
 https://a1xs.vip/130001
 #EXTINF:-1 group-title="A1xmedia EU Sports",AL: Super Sport 2 FHD
@@ -313,8 +315,14 @@ https://a1xs.vip/140002
 https://a1xs.vip/140003
 #EXTINF:-1 group-title="A1xmedia EU Sports",NL: Ziggo Sport 4 FHD
 https://a1xs.vip/140004
-#EXTINF:-1 group-title="A1xmedia EU Sports",NL: Ziggo Sport FHD
-https://a1xs.vip/140001
+#EXTINF:-1 group-title="A1xmedia NZ Sports",SKY Sport 1 NZ
+https://a1xs.vip/700031
+#EXTINF:-1 group-title="A1xmedia NZ Sports",SKY Sport 2 NZ
+https://a1xs.vip/700032
+#EXTINF:-1 group-title="A1xmedia NZ Sports",SKY Sport 3 NZ
+https://a1xs.vip/700033
+#EXTINF:-1 group-title="A1xmedia NZ Sports",Sky Sport 8 - Premier League NZ
+https://a1xs.vip/700008
 #EXTINF:-1 group-title="A1xmedia UHD | 4K",Eleven Sports 1 4K
 https://a1xs.vip/14001
 #EXTINF:-1 group-title="A1xmedia UHD | 4K",HK: Now Sports 1 4k
@@ -327,26 +335,16 @@ https://a1xs.vip/2000016
 https://a1xs.vip/2000015
 #EXTINF:-1 group-title="A1xmedia UHD | 4K",UK: TNT Sports Ultimate UHD
 https://a1xs.vip/2000031
-#EXTINF:-1 group-title="A1xmedia UK Sports",Sky Sports Action FHD
-https://a1xs.vip/2000011
-#EXTINF:-1 group-title="A1xmedia UK Sports",Sky Sports Cricket FHD
-https://a1xs.vip/2000006
-#EXTINF:-1 group-title="A1xmedia UK Sports",Sky Sports F1 FHD
-https://a1xs.vip/2000005
 #EXTINF:-1 group-title="A1xmedia UK Sports",Sky Sports F1 UHD
 https://a1xs.vip/2000016
 #EXTINF:-1 group-title="A1xmedia UK Sports",Sky Sports Football FHD
 https://a1xs.vip/2000003
-#EXTINF:-1 group-title="A1xmedia UK Sports",Sky Sports Golf FHD
-https://a1xs.vip/2000009
 #EXTINF:-1 group-title="A1xmedia UK Sports",Sky Sports Main Event FHD
 https://a1xs.vip/2000001
 #EXTINF:-1 group-title="A1xmedia UK Sports",Sky Sports Main Event UHD
 https://a1xs.vip/2000015
 #EXTINF:-1 group-title="A1xmedia UK Sports",Sky Sports Mix FHD
 https://a1xs.vip/2000008
-#EXTINF:-1 group-title="A1xmedia UK Sports",Sky Sports News FHD
-https://a1xs.vip/2000004
 #EXTINF:-1 group-title="A1xmedia UK Sports",Sky Sports Premier League FHD
 https://a1xs.vip/2000002
 #EXTINF:-1 group-title="A1xmedia UK Sports",Sky Sports Racing FHD
@@ -359,8 +357,6 @@ https://a1xs.vip/2000012
 https://a1xs.vip/2000021
 #EXTINF:-1 group-title="A1xmedia UK Sports",TNT Sports 2 FHD
 https://a1xs.vip/2000022
-#EXTINF:-1 group-title="A1xmedia UK Sports",TNT Sports 3 FHD
-https://a1xs.vip/2000023
 #EXTINF:-1 group-title="A1xmedia UK Sports",TNT Sports 4 FHD
 https://a1xs.vip/2000024
 #EXTINF:-1 group-title="A1xmedia UK Sports",TNT Sports Ultimate UHD
@@ -379,12 +375,8 @@ https://a1xs.vip/4000007
 https://a1xs.vip/4000008
 #EXTINF:-1 group-title="A1xmedia US Sports",Chicago Sports Network
 https://a1xs.vip/4000049
-#EXTINF:-1 group-title="A1xmedia US Sports",ESPN HD
-https://a1xs.vip/40000011
 #EXTINF:-1 group-title="A1xmedia US Sports",ESPN News HD
 https://a1xs.vip/40000014
-#EXTINF:-1 group-title="A1xmedia US Sports",ESPN2 HD
-https://a1xs.vip/40000012
 #EXTINF:-1 group-title="A1xmedia US Sports",ESPNU HD
 https://a1xs.vip/40000013
 #EXTINF:-1 group-title="A1xmedia US Sports",FanDuel Sports Florida
@@ -441,8 +433,6 @@ https://a1xs.vip/40000045
 https://a1xs.vip/40000040
 #EXTINF:-1 group-title="A1xmedia US Sports",Willow Cricket FHD
 https://a1xs.vip/40000042
-#EXTINF:-1 group-title="A1xmedia US Sports",Willow Cricket Xtra
-https://a1xs.vip/40000043
 #EXTINF:-1 group-title="MoveOnJoy",MotorTrend
 http://fl1.moveonjoy.com/MOTOR_TREND/index.m3u8
 #EXTINF:-1 group-title="MoveOnJoy",NBC Golf
