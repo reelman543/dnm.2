@@ -285,8 +285,6 @@ https://a1xs.vip/6000011
 https://a1xs.vip/6000001
 #EXTINF:-1 group-title="A1xmedia CA Sports",TSN4
 https://a1xs.vip/6000004
-#EXTINF:-1 group-title="A1xmedia CA Sports",TSN5
-https://a1xs.vip/6000005
 #EXTINF:-1 group-title="A1xmedia EPL",Astro Premier League
 https://a1xs.vip/1100030
 #EXTINF:-1 group-title="A1xmedia EPL",Astro Premier League 2
@@ -323,6 +321,8 @@ https://a1xs.vip/140004
 https://a1xs.vip/140001
 #EXTINF:-1 group-title="A1xmedia NZ Sports",SKY Sport 2 NZ
 https://a1xs.vip/700032
+#EXTINF:-1 group-title="A1xmedia NZ Sports",SKY Sport 3 NZ
+https://a1xs.vip/700033
 #EXTINF:-1 group-title="A1xmedia NZ Sports",SKY Sport 4 NZ
 https://a1xs.vip/700034
 #EXTINF:-1 group-title="A1xmedia NZ Sports",SKY Sport 5 NZ
@@ -375,10 +375,6 @@ https://a1xs.vip/2000013
 https://a1xs.vip/2000012
 #EXTINF:-1 group-title="A1xmedia UK Sports",TNT Sports 1 FHD
 https://a1xs.vip/2000021
-#EXTINF:-1 group-title="A1xmedia UK Sports",TNT Sports 2 FHD
-https://a1xs.vip/2000022
-#EXTINF:-1 group-title="A1xmedia UK Sports",TNT Sports 3 FHD
-https://a1xs.vip/2000023
 #EXTINF:-1 group-title="A1xmedia UK Sports",TNT Sports 4 FHD
 https://a1xs.vip/2000024
 #EXTINF:-1 group-title="A1xmedia UK Sports",TNT Sports Ultimate UHD
@@ -465,20 +461,6 @@ https://a1xs.vip/40000043
 https://a1xs.vip/8000012
 #EXTINF:-1 group-title="MoveOnJoy",MotorTrend
 http://fl1.moveonjoy.com/MOTOR_TREND/index.m3u8
-#EXTINF:-1 group-title="MoveOnJoy",NBA 10
-http://fl5.moveonjoy.com/NBA_10/index.m3u8
-#EXTINF:-1 group-title="MoveOnJoy",NBA 12
-http://fl5.moveonjoy.com/NBA_12/index.m3u8
-#EXTINF:-1 group-title="MoveOnJoy",NBA 5
-http://fl5.moveonjoy.com/NBA_5/index.m3u8
-#EXTINF:-1 group-title="MoveOnJoy",NBA 6
-http://fl5.moveonjoy.com/NBA_6/index.m3u8
-#EXTINF:-1 group-title="MoveOnJoy",NBA 7
-http://fl5.moveonjoy.com/NBA_7/index.m3u8
-#EXTINF:-1 group-title="MoveOnJoy",NBA 8
-http://fl5.moveonjoy.com/NBA_8/index.m3u8
-#EXTINF:-1 group-title="MoveOnJoy",NBA 9
-http://fl5.moveonjoy.com/NBA_9/index.m3u8
 #EXTINF:-1 group-title="MoveOnJoy",NBC Golf
 http://23.237.104.106:8080/USA_GOLTV/index.m3u8
 #EXTINF:-1 group-title="MoveOnJoy",NFL RedZone
