@@ -285,6 +285,8 @@ https://a1xs.vip/6000011
 https://a1xs.vip/6000001
 #EXTINF:-1 group-title="A1xmedia CA Sports",TSN4
 https://a1xs.vip/6000004
+#EXTINF:-1 group-title="A1xmedia CA Sports",TSN5
+https://a1xs.vip/6000005
 #EXTINF:-1 group-title="A1xmedia EPL",Astro Premier League
 https://a1xs.vip/1100030
 #EXTINF:-1 group-title="A1xmedia EPL",Astro Premier League 2
@@ -315,6 +317,8 @@ https://a1xs.vip/140002
 https://a1xs.vip/140003
 #EXTINF:-1 group-title="A1xmedia EU Sports",NL: Ziggo Sport 4 FHD
 https://a1xs.vip/140004
+#EXTINF:-1 group-title="A1xmedia EU Sports",NL: Ziggo Sport FHD
+https://a1xs.vip/140001
 #EXTINF:-1 group-title="A1xmedia NZ Sports",SKY Sport 1 NZ
 https://a1xs.vip/700031
 #EXTINF:-1 group-title="A1xmedia NZ Sports",SKY Sport 2 NZ
@@ -343,16 +347,26 @@ https://a1xs.vip/2000016
 https://a1xs.vip/2000015
 #EXTINF:-1 group-title="A1xmedia UHD | 4K",UK: TNT Sports Ultimate UHD
 https://a1xs.vip/2000031
+#EXTINF:-1 group-title="A1xmedia UK Sports",Sky Sports Action FHD
+https://a1xs.vip/2000011
+#EXTINF:-1 group-title="A1xmedia UK Sports",Sky Sports Cricket FHD
+https://a1xs.vip/2000006
+#EXTINF:-1 group-title="A1xmedia UK Sports",Sky Sports F1 FHD
+https://a1xs.vip/2000005
 #EXTINF:-1 group-title="A1xmedia UK Sports",Sky Sports F1 UHD
 https://a1xs.vip/2000016
 #EXTINF:-1 group-title="A1xmedia UK Sports",Sky Sports Football FHD
 https://a1xs.vip/2000003
+#EXTINF:-1 group-title="A1xmedia UK Sports",Sky Sports Golf FHD
+https://a1xs.vip/2000009
 #EXTINF:-1 group-title="A1xmedia UK Sports",Sky Sports Main Event FHD
 https://a1xs.vip/2000001
 #EXTINF:-1 group-title="A1xmedia UK Sports",Sky Sports Main Event UHD
 https://a1xs.vip/2000015
 #EXTINF:-1 group-title="A1xmedia UK Sports",Sky Sports Mix FHD
 https://a1xs.vip/2000008
+#EXTINF:-1 group-title="A1xmedia UK Sports",Sky Sports News FHD
+https://a1xs.vip/2000004
 #EXTINF:-1 group-title="A1xmedia UK Sports",Sky Sports Premier League FHD
 https://a1xs.vip/2000002
 #EXTINF:-1 group-title="A1xmedia UK Sports",Sky Sports Racing FHD
@@ -385,8 +399,12 @@ https://a1xs.vip/4000007
 https://a1xs.vip/4000008
 #EXTINF:-1 group-title="A1xmedia US Sports",Chicago Sports Network
 https://a1xs.vip/4000049
+#EXTINF:-1 group-title="A1xmedia US Sports",ESPN HD
+https://a1xs.vip/40000011
 #EXTINF:-1 group-title="A1xmedia US Sports",ESPN News HD
 https://a1xs.vip/40000014
+#EXTINF:-1 group-title="A1xmedia US Sports",ESPN2 HD
+https://a1xs.vip/40000012
 #EXTINF:-1 group-title="A1xmedia US Sports",ESPNU HD
 https://a1xs.vip/40000013
 #EXTINF:-1 group-title="A1xmedia US Sports",FanDuel Sports Florida
@@ -409,8 +427,6 @@ https://a1xs.vip/4000056
 https://a1xs.vip/40000046
 #EXTINF:-1 group-title="A1xmedia US Sports",FS1 HD
 https://a1xs.vip/40000021
-#EXTINF:-1 group-title="A1xmedia US Sports",FS2 HD
-https://a1xs.vip/40000022
 #EXTINF:-1 group-title="A1xmedia US Sports",Golf Channel USA FHD
 https://a1xs.vip/40000060
 #EXTINF:-1 group-title="A1xmedia US Sports",Marquee Sports Network
@@ -443,6 +459,8 @@ https://a1xs.vip/40000045
 https://a1xs.vip/40000040
 #EXTINF:-1 group-title="A1xmedia US Sports",Willow Cricket FHD
 https://a1xs.vip/40000042
+#EXTINF:-1 group-title="A1xmedia US Sports",Willow Cricket Xtra
+https://a1xs.vip/40000043
 #EXTINF:-1 group-title="MoveOnJoy",BEIN SPORTS
 http://fl3.moveonjoy.com/BEIN_SPORTS/index.m3u8
 #EXTINF:-1 group-title="MoveOnJoy",CBS SPORTS NETWORK
@@ -451,6 +469,20 @@ https://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 https://fl3.moveonjoy.com/MLB_NETWORK/index.m3u8
 #EXTINF:-1 group-title="MoveOnJoy",MotorTrend
 http://fl1.moveonjoy.com/MOTOR_TREND/index.m3u8
+#EXTINF:-1 group-title="MoveOnJoy",NBA 10
+http://fl5.moveonjoy.com/NBA_10/index.m3u8
+#EXTINF:-1 group-title="MoveOnJoy",NBA 12
+http://fl5.moveonjoy.com/NBA_12/index.m3u8
+#EXTINF:-1 group-title="MoveOnJoy",NBA 5
+http://fl5.moveonjoy.com/NBA_5/index.m3u8
+#EXTINF:-1 group-title="MoveOnJoy",NBA 6
+http://fl5.moveonjoy.com/NBA_6/index.m3u8
+#EXTINF:-1 group-title="MoveOnJoy",NBA 7
+http://fl5.moveonjoy.com/NBA_7/index.m3u8
+#EXTINF:-1 group-title="MoveOnJoy",NBA 8
+http://fl5.moveonjoy.com/NBA_8/index.m3u8
+#EXTINF:-1 group-title="MoveOnJoy",NBA 9
+http://fl5.moveonjoy.com/NBA_9/index.m3u8
 #EXTINF:-1 group-title="MoveOnJoy",NBA TV
 https://fl3.moveonjoy.com/NBA_TV/index.m3u8
 #EXTINF:-1 group-title="MoveOnJoy",NBC Golf
