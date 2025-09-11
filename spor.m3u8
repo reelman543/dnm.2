@@ -465,40 +465,12 @@ https://a1xs.vip/40000040
 https://a1xs.vip/40000042
 #EXTINF:-1 group-title="A1xmedia US Sports",Willow Cricket Xtra
 https://a1xs.vip/40000043
-#EXTINF:-1 group-title="MoveOnJoy",BEIN SPORTS
-http://fl3.moveonjoy.com/BEIN_SPORTS/index.m3u8
-#EXTINF:-1 group-title="MoveOnJoy",CBS SPORTS NETWORK
-https://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
-#EXTINF:-1 group-title="MoveOnJoy",MLB Network
-https://fl3.moveonjoy.com/MLB_NETWORK/index.m3u8
 #EXTINF:-1 group-title="MoveOnJoy",MotorTrend
 http://fl1.moveonjoy.com/MOTOR_TREND/index.m3u8
-#EXTINF:-1 group-title="MoveOnJoy",NBA 10
-http://fl5.moveonjoy.com/NBA_10/index.m3u8
-#EXTINF:-1 group-title="MoveOnJoy",NBA 12
-http://fl5.moveonjoy.com/NBA_12/index.m3u8
-#EXTINF:-1 group-title="MoveOnJoy",NBA 5
-http://fl5.moveonjoy.com/NBA_5/index.m3u8
-#EXTINF:-1 group-title="MoveOnJoy",NBA 6
-http://fl5.moveonjoy.com/NBA_6/index.m3u8
-#EXTINF:-1 group-title="MoveOnJoy",NBA 7
-http://fl5.moveonjoy.com/NBA_7/index.m3u8
-#EXTINF:-1 group-title="MoveOnJoy",NBA 8
-http://fl5.moveonjoy.com/NBA_8/index.m3u8
-#EXTINF:-1 group-title="MoveOnJoy",NBA 9
-http://fl5.moveonjoy.com/NBA_9/index.m3u8
-#EXTINF:-1 group-title="MoveOnJoy",NBA TV
-https://fl3.moveonjoy.com/NBA_TV/index.m3u8
 #EXTINF:-1 group-title="MoveOnJoy",NBC Golf
 http://23.237.104.106:8080/USA_GOLTV/index.m3u8
-#EXTINF:-1 group-title="MoveOnJoy",NFL Network
-https://fl3.moveonjoy.com/NFL_NETWORK/index.m3u8
 #EXTINF:-1 group-title="MoveOnJoy",NFL RedZone
 http://fl1.moveonjoy.com/NFL_RedZone/index.m3u8
-#EXTINF:-1 group-title="MoveOnJoy",NHL Network
-https://fl3.moveonjoy.com/NHL_NETWORK/index.m3u8
-#EXTINF:-1 group-title="MoveOnJoy",Sportsman Channel
-https://fl3.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8
 #EXTINF:-1 group-title="MoveOnJoy",Tennis Channel
 http://fl1.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
 #EXTINF:-1 group-title="DaddyLive - Soccer Action",United States - NCAA Women's Soccer : Clemson vs Stanford (Sep 11-2025 10:00 PM UK / Sep 11-2025 3:00 PM MT / Sep 11-2025 5:00 PM EST)
