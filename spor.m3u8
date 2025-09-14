@@ -419,8 +419,6 @@ https://a1xs.vip/4000001
 https://a1xs.vip/400050
 #EXTINF:-1 group-title="A1xmedia US Sports",NESN FHD
 https://a1xs.vip/4000004
-#EXTINF:-1 group-title="A1xmedia US Sports",NFL Network
-https://a1xs.vip/40000032
 #EXTINF:-1 group-title="A1xmedia US Sports",NFL RedZone
 https://a1xs.vip/40000033
 #EXTINF:-1 group-title="A1xmedia US Sports",NHL Network
@@ -445,6 +443,8 @@ https://a1xs.vip/40000043
 http://fl1.moveonjoy.com/MOTOR_TREND/index.m3u8
 #EXTINF:-1 group-title="MoveOnJoy",NBC Golf
 http://23.237.104.106:8080/USA_GOLTV/index.m3u8
+#EXTINF:-1 group-title="MoveOnJoy",NFL RedZone
+http://fl1.moveonjoy.com/NFL_RedZone/index.m3u8
 #EXTINF:-1 group-title="MoveOnJoy",Tennis Channel
 http://fl1.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
 #EXTINF:-1 group-title="DaddyLive - Race Circuit",Moto3 : GP San Marino Practice 2 (Sep 13-2025 6:40 AM UK / Sep 12-2025 11:40 PM MT / Sep 13-2025 1:40 AM EST)
