@@ -277,6 +277,8 @@ https://a1xs.vip/700007
 https://a1xs.vip/700010
 #EXTINF:-1 group-title="A1xmedia AU Sports",Optus Sports 2
 https://a1xs.vip/700011
+#EXTINF:-1 group-title="A1xmedia CA Sports",Sportsnet 360 FHD
+https://a1xs.vip/6000014
 #EXTINF:-1 group-title="A1xmedia CA Sports",Sportsnet One FHD
 https://a1xs.vip/6000012
 #EXTINF:-1 group-title="A1xmedia CA Sports",Sportsnet Ontario FHD
@@ -401,6 +403,22 @@ https://a1xs.vip/40000014
 https://a1xs.vip/40000012
 #EXTINF:-1 group-title="A1xmedia US Sports",ESPNU HD
 https://a1xs.vip/40000013
+#EXTINF:-1 group-title="A1xmedia US Sports",FanDuel Sports Florida
+https://a1xs.vip/4000050
+#EXTINF:-1 group-title="A1xmedia US Sports",FanDuel Sports Great Lakes
+https://a1xs.vip/4000055
+#EXTINF:-1 group-title="A1xmedia US Sports",FanDuel Sports Midwest
+https://a1xs.vip/4000054
+#EXTINF:-1 group-title="A1xmedia US Sports",FanDuel Sports North
+https://a1xs.vip/4000057
+#EXTINF:-1 group-title="A1xmedia US Sports",FanDuel Sports South
+https://a1xs.vip/4000053
+#EXTINF:-1 group-title="A1xmedia US Sports",FanDuel Sports Sun
+https://a1xs.vip/4000051
+#EXTINF:-1 group-title="A1xmedia US Sports",FanDuel Sports West
+https://a1xs.vip/4000052
+#EXTINF:-1 group-title="A1xmedia US Sports",FanDuel Sports Wisconsin
+https://a1xs.vip/4000056
 #EXTINF:-1 group-title="A1xmedia US Sports",FanDuel TV
 https://a1xs.vip/40000046
 #EXTINF:-1 group-title="A1xmedia US Sports",FS1 HD
@@ -409,10 +427,14 @@ https://a1xs.vip/40000021
 https://a1xs.vip/40000022
 #EXTINF:-1 group-title="A1xmedia US Sports",Golf Channel USA FHD
 https://a1xs.vip/40000060
+#EXTINF:-1 group-title="A1xmedia US Sports",Marquee Sports Network
+https://a1xs.vip/4000010
 #EXTINF:-1 group-title="A1xmedia US Sports",MLB Network
 https://a1xs.vip/40000030
 #EXTINF:-1 group-title="A1xmedia US Sports",MSG FHD
 https://a1xs.vip/4000001
+#EXTINF:-1 group-title="A1xmedia US Sports",NBC Sports Bay Area
+https://a1xs.vip/400050
 #EXTINF:-1 group-title="A1xmedia US Sports",NESN FHD
 https://a1xs.vip/4000004
 #EXTINF:-1 group-title="A1xmedia US Sports",NFL Network
@@ -425,6 +447,10 @@ https://a1xs.vip/40000034
 https://a1xs.vip/40000015
 #EXTINF:-1 group-title="A1xmedia US Sports",Spectrum Sportsnet FHD
 https://a1xs.vip/4000006
+#EXTINF:-1 group-title="A1xmedia US Sports",Spectrum Sportsnet LA Dodgers
+https://a1xs.vip/400052
+#EXTINF:-1 group-title="A1xmedia US Sports",Spectrum Sportsnet Lakers
+https://a1xs.vip/400053
 #EXTINF:-1 group-title="A1xmedia US Sports",SportsNet NY FHD
 https://a1xs.vip/40000045
 #EXTINF:-1 group-title="A1xmedia US Sports",Tennis Channel FHD
