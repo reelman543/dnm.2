@@ -481,36 +481,12 @@ https://fl7.moveonjoy.com/NBA_8/index.m3u8
 https://fl7.moveonjoy.com/NBA_9/index.m3u8
 #EXTINF:-1 group-title="MoveOnJoy",NBA TV
 https://fl7.moveonjoy.com/NBA_TV/index.m3u8
-#EXTINF:-1 group-title="MoveOnJoy",NFL 10
-https://fl7.moveonjoy.com/NFL_10/index.m3u8
-#EXTINF:-1 group-title="MoveOnJoy",NFL 11
-https://fl7.moveonjoy.com/NFL_11/index.m3u8
-#EXTINF:-1 group-title="MoveOnJoy",NFL 12
-https://fl7.moveonjoy.com/NFL_12/index.m3u8
-#EXTINF:-1 group-title="MoveOnJoy",NFL 13
-https://fl7.moveonjoy.com/NFL_13/index.m3u8
-#EXTINF:-1 group-title="MoveOnJoy",NFL 14
-https://fl7.moveonjoy.com/NFL_14/index.m3u8
-#EXTINF:-1 group-title="MoveOnJoy",NFL 15
-https://fl7.moveonjoy.com/NFL_15/index.m3u8
-#EXTINF:-1 group-title="MoveOnJoy",NFL 2
-https://fl7.moveonjoy.com/NFL_2/index.m3u8
-#EXTINF:-1 group-title="MoveOnJoy",NFL 4
-https://fl7.moveonjoy.com/NFL_4/index.m3u8
-#EXTINF:-1 group-title="MoveOnJoy",NFL 6
-https://fl7.moveonjoy.com/NFL_6/index.m3u8
-#EXTINF:-1 group-title="MoveOnJoy",NFL 7
-https://fl7.moveonjoy.com/NFL_7/index.m3u8
-#EXTINF:-1 group-title="MoveOnJoy",NFL 8
-https://fl7.moveonjoy.com/NFL_8/index.m3u8
 #EXTINF:-1 group-title="MoveOnJoy",NFL Network
 https://fl7.moveonjoy.com/NFL_NETWORK/index.m3u8
 #EXTINF:-1 group-title="MoveOnJoy",NFL RedZone
 https://fl7.moveonjoy.com/NFL_RedZone/index.m3u8
 #EXTINF:-1 group-title="MoveOnJoy",NHL Network
 https://fl7.moveonjoy.com/NHL_NETWORK/index.m3u8
-#EXTINF:-1 group-title="MoveOnJoy",Sky Sports Football
-https://fl7.moveonjoy.com/NFL_1/index.m3u8
 #EXTINF:-1 group-title="MoveOnJoy",Sportsman Channel
 https://fl7.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8
 #EXTINF:-1 group-title="MoveOnJoy",Tennis Channel
