@@ -373,8 +373,6 @@ https://a1xs.vip/2000012
 https://a1xs.vip/2000021
 #EXTINF:-1 group-title="A1xmedia UK Sports",TNT Sports 2 FHD
 https://a1xs.vip/2000022
-#EXTINF:-1 group-title="A1xmedia UK Sports",TNT Sports 3 FHD
-https://a1xs.vip/2000023
 #EXTINF:-1 group-title="A1xmedia UK Sports",TNT Sports 4 FHD
 https://a1xs.vip/2000024
 #EXTINF:-1 group-title="A1xmedia US Sports",ACC Network HD
@@ -485,6 +483,8 @@ https://fl7.moveonjoy.com/NFL_NETWORK/index.m3u8
 https://fl7.moveonjoy.com/NFL_RedZone/index.m3u8
 #EXTINF:-1 group-title="MoveOnJoy",NHL Network
 https://fl7.moveonjoy.com/NHL_NETWORK/index.m3u8
+#EXTINF:-1 group-title="MoveOnJoy",Sky Sports Football
+https://fl7.moveonjoy.com/NFL_1/index.m3u8
 #EXTINF:-1 group-title="MoveOnJoy",Sportsman Channel
 https://fl7.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8
 #EXTINF:-1 group-title="MoveOnJoy",Tennis Channel
