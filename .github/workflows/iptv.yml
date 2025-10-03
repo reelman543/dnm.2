@@ -2,7 +2,7 @@ name: IPTV Spor Güncelleme
 
 on:
   schedule:
-    - cron: "0 */1 * * *"   # Her 1 saatte bir çalışır
+    - cron: "0 */12 * * *"   # Her 12 saatte bir çalışır
   workflow_dispatch:         # Manuel çalıştırma butonu da olsun
 
 jobs:
