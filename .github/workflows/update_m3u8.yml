@@ -1,40 +1,37 @@
-name: DLHD M3U8 Auto Updater (Overwrite File)
+name: Update M3U8 file every hour
 
 on:
   schedule:
-    - cron: "0 * * * *"  # Her saat başı (UTC)
-  workflow_dispatch:     # Manuel çalıştırma desteği
-
-permissions:
-  contents: write        # Commit/push izni
+    - cron: '0 * * * *'  # Her saat başı
+  workflow_dispatch:
 
 jobs:
   update:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Reponun son halini al
+      - name: Checkout repository
         uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Python kurulumu
+      - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: "3.x"
+          python-version: '3.x'
 
-      - name: Gerekli kütüphaneleri kur
-        run: |
-          pip install requests
+      - name: Install dependencies
+        run: pip install requests
 
-      - name: M3U8 dosyasını oluştur
-        run: |
-          python dlhd_to_m3u8.py
+      - name: Run update script
+        run: python dlhd_to_m3u8.py
 
-      - name: Değişiklikleri commit et ve gönder
+      - name: Set up Git identity
         run: |
-          git config --global user.email "github-actions@users.noreply.github.com"
-          git config --global user.name "GitHub Actions"
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Commit and push changes
+        run: |
+          git pull --rebase origin main
           git add channels.m3u8
-          git commit -m "🔄 Otomatik güncelleme: $(date '+%Y-%m-%d %H:%M:%S')" || echo "Değişiklik yok"
+          git commit -m "Auto-update channels.m3u8" || echo "No changes to commit"
           git push
