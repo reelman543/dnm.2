@@ -16,8 +16,6 @@ def fetch_json(url):
         return None
 
 def parse_channels(data):
-    print("Parse edilecek veri tipi:", type(data))
-    print(data)  # Debug için
     channels = []
     if isinstance(data, dict):
         for k, v in data.items():
@@ -56,7 +54,6 @@ def main():
     all_channels = []
     for u in urls:
         data = fetch_json(u)
-        print(f"\nVeri alındı: {u}")
         if data:
             all_channels.extend(parse_channels(data))
     if all_channels:
@@ -67,15 +64,3 @@ def main():
 if __name__ == "__main__":
     print(f"[{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}] Güncelleme başlatılıyor...")
     main()
-
-    # Manuel çalıştırma seçeneği
-    while True:
-        choice = input("Manuel güncelleme yapmak ister misiniz? (e/h): ").strip().lower()
-        if choice == 'e':
-            print("Manuel güncelleme başlatılıyor...")
-            main()
-        elif choice == 'h':
-            print("Çıkılıyor.")
-            break
-        else:
-            print("Lütfen 'e' veya 'h' girin.")
