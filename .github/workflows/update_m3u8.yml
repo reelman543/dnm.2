@@ -1,42 +1,69 @@
+import requests
+from datetime import datetime
 
-name: DLHD M3U8 Auto Update
+OUTPUT_FILE = "dlhd.m3u8"
+HEADERS = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.7204.243 Safari/537.36"
+}
 
-on:
-  schedule:
-    - cron: '0 * * * *'
-  workflow_dispatch:
+def fetch_json(url):
+    try:
+        r = requests.get(url, headers=HEADERS, timeout=15)
+        r.raise_for_status()
+        return r.json()
+    except Exception as e:
+        print(f"HATA: {url} alınamadı -> {e}")
+        return None
 
-permissions:
-  contents: write
+def parse_channels(data):
+    print("Parse edilecek veri tipi:", type(data))
+    print(data)  # Debug için
+    channels = []
+    if isinstance(data, dict):
+        for k, v in data.items():
+            if isinstance(v, dict) and ('url' in v or 'stream_url' in v):
+                url = v.get('url') or v.get('stream_url')
+                channels.append({
+                    "name": v.get("name", k),
+                    "url": url,
+                    "group": v.get("group", "Uncategorized")
+                })
+    elif isinstance(data, list):
+        for v in data:
+            if isinstance(v, dict) and ('url' in v or 'stream_url' in v):
+                url = v.get('url') or v.get('stream_url')
+                channels.append({
+                    "name": v.get("name", v.get("title", "Unknown")),
+                    "url": url,
+                    "group": v.get("group", "Uncategorized")
+                })
+    return channels
 
-jobs:
-  update:
-    runs-on: ubuntu-latest
+def save_m3u8(channels, filename=OUTPUT_FILE):
+    header = "#EXTM3U\n"
+    body = ""
+    for ch in channels:
+        body += f'#EXTINF:-1 group-title="{ch["group"]}",{ch["name"]}\n{ch["url"]}\n'
+    with open(filename, "w", encoding="utf-8") as f:
+        f.write(header + body)
+    print(f"{len(channels)} kanal kaydedildi -> {filename}")
 
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+def main():
+    urls = [
+        "https://dlhd.dad/schedule/schedule-generated.php",
+        "https://dlhd.dad/daddy.json"
+    ]
+    all_channels = []
+    for u in urls:
+        data = fetch_json(u)
+        print(f"\nVeri alındı: {u}")
+        if data:
+            all_channels.extend(parse_channels(data))
+    if all_channels:
+        save_m3u8(all_channels)
+    else:
+        print("Kanal bulunamadı!")
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.x'
-
-      - name: Install dependencies
-        run: pip install requests
-
-      - name: Run update script
-        run: python dlhd_to_m3u8.py
-
-      - name: Set up Git identity
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-
-      - name: Commit and push changes
-        run: |
-          git add dlhd.m3u8
-          git diff-index --quiet HEAD || git commit -m "🔄 Otomatik güncelleme: $(date '+%Y-%m-%d %H:%M:%S')"
-          git push --force-with-lease origin main
+if __name__ == "__main__":
+    print(f"[{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}] Güncelleme başlatılıyor...")
+    main()
