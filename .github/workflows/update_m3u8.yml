@@ -1,9 +1,12 @@
-name: Update M3U8 file every hour
+name: DLHD M3U8 Auto Update
 
 on:
   schedule:
-    - cron: '0 * * * *'  # Her saat başı
+    - cron: '0 * * * *'  # Her saat başı (UTC)
   workflow_dispatch:
+
+permissions:
+  contents: write  # Commit/push izni
 
 jobs:
   update:
@@ -12,6 +15,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -32,6 +37,6 @@ jobs:
       - name: Commit and push changes
         run: |
           git pull --rebase origin main
-          git add channels.m3u8
-          git commit -m "Auto-update channels.m3u8" || echo "No changes to commit"
+          git add dlhd.m3u8
+          git commit -m "🔄 Otomatik güncelleme: $(date '+%Y-%m-%d %H:%M:%S')" || echo "No changes to commit"
           git push
