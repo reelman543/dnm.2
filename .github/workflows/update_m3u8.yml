@@ -67,3 +67,15 @@ def main():
 if __name__ == "__main__":
     print(f"[{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}] Güncelleme başlatılıyor...")
     main()
+
+    # Manuel çalıştırma seçeneği
+    while True:
+        choice = input("Manuel güncelleme yapmak ister misiniz? (e/h): ").strip().lower()
+        if choice == 'e':
+            print("Manuel güncelleme başlatılıyor...")
+            main()
+        elif choice == 'h':
+            print("Çıkılıyor.")
+            break
+        else:
+            print("Lütfen 'e' veya 'h' girin.")
