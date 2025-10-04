@@ -1,0 +1,40 @@
+name: DLHD M3U8 Auto Updater (Overwrite File)
+
+on:
+  schedule:
+    - cron: "0 * * * *"  # Her saat başı (UTC)
+  workflow_dispatch:     # Manuel çalıştırma desteği
+
+permissions:
+  contents: write        # Commit/push izni
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Reponun son halini al
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Python kurulumu
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Gerekli kütüphaneleri kur
+        run: |
+          pip install requests
+
+      - name: M3U8 dosyasını oluştur
+        run: |
+          python dlhd_to_m3u8.py
+
+      - name: Değişiklikleri commit et ve gönder
+        run: |
+          git config --global user.email "github-actions@users.noreply.github.com"
+          git config --global user.name "GitHub Actions"
+          git add channels.m3u8
+          git commit -m "🔄 Otomatik güncelleme: $(date '+%Y-%m-%d %H:%M:%S')" || echo "Değişiklik yok"
+          git push
