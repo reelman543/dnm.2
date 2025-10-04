@@ -40,7 +40,7 @@ def baglanti_kontrol(kanal, deneme=2):
 
 def sadece_spor_aktif(kanallar):
     anahtar_kelimeler = {
-        'spor','futbol','basket','voleybol','hentbol','tenis','motorspor',
+        'spor','futbol','basket','voleybol','hentbol','tenis','motorspor','Bein Sport','Beinsport','BEIN SPORT','BEINSPORT',
         'sport','sports','football','basketball','volleyball','handball','tennis',
         'motorsport','racing','nfl','nba','nhl','mlb','fifa','uefa','champions',
         'premier league','la liga','serie a','bundesliga','mls','ncaa','cricket',
@@ -68,12 +68,22 @@ def m3u_kaydet(kanallar, dosya_adi):
 
 def main():
     playlist_urls = [
-        "https://raw.githubusercontent.com/Drewski2423/DrewLive/refs/heads/main/DaddyLive.m3u8",
-        "https://raw.githubusercontent.com/Drewski2423/DrewLive/refs/heads/main/DrewAll.m3u8",
-        "https://raw.githubusercontent.com/Drewski2423/DrewLive/refs/heads/main/StreamEast.m3u8",
-        "http://raw.githubusercontent.com/Drewski2423/DrewLive/refs/heads/main/DaddyLiveEvents.m3u8",
-    ]
-
+    "https://raw.githubusercontent.com/Drewski2423/DrewLive/refs/heads/main/DaddyLive.m3u8",
+    "https://raw.githubusercontent.com/Drewski2423/DrewLive/refs/heads/main/DaddyLiveEvents.m3u8",
+    "https://raw.githubusercontent.com/Drewski2423/DrewLive/refs/heads/main/DrewAll.m3u8",
+    "https://raw.githubusercontent.com/Drewski2423/DrewLive/refs/heads/main/JapanTV.m3u8",
+    "https://raw.githubusercontent.com/Drewski2423/DrewLive/refs/heads/main/PlexTV.m3u8",
+    "https://raw.githubusercontent.com/Drewski2423/DrewLive/refs/heads/main/DrewLiveVOD.m3u8",
+    "https://raw.githubusercontent.com/Drewski2423/DrewLive/refs/heads/main/Radio.m3u8",
+    "http://drewlive24.duckdns.org:8081/PPVLand.m3u8",
+    "https://raw.githubusercontent.com/Drewski2423/DrewLive/refs/heads/main/StreamEast.m3u8",
+    "https://raw.githubusercontent.com/Drewski2423/DrewLive/refs/heads/main/FSTV24.m3u8",
+    "https://raw.githubusercontent.com/Drewski2423/DrewLive/refs/heads/main/TheTVApp.m3u8",
+    "http://drewlive24.duckdns.org:8081/Tims247.m3u8",
+    "http://drewlive24.duckdns.org:8081/Zuzz.m3u8",
+    "https://raw.githubusercontent.com/Drewski2423/DrewLive/refs/heads/main/SamsungTVPlus.m3u8",
+    "https://raw.githubusercontent.com/Drewski2423/DrewLive/refs/heads/main/Xumo.m3u8"
+]
     print("[📡] IPTV listeleri indiriliyor...")
     tum_kanallar = []
 
