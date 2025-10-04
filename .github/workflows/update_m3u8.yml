@@ -1,4 +1,3 @@
-
 name: DLHD M3U8 Auto Update
 
 on:
@@ -37,6 +36,9 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          git add dlhd.m3u8
-          git diff-index --quiet HEAD || git commit -m "🔄 Otomatik güncelleme: $(date '+%Y-%m-%d %H:%M:%S')"
-          git push --force-with-lease origin main
+          if [ -f dlhd.m3u8 ]; then
+            git add dlhd.m3u8
+            git diff-index --quiet HEAD || git commit -m "🔄 Otomatik güncelleme: $(date '+%Y-%m-%d %H:%M:%S')"
+            git push --force-with-lease origin main
+          else
+            echo "dlhd.m3u8 bulunamadı, commit yapılmadı
