@@ -354,241 +354,231 @@ http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Immaculate.2024.1080p.BluRay
 #EXTINF:-1 group-title="DrewLive - VOD",Love & Basketball (2000)
 http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Love.Basketball.2000.1080p.BluRay.x264.AAC5.1-%5BYTS.MX%5D.mp4
 #EXTINF:-1 group-title="TheTVApp",CBS Sports Network SD
-https://v8.thetvapp.to/hls/CBSSportsNetworkUSA/tracks-v2a1/mono.m3u8?token=PlSnbhRWAnUWCFObGkcYCw&expires=1759626782&user_id=eWY1Skx6R1JvRXN4d1p5WEt5eGh3VXVzNUVuYzhRalhlTWo5elJsUw==
+https://v4.thetvapp.to/hls/CBSSportsNetworkUSA/tracks-v2a1/mono.m3u8?token=cnggRW-a53vappKAAiDmRQ&expires=1759641323&user_id=YVJxVlVUTE1LSkY4RVdOMTNra2txcGZ2bzM2TGYwRGRJOEh6bERXQw==
 #EXTINF:-1 group-title="TheTVApp",CBS Sports Network HD
-https://e2.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=3kGytdXZke2V3uIK2Qcw3Q&expires=1759626786&user_id=eWY1Skx6R1JvRXN4d1p5WEt5eGh3VXVzNUVuYzhRalhlTWo5elJsUw==
+https://v5.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=_Hm2ceqwkCzcmZIUUGxgBg&expires=1759641328&user_id=YVJxVlVUTE1LSkY4RVdOMTNra2txcGZ2bzM2TGYwRGRJOEh6bERXQw==
 #EXTINF:-1 group-title="TheTVApp",FOX Sports 1 SD
-https://e2.thetvapp.to/hls/FoxSports1/tracks-v2a1/mono.m3u8?token=Sc3zA0Sek9gKCBrZKuIm8g&expires=1759627010&user_id=eWY1Skx6R1JvRXN4d1p5WEt5eGh3VXVzNUVuYzhRalhlTWo5elJsUw==
+https://e1.thetvapp.to/hls/FoxSports1/tracks-v2a1/mono.m3u8?token=CXIsG9twJNuE-GLYYvpTvQ&expires=1759641552&user_id=YVJxVlVUTE1LSkY4RVdOMTNra2txcGZ2bzM2TGYwRGRJOEh6bERXQw==
 #EXTINF:-1 group-title="TheTVApp",FOX Sports 1 HD
-https://e5.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=tuLIFrc9_Yr4WZHwEyg8LQ&expires=1759627015&user_id=eWY1Skx6R1JvRXN4d1p5WEt5eGh3VXVzNUVuYzhRalhlTWo5elJsUw==
+https://v13.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=dBeVMQriSJUW8lzYOuWIuA&expires=1759641557&user_id=YVJxVlVUTE1LSkY4RVdOMTNra2txcGZ2bzM2TGYwRGRJOEh6bERXQw==
 #EXTINF:-1 group-title="TheTVApp",FOX Sports 2 SD
-https://e5.thetvapp.to/hls/FoxSports2/tracks-v2a1/mono.m3u8?token=jiaj4kjL5wmN2mIqePl7yg&expires=1759627019&user_id=eWY1Skx6R1JvRXN4d1p5WEt5eGh3VXVzNUVuYzhRalhlTWo5elJsUw==
+https://v13.thetvapp.to/hls/FoxSports2/tracks-v2a1/mono.m3u8?token=YZRGUeFAw0GiJbwU-pftGQ&expires=1759641561&user_id=YVJxVlVUTE1LSkY4RVdOMTNra2txcGZ2bzM2TGYwRGRJOEh6bERXQw==
 #EXTINF:-1 group-title="TheTVApp",FOX Sports 2 HD
-https://v3.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=GpEUz2kPPt4ilLJbCX3f3Q&expires=1759627024&user_id=eWY1Skx6R1JvRXN4d1p5WEt5eGh3VXVzNUVuYzhRalhlTWo5elJsUw==
+https://v3.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=PhyHn4XQkWCJ6P7k5xt9HQ&expires=1759641566&user_id=YVJxVlVUTE1LSkY4RVdOMTNra2txcGZ2bzM2TGYwRGRJOEh6bERXQw==
 #EXTINF:-1 group-title="TheTVApp",Golf Channel SD
-https://v14.thetvapp.to/hls/GolfChannel/tracks-v2a1/mono.m3u8?token=TbbDIiYyFW7pRXAwUt4Ycw&expires=1759627084&user_id=eWY1Skx6R1JvRXN4d1p5WEt5eGh3VXVzNUVuYzhRalhlTWo5elJsUw==
+https://v4.thetvapp.to/hls/GolfChannel/tracks-v2a1/mono.m3u8?token=hcfcmSSlNKRbhSB-rTWDrQ&expires=1759641625&user_id=YVJxVlVUTE1LSkY4RVdOMTNra2txcGZ2bzM2TGYwRGRJOEh6bERXQw==
 #EXTINF:-1 group-title="TheTVApp",Golf Channel HD
-https://v4.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=AikSV5SqIvTlw06lCVKZnw&expires=1759627088&user_id=eWY1Skx6R1JvRXN4d1p5WEt5eGh3VXVzNUVuYzhRalhlTWo5elJsUw==
+https://v4.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=jiXniFVRuzq__UpMRMA-vg&expires=1759641630&user_id=YVJxVlVUTE1LSkY4RVdOMTNra2txcGZ2bzM2TGYwRGRJOEh6bERXQw==
 #EXTINF:-1 group-title="TheTVApp",MLB Network SD
-https://e4.thetvapp.to/hls/MLBNetwork/tracks-v2a1/mono.m3u8?token=R2V2HiXK63H0EMk2Gs0rMQ&expires=1759627266&user_id=eWY1Skx6R1JvRXN4d1p5WEt5eGh3VXVzNUVuYzhRalhlTWo5elJsUw==
+https://v14.thetvapp.to/hls/MLBNetwork/tracks-v2a1/mono.m3u8?token=LqW_wzKFH7gZhLbnHxOOXQ&expires=1759641809&user_id=YVJxVlVUTE1LSkY4RVdOMTNra2txcGZ2bzM2TGYwRGRJOEh6bERXQw==
 #EXTINF:-1 group-title="TheTVApp",MLB Network HD
-https://e4.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=DfHEJfS6FLpV6TdWg8qf4w&expires=1759627271&user_id=eWY1Skx6R1JvRXN4d1p5WEt5eGh3VXVzNUVuYzhRalhlTWo5elJsUw==
+https://v14.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=tIH7brP9XcKq6x8rh3iLTA&expires=1759641813&user_id=YVJxVlVUTE1LSkY4RVdOMTNra2txcGZ2bzM2TGYwRGRJOEh6bERXQw==
 #EXTINF:-1 group-title="TheTVApp",MotorTrend HD SD
-https://v16.thetvapp.to/hls/Motortrend/tracks-v2a1/mono.m3u8?token=TJ0wtS62U7kz-h64Mkb0Wg&expires=1759627285&user_id=eWY1Skx6R1JvRXN4d1p5WEt5eGh3VXVzNUVuYzhRalhlTWo5elJsUw==
+https://v18.thetvapp.to/hls/Motortrend/tracks-v2a1/mono.m3u8?token=0jPMcH7B5VkZbl-h8zf0nA&expires=1759641827&user_id=YVJxVlVUTE1LSkY4RVdOMTNra2txcGZ2bzM2TGYwRGRJOEh6bERXQw==
 #EXTINF:-1 group-title="TheTVApp",MotorTrend HD HD
-https://v13.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=1X6ymBDNMHcflfcL4DmOew&expires=1759627289&user_id=eWY1Skx6R1JvRXN4d1p5WEt5eGh3VXVzNUVuYzhRalhlTWo5elJsUw==
+https://v2.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=Bi_wnfgkOGBtSSGxKHEc2A&expires=1759641832&user_id=YVJxVlVUTE1LSkY4RVdOMTNra2txcGZ2bzM2TGYwRGRJOEh6bERXQw==
 #EXTINF:-1 group-title="TheTVApp",NBA TV SD
-https://e5.thetvapp.to/hls/NBATV/tracks-v2a1/mono.m3u8?token=2tvBn6Y39-ZyaWhbt_MUyA&expires=1759627339&user_id=eWY1Skx6R1JvRXN4d1p5WEt5eGh3VXVzNUVuYzhRalhlTWo5elJsUw==
+https://v1.thetvapp.to/hls/NBATV/tracks-v2a1/mono.m3u8?token=Ck8YsxFwXiNdJm4s6FYcpg&expires=1759641882&user_id=YVJxVlVUTE1LSkY4RVdOMTNra2txcGZ2bzM2TGYwRGRJOEh6bERXQw==
 #EXTINF:-1 group-title="TheTVApp",NBA TV HD
-https://v8.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=2npVovbCzR4WCvTBIPx1bA&expires=1759627344&user_id=eWY1Skx6R1JvRXN4d1p5WEt5eGh3VXVzNUVuYzhRalhlTWo5elJsUw==
-#EXTINF:-1 group-title="TheTVApp",NFL Network SD
-https://v12.thetvapp.to/hls/NFLNetwork/tracks-v2a1/mono.m3u8?token=jjbjfNyy9vj4-UqrTWw2WQ&expires=1759627358&user_id=eWY1Skx6R1JvRXN4d1p5WEt5eGh3VXVzNUVuYzhRalhlTWo5elJsUw==
-#EXTINF:-1 group-title="TheTVApp",NFL Network HD
-https://e3.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=eFE_lNcPSyLpJ6u7P8xWWw&expires=1759627362&user_id=eWY1Skx6R1JvRXN4d1p5WEt5eGh3VXVzNUVuYzhRalhlTWo5elJsUw==
+https://v13.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=my7ivMYUE2ysQfm3LLbfkA&expires=1759641887&user_id=YVJxVlVUTE1LSkY4RVdOMTNra2txcGZ2bzM2TGYwRGRJOEh6bERXQw==
 #EXTINF:-1 group-title="TheTVApp",NFL Red Zone SD
-https://e3.thetvapp.to/hls/NFLRedZone/tracks-v2a1/mono.m3u8?token=OJwuQ70PdbQn2jEZ3NpByw&expires=1759627367&user_id=eWY1Skx6R1JvRXN4d1p5WEt5eGh3VXVzNUVuYzhRalhlTWo5elJsUw==
+https://v16.thetvapp.to/hls/NFLRedZone/tracks-v2a1/mono.m3u8?token=vOr3AKFFdIIY5Ws1dGPuEg&expires=1759641910&user_id=YVJxVlVUTE1LSkY4RVdOMTNra2txcGZ2bzM2TGYwRGRJOEh6bERXQw==
 #EXTINF:-1 group-title="TheTVApp",NFL Red Zone HD
-https://v2.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=17bz-XtZBSECitaOx8GZqQ&expires=1759627371&user_id=eWY1Skx6R1JvRXN4d1p5WEt5eGh3VXVzNUVuYzhRalhlTWo5elJsUw==
+https://v12.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=U42P2qDMryjNEHLIuTy4Zg&expires=1759641914&user_id=YVJxVlVUTE1LSkY4RVdOMTNra2txcGZ2bzM2TGYwRGRJOEh6bERXQw==
 #EXTINF:-1 group-title="TheTVApp",NHL Network SD
-https://e1.thetvapp.to/hls/NHLNetwork/tracks-v2a1/mono.m3u8?token=IGvB73oRN7supLWdOW3xbw&expires=1759627376&user_id=eWY1Skx6R1JvRXN4d1p5WEt5eGh3VXVzNUVuYzhRalhlTWo5elJsUw==
+https://v12.thetvapp.to/hls/NHLNetwork/tracks-v2a1/mono.m3u8?token=g8uLWjNPeDdxZQ9UGC-VnA&expires=1759641919&user_id=YVJxVlVUTE1LSkY4RVdOMTNra2txcGZ2bzM2TGYwRGRJOEh6bERXQw==
 #EXTINF:-1 group-title="TheTVApp",NHL Network HD
-https://v2.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=klmvf3GLZCeHET4VpqrFeA&expires=1759627381&user_id=eWY1Skx6R1JvRXN4d1p5WEt5eGh3VXVzNUVuYzhRalhlTWo5elJsUw==
+https://e3.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=prgxqqIK76bG-Bz-T1gU0w&expires=1759641923&user_id=YVJxVlVUTE1LSkY4RVdOMTNra2txcGZ2bzM2TGYwRGRJOEh6bERXQw==
 #EXTINF:-1 group-title="TheTVApp",Tennis Channel SD
-https://v12.thetvapp.to/hls/TennisChannel/tracks-v2a1/mono.m3u8?token=cqeiTp8-hS-rI2YF6Wmg3Q&expires=1759627559&user_id=eWY1Skx6R1JvRXN4d1p5WEt5eGh3VXVzNUVuYzhRalhlTWo5elJsUw==
+https://v17.thetvapp.to/hls/TennisChannel/tracks-v2a1/mono.m3u8?token=I9os12hxEcoiwPr9owiv9g&expires=1759642102&user_id=YVJxVlVUTE1LSkY4RVdOMTNra2txcGZ2bzM2TGYwRGRJOEh6bERXQw==
 #EXTINF:-1 group-title="TheTVApp",Tennis Channel HD
-https://v3.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=wR--3FfbQIrBh1DQiat8hg&expires=1759627564&user_id=eWY1Skx6R1JvRXN4d1p5WEt5eGh3VXVzNUVuYzhRalhlTWo5elJsUw==
+https://v17.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=iiZRCzIqfVbJ4TDiM0Y-jw&expires=1759642107&user_id=YVJxVlVUTE1LSkY4RVdOMTNra2txcGZ2bzM2TGYwRGRJOEh6bERXQw==
 #EXTINF:-1 group-title="TheTVApp - NBA",3:10:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="TheTVApp - NBA",New York Knicks @ Philadelphia 76ers - 10/4/25 - 3:10:00 PM UTC SD
-https://v8.thetvapp.to/hls/NBATV/tracks-v2a1/mono.m3u8?token=-hfYNkEwMat5yPl_NnJStQ&expires=1759627736&user_id=OUd1RUZoZlhXMUR1MmpPV2lmQ3lmTERVd2NXMzhubW40cmdJRG83cw==
+https://v1.thetvapp.to/hls/NBATV/tracks-v2a1/mono.m3u8?token=KgNd0SAuCDX481Go4Pp7vQ&expires=1759642279&user_id=QmtucnhkYVVlM2F1dXQxYlNsdXljdUw1UThEbkF5RWNjd1VEOEkwdQ==
 #EXTINF:-1 group-title="TheTVApp - NBA",3:10:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="TheTVApp - NBA",New York Knicks @ Philadelphia 76ers - 10/4/25 - 3:10:00 PM UTC HD
-https://v8.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=MKpT8wZdqt64L3yqWhrZpg&expires=1759627741&user_id=OUd1RUZoZlhXMUR1MmpPV2lmQ3lmTERVd2NXMzhubW40cmdJRG83cw==
+https://v1.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=BM_BFAKt2idYAj__P8lPwA&expires=1759642284&user_id=QmtucnhkYVVlM2F1dXQxYlNsdXljdUw1UThEbkF5RWNjd1VEOEkwdQ==
 #EXTINF:-1 group-title="TheTVApp - NBA",12:10:00 AM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="TheTVApp - NBA",Orlando Magic @ Miami Heat - 10/5/25 - 12:10:00 AM UTC SD
-https://v1.thetvapp.to/hls/NBATV/tracks-v2a1/mono.m3u8?token=7QWEXNmG-hT4nuiqk5i48g&expires=1759627745&user_id=OUd1RUZoZlhXMUR1MmpPV2lmQ3lmTERVd2NXMzhubW40cmdJRG83cw==
+https://v3.thetvapp.to/hls/NBATV/tracks-v2a1/mono.m3u8?token=GDRp74Wu5DyrqaOazdm2XA&expires=1759642289&user_id=QmtucnhkYVVlM2F1dXQxYlNsdXljdUw1UThEbkF5RWNjd1VEOEkwdQ==
 #EXTINF:-1 group-title="TheTVApp - NBA",12:10:00 AM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="TheTVApp - NBA",Orlando Magic @ Miami Heat - 10/5/25 - 12:10:00 AM UTC HD
-https://v12.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=YbKCizTvved6qui1uK26zA&expires=1759627750&user_id=OUd1RUZoZlhXMUR1MmpPV2lmQ3lmTERVd2NXMzhubW40cmdJRG83cw==
+https://e1.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=O7SEww6XEKw5SsHZnTmLgA&expires=1759642293&user_id=QmtucnhkYVVlM2F1dXQxYlNsdXljdUw1UThEbkF5RWNjd1VEOEkwdQ==
 #EXTINF:-1 group-title="TheTVApp - NBA",1:10:00 AM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="TheTVApp - NBA",Minnesota Timberwolves @ Denver Nuggets - 10/5/25 - 1:10:00 AM UTC SD
-https://v12.thetvapp.to/hls/altitude-sports-denver/tracks-v2a1/mono.m3u8?token=6IEIAouYN04wi1GGMeIhEw&expires=1759627754&user_id=OUd1RUZoZlhXMUR1MmpPV2lmQ3lmTERVd2NXMzhubW40cmdJRG83cw==
+https://v2.thetvapp.to/hls/altitude-sports-denver/tracks-v2a1/mono.m3u8?token=7KDO68H26hpivrAHsHKzXA&expires=1759642298&user_id=QmtucnhkYVVlM2F1dXQxYlNsdXljdUw1UThEbkF5RWNjd1VEOEkwdQ==
 #EXTINF:-1 group-title="TheTVApp - NBA",1:10:00 AM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="TheTVApp - NBA",Minnesota Timberwolves @ Denver Nuggets - 10/5/25 - 1:10:00 AM UTC HD
-https://v2.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=WXpv1d4o6v28UYKtGlYzwA&expires=1759627759&user_id=OUd1RUZoZlhXMUR1MmpPV2lmQ3lmTERVd2NXMzhubW40cmdJRG83cw==
+https://v2.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=WrbKSMl0yZxC5uirpEr3Lg&expires=1759642302&user_id=QmtucnhkYVVlM2F1dXQxYlNsdXljdUw1UThEbkF5RWNjd1VEOEkwdQ==
 #EXTINF:-1 group-title="TheTVApp - MLB",6:09:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="TheTVApp - MLB",Chicago Cubs @ Milwaukee Brewers - 10/4/25 - 6:09:00 PM UTC SD
-https://v2.thetvapp.to/hls/MLB11/tracks-v2a1/mono.m3u8?token=sehCFl5m53CYKV392TWfjQ&expires=1759627764&user_id=OUd1RUZoZlhXMUR1MmpPV2lmQ3lmTERVd2NXMzhubW40cmdJRG83cw==
+https://e4.thetvapp.to/hls/MLB11/tracks-v2a1/mono.m3u8?token=10ixOIplKESIamxWn-DIOQ&expires=1759642307&user_id=QmtucnhkYVVlM2F1dXQxYlNsdXljdUw1UThEbkF5RWNjd1VEOEkwdQ==
 #EXTINF:-1 group-title="TheTVApp - MLB",6:09:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="TheTVApp - MLB",Chicago Cubs @ Milwaukee Brewers - 10/4/25 - 6:09:00 PM UTC HD
-https://e1.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=_bdsh3lttxHodNXqgk4Rug&expires=1759627768&user_id=OUd1RUZoZlhXMUR1MmpPV2lmQ3lmTERVd2NXMzhubW40cmdJRG83cw==
+https://e4.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=i2mSko0Eo3XoSH0T211VnA&expires=1759642312&user_id=QmtucnhkYVVlM2F1dXQxYlNsdXljdUw1UThEbkF5RWNjd1VEOEkwdQ==
 #EXTINF:-1 group-title="TheTVApp - MLB",8:09:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="TheTVApp - MLB",New York Yankees @ Toronto Blue Jays - 10/4/25 - 8:09:00 PM UTC SD
-https://v18.thetvapp.to/hls/MLB04/tracks-v2a1/mono.m3u8?token=lpgcI00O-zVLRZ_84cNawg&expires=1759627773&user_id=OUd1RUZoZlhXMUR1MmpPV2lmQ3lmTERVd2NXMzhubW40cmdJRG83cw==
+https://v16.thetvapp.to/hls/MLB04/tracks-v2a1/mono.m3u8?token=Pk9aW_45yKPn-qEkXiE-6Q&expires=1759642316&user_id=QmtucnhkYVVlM2F1dXQxYlNsdXljdUw1UThEbkF5RWNjd1VEOEkwdQ==
 #EXTINF:-1 group-title="TheTVApp - MLB",8:09:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="TheTVApp - MLB",New York Yankees @ Toronto Blue Jays - 10/4/25 - 8:09:00 PM UTC HD
-https://v18.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=j2Ui5cbWAp13ZAX1WlzCpA&expires=1759627777&user_id=OUd1RUZoZlhXMUR1MmpPV2lmQ3lmTERVd2NXMzhubW40cmdJRG83cw==
+https://v8.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=mSrUHkUeo0uvigdEDyoCvw&expires=1759642321&user_id=QmtucnhkYVVlM2F1dXQxYlNsdXljdUw1UThEbkF5RWNjd1VEOEkwdQ==
 #EXTINF:-1 group-title="TheTVApp - MLB",10:39:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="TheTVApp - MLB",Los Angeles Dodgers @ Philadelphia Phillies - 10/4/25 - 10:39:00 PM UTC SD
-https://v16.thetvapp.to/hls/MLB03/tracks-v2a1/mono.m3u8?token=VS5_DksmvvtpEVcEiM25kg&expires=1759627782&user_id=OUd1RUZoZlhXMUR1MmpPV2lmQ3lmTERVd2NXMzhubW40cmdJRG83cw==
+https://v4.thetvapp.to/hls/MLB03/tracks-v2a1/mono.m3u8?token=OJzMGiYXb8ikaH0BRBn7Mg&expires=1759642326&user_id=QmtucnhkYVVlM2F1dXQxYlNsdXljdUw1UThEbkF5RWNjd1VEOEkwdQ==
 #EXTINF:-1 group-title="TheTVApp - MLB",10:39:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="TheTVApp - MLB",Los Angeles Dodgers @ Philadelphia Phillies - 10/4/25 - 10:39:00 PM UTC HD
-https://v16.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=v8Xgpihuh89NQ3diishPpQ&expires=1759627786&user_id=OUd1RUZoZlhXMUR1MmpPV2lmQ3lmTERVd2NXMzhubW40cmdJRG83cw==
+https://v4.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=v0wpCNIDz_Vl_GrCB5YjdQ&expires=1759642330&user_id=QmtucnhkYVVlM2F1dXQxYlNsdXljdUw1UThEbkF5RWNjd1VEOEkwdQ==
 #EXTINF:-1 group-title="TheTVApp - MLB",12:39:00 AM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="TheTVApp - MLB",Detroit Tigers @ Seattle Mariners - 10/5/25 - 12:39:00 AM UTC SD
-https://v16.thetvapp.to/hls/MLB14/tracks-v2a1/mono.m3u8?token=QjMEAN9z2JsidBRKAaeXEQ&expires=1759627791&user_id=OUd1RUZoZlhXMUR1MmpPV2lmQ3lmTERVd2NXMzhubW40cmdJRG83cw==
+https://v5.thetvapp.to/hls/MLB14/tracks-v2a1/mono.m3u8?token=BCnVg9aU6dZvVTPXEC1XyA&expires=1759642335&user_id=QmtucnhkYVVlM2F1dXQxYlNsdXljdUw1UThEbkF5RWNjd1VEOEkwdQ==
 #EXTINF:-1 group-title="TheTVApp - MLB",12:39:00 AM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="TheTVApp - MLB",Detroit Tigers @ Seattle Mariners - 10/5/25 - 12:39:00 AM UTC HD
-https://v17.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=Tb4Sd3WEYwBrqyHOaolARQ&expires=1759627795&user_id=OUd1RUZoZlhXMUR1MmpPV2lmQ3lmTERVd2NXMzhubW40cmdJRG83cw==
+https://v5.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=etPm_iemzJUPBNGeOkAeGg&expires=1759642339&user_id=QmtucnhkYVVlM2F1dXQxYlNsdXljdUw1UThEbkF5RWNjd1VEOEkwdQ==
 #EXTINF:-1 group-title="TheTVApp - NCAAF",4:00:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Army Black Knights @ UAB Blazers - 10/4/25 - 4:00:00 PM UTC SD
-https://v13.thetvapp.to/hls/ESPNU/tracks-v2a1/mono.m3u8?token=IDeJFFJcg64jSb6l-HgVAg&expires=1759627801&user_id=OUd1RUZoZlhXMUR1MmpPV2lmQ3lmTERVd2NXMzhubW40cmdJRG83cw==
+https://e1.thetvapp.to/hls/ESPNU/tracks-v2a1/mono.m3u8?token=8ncGEaFVep-6NsAOt3Nf7g&expires=1759642345&user_id=QmtucnhkYVVlM2F1dXQxYlNsdXljdUw1UThEbkF5RWNjd1VEOEkwdQ==
 #EXTINF:-1 group-title="TheTVApp - NCAAF",4:00:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Army Black Knights @ UAB Blazers - 10/4/25 - 4:00:00 PM UTC HD
-https://v13.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=RaJqeVhBWABZ_BLt_D5oBQ&expires=1759627806&user_id=OUd1RUZoZlhXMUR1MmpPV2lmQ3lmTERVd2NXMzhubW40cmdJRG83cw==
+https://e1.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=zLkBop-MYW-KJCofjZQmhw&expires=1759642350&user_id=QmtucnhkYVVlM2F1dXQxYlNsdXljdUw1UThEbkF5RWNjd1VEOEkwdQ==
 #EXTINF:-1 group-title="TheTVApp - NCAAF",4:00:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Air Force Falcons @ Navy Midshipmen - 10/4/25 - 4:00:00 PM UTC SD
-https://e4.thetvapp.to/hls/WCBSDT1/tracks-v2a1/mono.m3u8?token=wEovGRjagmwzCXT0U5Z5fw&expires=1759627811&user_id=OUd1RUZoZlhXMUR1MmpPV2lmQ3lmTERVd2NXMzhubW40cmdJRG83cw==
+https://v18.thetvapp.to/hls/WCBSDT1/tracks-v2a1/mono.m3u8?token=G-4v9jQ67TnkxijHHO9BGw&expires=1759642355&user_id=QmtucnhkYVVlM2F1dXQxYlNsdXljdUw1UThEbkF5RWNjd1VEOEkwdQ==
 #EXTINF:-1 group-title="TheTVApp - NCAAF",4:00:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Air Force Falcons @ Navy Midshipmen - 10/4/25 - 4:00:00 PM UTC HD
-https://e5.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=NtPxDXRkZbuV_FZ6eI-rmQ&expires=1759627815&user_id=OUd1RUZoZlhXMUR1MmpPV2lmQ3lmTERVd2NXMzhubW40cmdJRG83cw==
+https://v18.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=CjeX6rcqGPT980RLPyKmGg&expires=1759642359&user_id=QmtucnhkYVVlM2F1dXQxYlNsdXljdUw1UThEbkF5RWNjd1VEOEkwdQ==
 #EXTINF:-1 group-title="TheTVApp - NCAAF",4:00:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Wisconsin Badgers @ Michigan Wolverines - 10/4/25 - 4:00:00 PM UTC SD
-https://v5.thetvapp.to/hls/WNYWDT1/tracks-v2a1/mono.m3u8?token=VHxTheXD-7B7DIDPSfR-Eg&expires=1759627820&user_id=OUd1RUZoZlhXMUR1MmpPV2lmQ3lmTERVd2NXMzhubW40cmdJRG83cw==
+https://v13.thetvapp.to/hls/WNYWDT1/tracks-v2a1/mono.m3u8?token=8IJEcxdibtQSqGvxHbuxyw&expires=1759642364&user_id=QmtucnhkYVVlM2F1dXQxYlNsdXljdUw1UThEbkF5RWNjd1VEOEkwdQ==
 #EXTINF:-1 group-title="TheTVApp - NCAAF",4:00:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Wisconsin Badgers @ Michigan Wolverines - 10/4/25 - 4:00:00 PM UTC HD
-https://e3.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=RC5wbfK1XqGq7u7yEzx3gQ&expires=1759627824&user_id=OUd1RUZoZlhXMUR1MmpPV2lmQ3lmTERVd2NXMzhubW40cmdJRG83cw==
+https://v13.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=eKWJLs67xHp5Q0g7EkOY9Q&expires=1759642368&user_id=QmtucnhkYVVlM2F1dXQxYlNsdXljdUw1UThEbkF5RWNjd1VEOEkwdQ==
 #EXTINF:-1 group-title="TheTVApp - NCAAF",4:00:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Illinois Fighting Illini @ Purdue Boilermakers - 10/4/25 - 4:00:00 PM UTC SD
-https://e3.thetvapp.to/hls/BTN/tracks-v2a1/mono.m3u8?token=lm1ZsWjOa-_gc6XZ9vIgTw&expires=1759627829&user_id=OUd1RUZoZlhXMUR1MmpPV2lmQ3lmTERVd2NXMzhubW40cmdJRG83cw==
+https://v13.thetvapp.to/hls/BTN/tracks-v2a1/mono.m3u8?token=FLkl8LkhAlfZyUTw3nUdeQ&expires=1759642373&user_id=QmtucnhkYVVlM2F1dXQxYlNsdXljdUw1UThEbkF5RWNjd1VEOEkwdQ==
 #EXTINF:-1 group-title="TheTVApp - NCAAF",4:00:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Illinois Fighting Illini @ Purdue Boilermakers - 10/4/25 - 4:00:00 PM UTC HD
-https://v2.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=O5lqxptFasVF3xKyOVTrzw&expires=1759627833&user_id=OUd1RUZoZlhXMUR1MmpPV2lmQ3lmTERVd2NXMzhubW40cmdJRG83cw==
+https://e2.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=T7FDR0JIyr9RZxFpurQagg&expires=1759642377&user_id=QmtucnhkYVVlM2F1dXQxYlNsdXljdUw1UThEbkF5RWNjd1VEOEkwdQ==
 #EXTINF:-1 group-title="TheTVApp - NCAAF",4:00:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Kentucky Wildcats @ Georgia Bulldogs - 10/4/25 - 4:00:00 PM UTC SD
-https://v15.thetvapp.to/hls/WABCDT1/tracks-v2a1/mono.m3u8?token=dJ74iVE263ooHaF2Bp26TA&expires=1759627838&user_id=OUd1RUZoZlhXMUR1MmpPV2lmQ3lmTERVd2NXMzhubW40cmdJRG83cw==
+https://e2.thetvapp.to/hls/WABCDT1/tracks-v2a1/mono.m3u8?token=RSb-g2o9tnc5Pteels6ZPQ&expires=1759642382&user_id=QmtucnhkYVVlM2F1dXQxYlNsdXljdUw1UThEbkF5RWNjd1VEOEkwdQ==
 #EXTINF:-1 group-title="TheTVApp - NCAAF",4:00:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Kentucky Wildcats @ Georgia Bulldogs - 10/4/25 - 4:00:00 PM UTC HD
-https://v15.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=2YEXWbBmy_hghpoHBZZhLw&expires=1759627842&user_id=OUd1RUZoZlhXMUR1MmpPV2lmQ3lmTERVd2NXMzhubW40cmdJRG83cw==
+https://v8.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=3Wxa_yp4EDDkrmDGqSpVrg&expires=1759642386&user_id=QmtucnhkYVVlM2F1dXQxYlNsdXljdUw1UThEbkF5RWNjd1VEOEkwdQ==
 #EXTINF:-1 group-title="TheTVApp - NCAAF",4:00:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Clemson Tigers @ North Carolina Tar Heels - 10/4/25 - 4:00:00 PM UTC SD
-https://e1.thetvapp.to/hls/ESPN/tracks-v2a1/mono.m3u8?token=fxNut6NvkN8eTtV27QxbxA&expires=1759627847&user_id=OUd1RUZoZlhXMUR1MmpPV2lmQ3lmTERVd2NXMzhubW40cmdJRG83cw==
+https://e3.thetvapp.to/hls/ESPN/tracks-v2a1/mono.m3u8?token=QS93W3CD0C3Txc_WFtQZ2w&expires=1759642391&user_id=QmtucnhkYVVlM2F1dXQxYlNsdXljdUw1UThEbkF5RWNjd1VEOEkwdQ==
 #EXTINF:-1 group-title="TheTVApp - NCAAF",4:00:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Clemson Tigers @ North Carolina Tar Heels - 10/4/25 - 4:00:00 PM UTC HD
-https://e1.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=h1DBOc97BTCoY1omNojhag&expires=1759627851&user_id=OUd1RUZoZlhXMUR1MmpPV2lmQ3lmTERVd2NXMzhubW40cmdJRG83cw==
+https://v15.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=LXnKmN-JqL3n8Gd11C-taQ&expires=1759642396&user_id=QmtucnhkYVVlM2F1dXQxYlNsdXljdUw1UThEbkF5RWNjd1VEOEkwdQ==
 #EXTINF:-1 group-title="TheTVApp - NCAAF",4:00:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Iowa State Cyclones @ Cincinnati Bearcats - 10/4/25 - 4:00:00 PM UTC SD
-https://e2.thetvapp.to/hls/ESPN2/tracks-v2a1/mono.m3u8?token=U9r-7mby2Fc4CK65m4XsMA&expires=1759627856&user_id=OUd1RUZoZlhXMUR1MmpPV2lmQ3lmTERVd2NXMzhubW40cmdJRG83cw==
+https://v15.thetvapp.to/hls/ESPN2/tracks-v2a1/mono.m3u8?token=L_fel0JVJjUGs9EorEojSg&expires=1759642400&user_id=QmtucnhkYVVlM2F1dXQxYlNsdXljdUw1UThEbkF5RWNjd1VEOEkwdQ==
 #EXTINF:-1 group-title="TheTVApp - NCAAF",4:00:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Iowa State Cyclones @ Cincinnati Bearcats - 10/4/25 - 4:00:00 PM UTC HD
-https://v3.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=CLlcduKIfhSgegCE49B6RA&expires=1759627860&user_id=OUd1RUZoZlhXMUR1MmpPV2lmQ3lmTERVd2NXMzhubW40cmdJRG83cw==
+https://v3.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=ZhsB-8_hyvNOiNxmrUBp0A&expires=1759642405&user_id=QmtucnhkYVVlM2F1dXQxYlNsdXljdUw1UThEbkF5RWNjd1VEOEkwdQ==
 #EXTINF:-1 group-title="TheTVApp - NCAAF",4:00:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Boston College Eagles @ Pittsburgh Panthers - 10/4/25 - 4:00:00 PM UTC SD
-https://v8.thetvapp.to/hls/ACCNetwork/tracks-v2a1/mono.m3u8?token=Tiq5pKdV-Hu4ftmd8t9SsA&expires=1759627865&user_id=OUd1RUZoZlhXMUR1MmpPV2lmQ3lmTERVd2NXMzhubW40cmdJRG83cw==
+https://v3.thetvapp.to/hls/ACCNetwork/tracks-v2a1/mono.m3u8?token=g_-FNLqW2fxbXmz4D0f6aA&expires=1759642409&user_id=QmtucnhkYVVlM2F1dXQxYlNsdXljdUw1UThEbkF5RWNjd1VEOEkwdQ==
 #EXTINF:-1 group-title="TheTVApp - NCAAF",4:00:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Boston College Eagles @ Pittsburgh Panthers - 10/4/25 - 4:00:00 PM UTC HD
-https://v8.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=El6UBsZZ7FuJ8esge9V2SQ&expires=1759627869&user_id=OUd1RUZoZlhXMUR1MmpPV2lmQ3lmTERVd2NXMzhubW40cmdJRG83cw==
+https://v14.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=DivMXL7a_Fqq5-zauhfyVA&expires=1759642414&user_id=QmtucnhkYVVlM2F1dXQxYlNsdXljdUw1UThEbkF5RWNjd1VEOEkwdQ==
+#EXTINF:-1 group-title="TheTVApp - NCAAF",4:00:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Kansas State Wildcats @ Baylor Bears - 10/4/25 - 4:00:00 PM UTC SD
+https://e5.thetvapp.to/hls/NCAAF01/tracks-v2a1/mono.m3u8?token=tT3YsYKiguoRYbvc9czfUw&expires=1759642418&user_id=QmtucnhkYVVlM2F1dXQxYlNsdXljdUw1UThEbkF5RWNjd1VEOEkwdQ==
 #EXTINF:-1 group-title="TheTVApp - NCAAF",4:00:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Kansas State Wildcats @ Baylor Bears - 10/4/25 - 4:00:00 PM UTC HD
-https://v17.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=u6njv6TqECj5rC9VzpzgLQ&expires=1759627879&user_id=OUd1RUZoZlhXMUR1MmpPV2lmQ3lmTERVd2NXMzhubW40cmdJRG83cw==
+https://e5.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=T-V_4W0OMh6UWAXKj6ZQOQ&expires=1759642423&user_id=QmtucnhkYVVlM2F1dXQxYlNsdXljdUw1UThEbkF5RWNjd1VEOEkwdQ==
 #EXTINF:-1 group-title="TheTVApp - NCAAF",4:00:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Ohio Bobcats @ Ball State Cardinals - 10/4/25 - 4:00:00 PM UTC SD
-https://v17.thetvapp.to/hls/CBSSportsNetworkUSA/tracks-v2a1/mono.m3u8?token=cB3AsGS2264PDK3AU4VD5g&expires=1759627883&user_id=OUd1RUZoZlhXMUR1MmpPV2lmQ3lmTERVd2NXMzhubW40cmdJRG83cw==
+https://v16.thetvapp.to/hls/CBSSportsNetworkUSA/tracks-v2a1/mono.m3u8?token=PHcw7z-6TyqtmpqIbkx_Lw&expires=1759642427&user_id=QmtucnhkYVVlM2F1dXQxYlNsdXljdUw1UThEbkF5RWNjd1VEOEkwdQ==
 #EXTINF:-1 group-title="TheTVApp - NCAAF",4:00:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Ohio Bobcats @ Ball State Cardinals - 10/4/25 - 4:00:00 PM UTC HD
-https://v12.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=OyGqKiUHa1RPW5c36WRKOw&expires=1759627888&user_id=OUd1RUZoZlhXMUR1MmpPV2lmQ3lmTERVd2NXMzhubW40cmdJRG83cw==
-#EXTINF:-1 group-title="TheTVApp - NCAAF",5:00:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",UTSA Roadrunners @ Temple Owls - 10/4/25 - 5:00:00 PM UTC SD
-https://v12.thetvapp.to/hls/NCAAF02/tracks-v2a1/mono.m3u8?token=jYhOrhtT9EMscZdWkumoLw&expires=1759627892&user_id=OUd1RUZoZlhXMUR1MmpPV2lmQ3lmTERVd2NXMzhubW40cmdJRG83cw==
-#EXTINF:-1 group-title="TheTVApp - NCAAF",5:00:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",UTSA Roadrunners @ Temple Owls - 10/4/25 - 5:00:00 PM UTC HD
-https://e4.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=PRG976LNBOfRNcl8siFUCA&expires=1759627897&user_id=OUd1RUZoZlhXMUR1MmpPV2lmQ3lmTERVd2NXMzhubW40cmdJRG83cw==
+https://v16.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=FUA2NeuDpKBoaaHlv-ISCQ&expires=1759642432&user_id=QmtucnhkYVVlM2F1dXQxYlNsdXljdUw1UThEbkF5RWNjd1VEOEkwdQ==
 #EXTINF:-1 group-title="TheTVApp - NCAAF",5:00:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Wake Forest Demon Deacons @ Virginia Tech Hokies - 10/4/25 - 5:00:00 PM UTC SD
-https://v4.thetvapp.to/hls/WPIX/tracks-v2a1/mono.m3u8?token=ceSz21MWNnDpZhR_KOvIcw&expires=1759627901&user_id=OUd1RUZoZlhXMUR1MmpPV2lmQ3lmTERVd2NXMzhubW40cmdJRG83cw==
-#EXTINF:-1 group-title="TheTVApp - NCAAF",5:00:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Wake Forest Demon Deacons @ Virginia Tech Hokies - 10/4/25 - 5:00:00 PM UTC HD
-https://v4.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=qcLSoKy8yDaQ3W-yI4Bv_A&expires=1759627906&user_id=OUd1RUZoZlhXMUR1MmpPV2lmQ3lmTERVd2NXMzhubW40cmdJRG83cw==
-#EXTINF:-1 group-title="TheTVApp - NCAAF",6:00:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Campbell Fighting Camels @ NC State Wolfpack - 10/4/25 - 6:00:00 PM UTC SD
-https://e5.thetvapp.to/hls/NCAAF03/tracks-v2a1/mono.m3u8?token=IRE4fYJddPf4rgzxnPx8HA&expires=1759627910&user_id=OUd1RUZoZlhXMUR1MmpPV2lmQ3lmTERVd2NXMzhubW40cmdJRG83cw==
+https://e3.thetvapp.to/hls/WPIX/tracks-v2a1/mono.m3u8?token=gca-A4lguuqxxIvgJHzLaA&expires=1759642446&user_id=QmtucnhkYVVlM2F1dXQxYlNsdXljdUw1UThEbkF5RWNjd1VEOEkwdQ==
 #EXTINF:-1 group-title="TheTVApp - NCAAF",6:00:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Campbell Fighting Camels @ NC State Wolfpack - 10/4/25 - 6:00:00 PM UTC HD
-https://v1.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=C1X0zemJOTAqq6hXF_iREQ&expires=1759627915&user_id=OUd1RUZoZlhXMUR1MmpPV2lmQ3lmTERVd2NXMzhubW40cmdJRG83cw==
+https://v17.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=w2_o9kWlFWRa5i3kmDPpeg&expires=1759642459&user_id=QmtucnhkYVVlM2F1dXQxYlNsdXljdUw1UThEbkF5RWNjd1VEOEkwdQ==
 #EXTINF:-1 group-title="TheTVApp - NCAAF",6:30:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Western Michigan Broncos @ UMass Minutemen - 10/4/25 - 6:30:00 PM UTC SD
-https://v14.thetvapp.to/hls/NCAAF04/tracks-v2a1/mono.m3u8?token=wkjEEzVrzEg_iyYfBKMnNQ&expires=1759627919&user_id=OUd1RUZoZlhXMUR1MmpPV2lmQ3lmTERVd2NXMzhubW40cmdJRG83cw==
+https://v17.thetvapp.to/hls/NCAAF04/tracks-v2a1/mono.m3u8?token=NP-_qp5ARSBpptaNtbpZuA&expires=1759642464&user_id=QmtucnhkYVVlM2F1dXQxYlNsdXljdUw1UThEbkF5RWNjd1VEOEkwdQ==
 #EXTINF:-1 group-title="TheTVApp - NCAAF",6:30:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Western Michigan Broncos @ UMass Minutemen - 10/4/25 - 6:30:00 PM UTC HD
-https://v14.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=TPmnb8qdU1DaFa0zXLQDhg&expires=1759627924&user_id=OUd1RUZoZlhXMUR1MmpPV2lmQ3lmTERVd2NXMzhubW40cmdJRG83cw==
-#EXTINF:-1 group-title="TheTVApp - NCAAF",7:00:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Oklahoma State Cowboys @ Arizona Wildcats - 10/4/25 - 7:00:00 PM UTC SD
-https://v14.thetvapp.to/hls/TNTEast/tracks-v2a1/mono.m3u8?token=rfEwc32VLjMCxW9iGv7f1Q&expires=1759627928&user_id=OUd1RUZoZlhXMUR1MmpPV2lmQ3lmTERVd2NXMzhubW40cmdJRG83cw==
+https://v3.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=JVECTQ8REU79lEXgGwcI_Q&expires=1759642468&user_id=QmtucnhkYVVlM2F1dXQxYlNsdXljdUw1UThEbkF5RWNjd1VEOEkwdQ==
 #EXTINF:-1 group-title="TheTVApp - NCAAF",7:00:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Oklahoma State Cowboys @ Arizona Wildcats - 10/4/25 - 7:00:00 PM UTC HD
-https://v5.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=bE5PIzwfUXa6GdFC5Bu_BA&expires=1759627933&user_id=OUd1RUZoZlhXMUR1MmpPV2lmQ3lmTERVd2NXMzhubW40cmdJRG83cw==
+https://e4.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=2uwjbkG0fLVu1QQYE2eDsw&expires=1759642478&user_id=QmtucnhkYVVlM2F1dXQxYlNsdXljdUw1UThEbkF5RWNjd1VEOEkwdQ==
 #EXTINF:-1 group-title="TheTVApp - NCAAF",7:30:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Syracuse Orange @ SMU Mustangs - 10/4/25 - 7:30:00 PM UTC SD
-https://v5.thetvapp.to/hls/ACCNetwork/tracks-v2a1/mono.m3u8?token=Qe3NcpvuaqwGXQZrRAEJZA&expires=1759627937&user_id=OUd1RUZoZlhXMUR1MmpPV2lmQ3lmTERVd2NXMzhubW40cmdJRG83cw==
+https://v4.thetvapp.to/hls/ACCNetwork/tracks-v2a1/mono.m3u8?token=yMQKT1-Memmyc5ghbsxW4A&expires=1759642482&user_id=QmtucnhkYVVlM2F1dXQxYlNsdXljdUw1UThEbkF5RWNjd1VEOEkwdQ==
 #EXTINF:-1 group-title="TheTVApp - NCAAF",7:30:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Syracuse Orange @ SMU Mustangs - 10/4/25 - 7:30:00 PM UTC HD
-https://v1.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=arem6xU6PDsdqKG7m22vdA&expires=1759627942&user_id=OUd1RUZoZlhXMUR1MmpPV2lmQ3lmTERVd2NXMzhubW40cmdJRG83cw==
+https://v14.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=fddxMN9FRNKvnTPTdxU5Ig&expires=1759642487&user_id=QmtucnhkYVVlM2F1dXQxYlNsdXljdUw1UThEbkF5RWNjd1VEOEkwdQ==
 #EXTINF:-1 group-title="TheTVApp - NCAAF",7:30:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Penn State Nittany Lions @ UCLA Bruins - 10/4/25 - 7:30:00 PM UTC SD
-https://v16.thetvapp.to/hls/WCBSDT1/tracks-v2a1/mono.m3u8?token=ZfRGLDS4Xn_wvtG0KV-zbg&expires=1759627947&user_id=OUd1RUZoZlhXMUR1MmpPV2lmQ3lmTERVd2NXMzhubW40cmdJRG83cw==
-#EXTINF:-1 group-title="TheTVApp - NCAAF",7:30:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",UL Monroe Warhawks @ Northwestern Wildcats - 10/4/25 - 7:30:00 PM UTC SD
-https://e2.thetvapp.to/hls/NCAAF10/tracks-v2a1/mono.m3u8?token=w9vjzDC1BaCeY0kA2D0hdA&expires=1759627956&user_id=OUd1RUZoZlhXMUR1MmpPV2lmQ3lmTERVd2NXMzhubW40cmdJRG83cw==
+https://e2.thetvapp.to/hls/WCBSDT1/tracks-v2a1/mono.m3u8?token=lUdJIXmscNBPHqBhAJLDxQ&expires=1759642491&user_id=QmtucnhkYVVlM2F1dXQxYlNsdXljdUw1UThEbkF5RWNjd1VEOEkwdQ==
+#EXTINF:-1 group-title="TheTVApp - NCAAF",7:30:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Penn State Nittany Lions @ UCLA Bruins - 10/4/25 - 7:30:00 PM UTC HD
+https://e2.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=7JHf-pRlpKhQRPTRKyf-Bw&expires=1759642496&user_id=QmtucnhkYVVlM2F1dXQxYlNsdXljdUw1UThEbkF5RWNjd1VEOEkwdQ==
 #EXTINF:-1 group-title="TheTVApp - NCAAF",7:30:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",UL Monroe Warhawks @ Northwestern Wildcats - 10/4/25 - 7:30:00 PM UTC HD
-https://e2.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=l_D9rb1UZzdQGvP38uV1_A&expires=1759627960&user_id=OUd1RUZoZlhXMUR1MmpPV2lmQ3lmTERVd2NXMzhubW40cmdJRG83cw==
+https://v1.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=GoeZDNSLfTSEXkvipcOxaQ&expires=1759642505&user_id=QmtucnhkYVVlM2F1dXQxYlNsdXljdUw1UThEbkF5RWNjd1VEOEkwdQ==
 #EXTINF:-1 group-title="TheTVApp - NCAAF",7:30:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Miami (OH) RedHawks @ Northern Illinois Huskies - 10/4/25 - 7:30:00 PM UTC SD
-https://e2.thetvapp.to/hls/NCAAF09/tracks-v2a1/mono.m3u8?token=hp5vvb_CjCGSob-CimhyiA&expires=1759627965&user_id=OUd1RUZoZlhXMUR1MmpPV2lmQ3lmTERVd2NXMzhubW40cmdJRG83cw==
+https://v15.thetvapp.to/hls/NCAAF09/tracks-v2a1/mono.m3u8?token=2aJUrfuoBwO4TXrni91wQg&expires=1759642509&user_id=QmtucnhkYVVlM2F1dXQxYlNsdXljdUw1UThEbkF5RWNjd1VEOEkwdQ==
 #EXTINF:-1 group-title="TheTVApp - NCAAF",7:30:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Miami (OH) RedHawks @ Northern Illinois Huskies - 10/4/25 - 7:30:00 PM UTC HD
-https://v13.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=_FiSXH7rd4OryqtLcNOEXQ&expires=1759627969&user_id=OUd1RUZoZlhXMUR1MmpPV2lmQ3lmTERVd2NXMzhubW40cmdJRG83cw==
+https://v18.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=lTbZdFF_c0rSzztTzlvjeQ&expires=1759642514&user_id=QmtucnhkYVVlM2F1dXQxYlNsdXljdUw1UThEbkF5RWNjd1VEOEkwdQ==
 #EXTINF:-1 group-title="TheTVApp - NCAAF",7:30:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Washington Huskies @ Maryland Terrapins - 10/4/25 - 7:30:00 PM UTC SD
-https://v13.thetvapp.to/hls/BTN/tracks-v2a1/mono.m3u8?token=8iP4k42bxe56XVfquIhT7g&expires=1759627974&user_id=OUd1RUZoZlhXMUR1MmpPV2lmQ3lmTERVd2NXMzhubW40cmdJRG83cw==
+https://v18.thetvapp.to/hls/BTN/tracks-v2a1/mono.m3u8?token=M2LCKYT7ams5vgbTa4fpDg&expires=1759642519&user_id=QmtucnhkYVVlM2F1dXQxYlNsdXljdUw1UThEbkF5RWNjd1VEOEkwdQ==
 #EXTINF:-1 group-title="TheTVApp - NCAAF",7:30:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Washington Huskies @ Maryland Terrapins - 10/4/25 - 7:30:00 PM UTC HD
-https://v18.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=8PbEpKCw5ye7OrHDZO4yiA&expires=1759627978&user_id=OUd1RUZoZlhXMUR1MmpPV2lmQ3lmTERVd2NXMzhubW40cmdJRG83cw==
-#EXTINF:-1 group-title="TheTVApp - NCAAF",7:30:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Virginia Cavaliers @ Louisville Cardinals - 10/4/25 - 7:30:00 PM UTC SD
-https://v18.thetvapp.to/hls/ESPN2/tracks-v2a1/mono.m3u8?token=Eln26eCTVP2sX4lTfaNyNA&expires=1759627983&user_id=OUd1RUZoZlhXMUR1MmpPV2lmQ3lmTERVd2NXMzhubW40cmdJRG83cw==
+https://v3.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=2uUmW9HOimwEeFq6rRStoQ&expires=1759642523&user_id=QmtucnhkYVVlM2F1dXQxYlNsdXljdUw1UThEbkF5RWNjd1VEOEkwdQ==
 #EXTINF:-1 group-title="TheTVApp - NCAAF",7:30:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Virginia Cavaliers @ Louisville Cardinals - 10/4/25 - 7:30:00 PM UTC HD
-https://e3.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=Cj8r6kYGxF9NdFiBC8NTpA&expires=1759627987&user_id=OUd1RUZoZlhXMUR1MmpPV2lmQ3lmTERVd2NXMzhubW40cmdJRG83cw==
-#EXTINF:-1 group-title="TheTVApp - NCAAF",7:30:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",James Madison Dukes @ Georgia State Panthers - 10/4/25 - 7:30:00 PM UTC SD
-https://e5.thetvapp.to/hls/NCAAF08/tracks-v2a1/mono.m3u8?token=vdLuOhYnzjCya9q7qjZlGg&expires=1759627992&user_id=OUd1RUZoZlhXMUR1MmpPV2lmQ3lmTERVd2NXMzhubW40cmdJRG83cw==
+https://e1.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=vzuxa0VE32LkoU8RuVyYjQ&expires=1759642532&user_id=QmtucnhkYVVlM2F1dXQxYlNsdXljdUw1UThEbkF5RWNjd1VEOEkwdQ==
 #EXTINF:-1 group-title="TheTVApp - NCAAF",7:30:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",James Madison Dukes @ Georgia State Panthers - 10/4/25 - 7:30:00 PM UTC HD
-https://v1.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=ShI639E9OlLhCCYhpGXpFQ&expires=1759627996&user_id=OUd1RUZoZlhXMUR1MmpPV2lmQ3lmTERVd2NXMzhubW40cmdJRG83cw==
+https://v1.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=sVBe-Pvxw6BfUUQQnk53yw&expires=1759642541&user_id=QmtucnhkYVVlM2F1dXQxYlNsdXljdUw1UThEbkF5RWNjd1VEOEkwdQ==
 #EXTINF:-1 group-title="TheTVApp - NCAAF",7:30:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Texas Longhorns @ Florida Gators - 10/4/25 - 7:30:00 PM UTC SD
-https://e4.thetvapp.to/hls/ESPN/tracks-v2a1/mono.m3u8?token=skDFdX-FvPYhXA9XRBN6-g&expires=1759628001&user_id=OUd1RUZoZlhXMUR1MmpPV2lmQ3lmTERVd2NXMzhubW40cmdJRG83cw==
+https://e3.thetvapp.to/hls/ESPN/tracks-v2a1/mono.m3u8?token=gN-Hsxj7ITASHYdZ4Kb7Vg&expires=1759642546&user_id=QmtucnhkYVVlM2F1dXQxYlNsdXljdUw1UThEbkF5RWNjd1VEOEkwdQ==
 #EXTINF:-1 group-title="TheTVApp - NCAAF",7:30:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Texas Longhorns @ Florida Gators - 10/4/25 - 7:30:00 PM UTC HD
-https://v15.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=BkaBRETEHDTAQ2wjF1OO1A&expires=1759628006&user_id=OUd1RUZoZlhXMUR1MmpPV2lmQ3lmTERVd2NXMzhubW40cmdJRG83cw==
+https://e3.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=VAlAMrSdpf8-Yc7Cp6QmcQ&expires=1759642550&user_id=QmtucnhkYVVlM2F1dXQxYlNsdXljdUw1UThEbkF5RWNjd1VEOEkwdQ==
 #EXTINF:-1 group-title="TheTVApp - NCAAF",7:30:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Eastern Michigan Eagles @ Buffalo Bulls - 10/4/25 - 7:30:00 PM UTC SD
-https://v15.thetvapp.to/hls/NCAAF07/tracks-v2a1/mono.m3u8?token=C2Cf4GORRoMFKhA8VcVz2w&expires=1759628010&user_id=OUd1RUZoZlhXMUR1MmpPV2lmQ3lmTERVd2NXMzhubW40cmdJRG83cw==
+https://v12.thetvapp.to/hls/NCAAF07/tracks-v2a1/mono.m3u8?token=ehfpesTglahlgHpTNGWYyg&expires=1759642555&user_id=QmtucnhkYVVlM2F1dXQxYlNsdXljdUw1UThEbkF5RWNjd1VEOEkwdQ==
+#EXTINF:-1 group-title="TheTVApp - NCAAF",7:30:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Eastern Michigan Eagles @ Buffalo Bulls - 10/4/25 - 7:30:00 PM UTC HD
+https://v12.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=iIGOhtmqmqXZrXkMI5El5A&expires=1759642559&user_id=QmtucnhkYVVlM2F1dXQxYlNsdXljdUw1UThEbkF5RWNjd1VEOEkwdQ==
 #EXTINF:-1 group-title="TheTVApp - NCAAF",7:30:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Boise State Broncos @ Notre Dame Fighting Irish - 10/4/25 - 7:30:00 PM UTC SD
-https://v2.thetvapp.to/hls/WNBCDT1/tracks-v2a1/mono.m3u8?token=SDDCzZT0XiYIl-2qmLUXWw&expires=1759628019&user_id=OUd1RUZoZlhXMUR1MmpPV2lmQ3lmTERVd2NXMzhubW40cmdJRG83cw==
+https://v16.thetvapp.to/hls/WNBCDT1/tracks-v2a1/mono.m3u8?token=BvMdbLP-uhamNCMk_WG8qg&expires=1759642564&user_id=QmtucnhkYVVlM2F1dXQxYlNsdXljdUw1UThEbkF5RWNjd1VEOEkwdQ==
 #EXTINF:-1 group-title="TheTVApp - NCAAF",7:30:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Boise State Broncos @ Notre Dame Fighting Irish - 10/4/25 - 7:30:00 PM UTC HD
-https://v2.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=CkhGtVA-s07iXePNozwcOQ&expires=1759628024&user_id=OUd1RUZoZlhXMUR1MmpPV2lmQ3lmTERVd2NXMzhubW40cmdJRG83cw==
+https://e1.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=HE68I3STAlvq6Pb-fihQtg&expires=1759642569&user_id=QmtucnhkYVVlM2F1dXQxYlNsdXljdUw1UThEbkF5RWNjd1VEOEkwdQ==
 #EXTINF:-1 group-title="TheTVApp - NCAAF",7:30:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Oregon State Beavers @ Appalachian State Mountaineers - 10/4/25 - 7:30:00 PM UTC SD
-https://v14.thetvapp.to/hls/NCAAF06/tracks-v2a1/mono.m3u8?token=bJ5QWcCAPxL5H_86b_LHbQ&expires=1759628028&user_id=OUd1RUZoZlhXMUR1MmpPV2lmQ3lmTERVd2NXMzhubW40cmdJRG83cw==
+https://v5.thetvapp.to/hls/NCAAF06/tracks-v2a1/mono.m3u8?token=qDBQ4mEERv0L4mgSrX1qow&expires=1759642573&user_id=QmtucnhkYVVlM2F1dXQxYlNsdXljdUw1UThEbkF5RWNjd1VEOEkwdQ==
 #EXTINF:-1 group-title="TheTVApp - NCAAF",7:30:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Oregon State Beavers @ Appalachian State Mountaineers - 10/4/25 - 7:30:00 PM UTC HD
-https://e1.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=5SugQ26IOiaDWARKckaPbQ&expires=1759628033&user_id=OUd1RUZoZlhXMUR1MmpPV2lmQ3lmTERVd2NXMzhubW40cmdJRG83cw==
+https://v5.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=B8GizHwdM-n5OJ0pxu6VxQ&expires=1759642578&user_id=QmtucnhkYVVlM2F1dXQxYlNsdXljdUw1UThEbkF5RWNjd1VEOEkwdQ==
 #EXTINF:-1 group-title="TheTVApp - NCAAF",7:30:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Vanderbilt Commodores @ Alabama Crimson Tide - 10/4/25 - 7:30:00 PM UTC SD
-https://e1.thetvapp.to/hls/WABCDT1/tracks-v2a1/mono.m3u8?token=1kdyNpc3EwqNotTsf7rhQg&expires=1759628037&user_id=OUd1RUZoZlhXMUR1MmpPV2lmQ3lmTERVd2NXMzhubW40cmdJRG83cw==
+https://v5.thetvapp.to/hls/WABCDT1/tracks-v2a1/mono.m3u8?token=HUxtzEb-ovQpayq4boeCcg&expires=1759642582&user_id=QmtucnhkYVVlM2F1dXQxYlNsdXljdUw1UThEbkF5RWNjd1VEOEkwdQ==
 #EXTINF:-1 group-title="TheTVApp - NCAAF",7:30:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Vanderbilt Commodores @ Alabama Crimson Tide - 10/4/25 - 7:30:00 PM UTC HD
-https://v12.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=eUHbV8ZSJWKIFQYmVPuzNw&expires=1759628042&user_id=OUd1RUZoZlhXMUR1MmpPV2lmQ3lmTERVd2NXMzhubW40cmdJRG83cw==
+https://v14.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=0jOMhz4G5eRMVTXZkNyvQQ&expires=1759642587&user_id=QmtucnhkYVVlM2F1dXQxYlNsdXljdUw1UThEbkF5RWNjd1VEOEkwdQ==
 #EXTINF:-1 group-title="TheTVApp - NCAAF",7:30:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Central Michigan Chippewas @ Akron Zips - 10/4/25 - 7:30:00 PM UTC SD
-https://v3.thetvapp.to/hls/NCAAF05/tracks-v2a1/mono.m3u8?token=waDd2rK9AXEXQY9dxzTfxQ&expires=1759628046&user_id=OUd1RUZoZlhXMUR1MmpPV2lmQ3lmTERVd2NXMzhubW40cmdJRG83cw==
+https://v14.thetvapp.to/hls/NCAAF05/tracks-v2a1/mono.m3u8?token=nX7g3PIskmvvHfTxPqyIDw&expires=1759642591&user_id=QmtucnhkYVVlM2F1dXQxYlNsdXljdUw1UThEbkF5RWNjd1VEOEkwdQ==
 #EXTINF:-1 group-title="TheTVApp - NCAAF",7:30:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Central Michigan Chippewas @ Akron Zips - 10/4/25 - 7:30:00 PM UTC HD
-https://v3.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=330eBMWYd5PthhiBDEHeBg&expires=1759628051&user_id=OUd1RUZoZlhXMUR1MmpPV2lmQ3lmTERVd2NXMzhubW40cmdJRG83cw==
+https://v13.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=5wbdEiN8CYGFIj-kcXr4wg&expires=1759642596&user_id=QmtucnhkYVVlM2F1dXQxYlNsdXljdUw1UThEbkF5RWNjd1VEOEkwdQ==
 #EXTINF:-1 group-title="TheTVApp - NCAAF",7:30:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Florida International Panthers @ UConn Huskies - 10/4/25 - 7:30:00 PM UTC SD
-https://v8.thetvapp.to/hls/CBSSportsNetworkUSA/tracks-v2a1/mono.m3u8?token=LZDLDORCo-kEUhFKM1xPqQ&expires=1759628055&user_id=OUd1RUZoZlhXMUR1MmpPV2lmQ3lmTERVd2NXMzhubW40cmdJRG83cw==
+https://v13.thetvapp.to/hls/CBSSportsNetworkUSA/tracks-v2a1/mono.m3u8?token=v27OPWhKp5fjItVR5e9wBA&expires=1759642600&user_id=QmtucnhkYVVlM2F1dXQxYlNsdXljdUw1UThEbkF5RWNjd1VEOEkwdQ==
+#EXTINF:-1 group-title="TheTVApp - NCAAF",7:30:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Florida International Panthers @ UConn Huskies - 10/4/25 - 7:30:00 PM UTC HD
+https://v4.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=rbLdTTAOzI9L8CFnAy5eGQ&expires=1759642605&user_id=QmtucnhkYVVlM2F1dXQxYlNsdXljdUw1UThEbkF5RWNjd1VEOEkwdQ==
 #EXTINF:-1 group-title="TheTVApp - NCAAF",8:00:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Texas State Bobcats @ Arkansas State Red Wolves - 10/4/25 - 8:00:00 PM UTC SD
-https://v18.thetvapp.to/hls/ESPNU/tracks-v2a1/mono.m3u8?token=6eZlua1DeB3EHLcR41CtlA&expires=1759628065&user_id=OUd1RUZoZlhXMUR1MmpPV2lmQ3lmTERVd2NXMzhubW40cmdJRG83cw==
+https://v15.thetvapp.to/hls/ESPNU/tracks-v2a1/mono.m3u8?token=hKqKBojG2aDmhW36gb_JKA&expires=1759642610&user_id=QmtucnhkYVVlM2F1dXQxYlNsdXljdUw1UThEbkF5RWNjd1VEOEkwdQ==
 #EXTINF:-1 group-title="TheTVApp - NCAAF",8:00:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Texas State Bobcats @ Arkansas State Red Wolves - 10/4/25 - 8:00:00 PM UTC HD
-https://v1.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=-FQW6o6pDKMBIRLFEp5rWA&expires=1759628069&user_id=OUd1RUZoZlhXMUR1MmpPV2lmQ3lmTERVd2NXMzhubW40cmdJRG83cw==
+https://v15.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=EqZBbYOIa8H6_akhV4tsig&expires=1759642614&user_id=QmtucnhkYVVlM2F1dXQxYlNsdXljdUw1UThEbkF5RWNjd1VEOEkwdQ==
 #EXTINF:-1 group-title="TheTVApp - NCAAF",8:00:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Kent State Golden Flashes @ Oklahoma Sooners - 10/4/25 - 8:00:00 PM UTC SD
-https://v1.thetvapp.to/hls/SECN/tracks-v2a1/mono.m3u8?token=3KZfWDiCQimZdhAboteTAg&expires=1759628074&user_id=OUd1RUZoZlhXMUR1MmpPV2lmQ3lmTERVd2NXMzhubW40cmdJRG83cw==
+https://v2.thetvapp.to/hls/SECN/tracks-v2a1/mono.m3u8?token=EbfJxpXpP7mnjHzQemJEug&expires=1759642619&user_id=QmtucnhkYVVlM2F1dXQxYlNsdXljdUw1UThEbkF5RWNjd1VEOEkwdQ==
 #EXTINF:-1 group-title="TheTVApp - NCAAF",8:00:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Kent State Golden Flashes @ Oklahoma Sooners - 10/4/25 - 8:00:00 PM UTC HD
-https://v5.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=bc_ZkcdLtDnMIs0_m1lwrg&expires=1759628078&user_id=OUd1RUZoZlhXMUR1MmpPV2lmQ3lmTERVd2NXMzhubW40cmdJRG83cw==
+https://v2.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=HEv_SrhHiWANJVY3E93iNg&expires=1759642623&user_id=QmtucnhkYVVlM2F1dXQxYlNsdXljdUw1UThEbkF5RWNjd1VEOEkwdQ==
 #EXTINF:-1 group-title="TheTVApp - NCAAF",8:00:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Michigan State Spartans @ Nebraska Cornhuskers - 10/4/25 - 8:00:00 PM UTC SD
-https://v5.thetvapp.to/hls/FoxSports1/tracks-v2a1/mono.m3u8?token=nVgdX5MTkqbSSkFNUWG0zg&expires=1759628083&user_id=OUd1RUZoZlhXMUR1MmpPV2lmQ3lmTERVd2NXMzhubW40cmdJRG83cw==
+https://v2.thetvapp.to/hls/FoxSports1/tracks-v2a1/mono.m3u8?token=hDDHiv7ldAjPgJ7Dsrzj3g&expires=1759642628&user_id=QmtucnhkYVVlM2F1dXQxYlNsdXljdUw1UThEbkF5RWNjd1VEOEkwdQ==
 #EXTINF:-1 group-title="TheTVApp - NCAAF",8:00:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Michigan State Spartans @ Nebraska Cornhuskers - 10/4/25 - 8:00:00 PM UTC HD
-https://v4.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=Lo3HfAcoi4yv2awA3hayhQ&expires=1759628087&user_id=OUd1RUZoZlhXMUR1MmpPV2lmQ3lmTERVd2NXMzhubW40cmdJRG83cw==
+https://e2.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=xu3Qa2psAHJ-yeDlgGe4cg&expires=1759642632&user_id=QmtucnhkYVVlM2F1dXQxYlNsdXljdUw1UThEbkF5RWNjd1VEOEkwdQ==
+#EXTINF:-1 group-title="TheTVApp - NCAAF",10:00:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Coastal Carolina Chanticleers @ Old Dominion Monarchs - 10/4/25 - 10:00:00 PM UTC SD
+https://e2.thetvapp.to/hls/NCAAF11/tracks-v2a1/mono.m3u8?token=MUHY8ST8Su0-Dxs99bFNNw&expires=1759642637&user_id=QmtucnhkYVVlM2F1dXQxYlNsdXljdUw1UThEbkF5RWNjd1VEOEkwdQ==
 #EXTINF:-1 group-title="TheTVApp - NCAAF",10:00:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Coastal Carolina Chanticleers @ Old Dominion Monarchs - 10/4/25 - 10:00:00 PM UTC HD
-https://e5.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=0NW3SIsGBnklFz5G96wlPg&expires=1759628096&user_id=OUd1RUZoZlhXMUR1MmpPV2lmQ3lmTERVd2NXMzhubW40cmdJRG83cw==
+https://e2.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=z0GgUqE6PUX9Q832BC__tQ&expires=1759642641&user_id=QmtucnhkYVVlM2F1dXQxYlNsdXljdUw1UThEbkF5RWNjd1VEOEkwdQ==
+#EXTINF:-1 group-title="TheTVApp - NCAAF",11:00:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Florida Atlantic Owls @ Rice Owls - 10/4/25 - 11:00:00 PM UTC SD
+https://v17.thetvapp.to/hls/NCAAF12/tracks-v2a1/mono.m3u8?token=ZL5V8ywS43bSLQsnz1LnUw&expires=1759642646&user_id=QmtucnhkYVVlM2F1dXQxYlNsdXljdUw1UThEbkF5RWNjd1VEOEkwdQ==
 #EXTINF:-1 group-title="TheTVApp - NCAAF",11:00:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Florida Atlantic Owls @ Rice Owls - 10/4/25 - 11:00:00 PM UTC HD
-https://v16.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=Fn0hYZYj8g677RBrZXTmzQ&expires=1759628105&user_id=OUd1RUZoZlhXMUR1MmpPV2lmQ3lmTERVd2NXMzhubW40cmdJRG83cw==
+https://v17.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=OiayoeoEb43gUTal4osLEA&expires=1759642651&user_id=QmtucnhkYVVlM2F1dXQxYlNsdXljdUw1UThEbkF5RWNjd1VEOEkwdQ==
 #EXTINF:-1 group-title="TheTVApp - NCAAF",11:00:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",UNLV Rebels @ Wyoming Cowboys - 10/4/25 - 11:00:00 PM UTC SD
-https://v16.thetvapp.to/hls/CBSSportsNetworkUSA/tracks-v2a1/mono.m3u8?token=clpVoYIpLswZF24v3ei1DQ&expires=1759628110&user_id=OUd1RUZoZlhXMUR1MmpPV2lmQ3lmTERVd2NXMzhubW40cmdJRG83cw==
+https://v8.thetvapp.to/hls/CBSSportsNetworkUSA/tracks-v2a1/mono.m3u8?token=iv638JRe05tG5AwdKZH_rw&expires=1759642655&user_id=QmtucnhkYVVlM2F1dXQxYlNsdXljdUw1UThEbkF5RWNjd1VEOEkwdQ==
 #EXTINF:-1 group-title="TheTVApp - NCAAF",11:00:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",UNLV Rebels @ Wyoming Cowboys - 10/4/25 - 11:00:00 PM UTC HD
-https://v18.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=0xqH8dPEFusVaRqKpNSMdQ&expires=1759628114&user_id=OUd1RUZoZlhXMUR1MmpPV2lmQ3lmTERVd2NXMzhubW40cmdJRG83cw==
+https://v8.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=LjaKZAkKWUnlc5zV8KBVbA&expires=1759642660&user_id=QmtucnhkYVVlM2F1dXQxYlNsdXljdUw1UThEbkF5RWNjd1VEOEkwdQ==
 #EXTINF:-1 group-title="TheTVApp - NCAAF",11:00:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Texas Tech Red Raiders @ Houston Cougars - 10/4/25 - 11:00:00 PM UTC SD
-https://v17.thetvapp.to/hls/ESPN/tracks-v2a1/mono.m3u8?token=1M5VW3HdQRLqBWeJXESxYQ&expires=1759628128&user_id=OUd1RUZoZlhXMUR1MmpPV2lmQ3lmTERVd2NXMzhubW40cmdJRG83cw==
+https://v1.thetvapp.to/hls/ESPN/tracks-v2a1/mono.m3u8?token=fx5uhDqWNAbV7aiUBWT7lg&expires=1759642673&user_id=QmtucnhkYVVlM2F1dXQxYlNsdXljdUw1UThEbkF5RWNjd1VEOEkwdQ==
 #EXTINF:-1 group-title="TheTVApp - NCAAF",11:00:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Texas Tech Red Raiders @ Houston Cougars - 10/4/25 - 11:00:00 PM UTC HD
-https://v8.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=4nPUBMHLp4PXQqiVBWDqhA&expires=1759628133&user_id=OUd1RUZoZlhXMUR1MmpPV2lmQ3lmTERVd2NXMzhubW40cmdJRG83cw==
+https://e5.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=8dobo4KnEA2Tt82tgK_omA&expires=1759642678&user_id=QmtucnhkYVVlM2F1dXQxYlNsdXljdUw1UThEbkF5RWNjd1VEOEkwdQ==
 #EXTINF:-1 group-title="TheTVApp - NCAAF",11:30:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Colorado Buffaloes @ TCU Horned Frogs - 10/4/25 - 11:30:00 PM UTC SD
-https://v8.thetvapp.to/hls/WNYWDT1/tracks-v2a1/mono.m3u8?token=lC4st_eS4rOGy8gqflR70w&expires=1759628137&user_id=OUd1RUZoZlhXMUR1MmpPV2lmQ3lmTERVd2NXMzhubW40cmdJRG83cw==
+https://e5.thetvapp.to/hls/WNYWDT1/tracks-v2a1/mono.m3u8?token=EHPc5aQsVlONu1vrpeUkQg&expires=1759642683&user_id=QmtucnhkYVVlM2F1dXQxYlNsdXljdUw1UThEbkF5RWNjd1VEOEkwdQ==
 #EXTINF:-1 group-title="TheTVApp - NCAAF",11:30:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Colorado Buffaloes @ TCU Horned Frogs - 10/4/25 - 11:30:00 PM UTC HD
-https://v3.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=AKBLBMPfI3W_MxMhatC7cA&expires=1759628142&user_id=OUd1RUZoZlhXMUR1MmpPV2lmQ3lmTERVd2NXMzhubW40cmdJRG83cw==
+https://e4.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=cU_c1K_e3rvo42fkoTzWZQ&expires=1759642687&user_id=QmtucnhkYVVlM2F1dXQxYlNsdXljdUw1UThEbkF5RWNjd1VEOEkwdQ==
 #EXTINF:-1 group-title="TheTVApp - NCAAF",11:30:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Miami Hurricanes @ Florida State Seminoles - 10/4/25 - 11:30:00 PM UTC SD
-https://v3.thetvapp.to/hls/ACCNetwork/tracks-v2a1/mono.m3u8?token=2Sfly4WBr7EJsxVqOCuRcA&expires=1759628146&user_id=OUd1RUZoZlhXMUR1MmpPV2lmQ3lmTERVd2NXMzhubW40cmdJRG83cw==
+https://e3.thetvapp.to/hls/ACCNetwork/tracks-v2a1/mono.m3u8?token=l4zFX-57ITnJYNL5r5-OzA&expires=1759642692&user_id=QmtucnhkYVVlM2F1dXQxYlNsdXljdUw1UThEbkF5RWNjd1VEOEkwdQ==
 #EXTINF:-1 group-title="TheTVApp - NCAAF",11:30:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Miami Hurricanes @ Florida State Seminoles - 10/4/25 - 11:30:00 PM UTC HD
-https://e1.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=XTSU5Ou-Wln0ISjpZr-EFQ&expires=1759628151&user_id=OUd1RUZoZlhXMUR1MmpPV2lmQ3lmTERVd2NXMzhubW40cmdJRG83cw==
+https://e3.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=9WJ1BX0iX9mQ7F45fPWKxg&expires=1759642696&user_id=QmtucnhkYVVlM2F1dXQxYlNsdXljdUw1UThEbkF5RWNjd1VEOEkwdQ==
 #EXTINF:-1 group-title="TheTVApp - NCAAF",11:30:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Kansas Jayhawks @ UCF Knights - 10/4/25 - 11:30:00 PM UTC SD
-https://v12.thetvapp.to/hls/ESPN2/tracks-v2a1/mono.m3u8?token=-cyNCGW3l3CjlVaXO7ti7Q&expires=1759628155&user_id=OUd1RUZoZlhXMUR1MmpPV2lmQ3lmTERVd2NXMzhubW40cmdJRG83cw==
+https://v12.thetvapp.to/hls/ESPN2/tracks-v2a1/mono.m3u8?token=b518KEZ7VHlBKrOOPWX4tw&expires=1759642701&user_id=QmtucnhkYVVlM2F1dXQxYlNsdXljdUw1UThEbkF5RWNjd1VEOEkwdQ==
 #EXTINF:-1 group-title="TheTVApp - NCAAF",11:30:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Kansas Jayhawks @ UCF Knights - 10/4/25 - 11:30:00 PM UTC HD
-https://v12.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=VFe2Kb1D4Tgi3ZO1Ncmj0g&expires=1759628160&user_id=OUd1RUZoZlhXMUR1MmpPV2lmQ3lmTERVd2NXMzhubW40cmdJRG83cw==
-#EXTINF:-1 group-title="TheTVApp - NCAAF",11:30:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Minnesota Golden Gophers @ Ohio State Buckeyes - 10/4/25 - 11:30:00 PM UTC SD
-https://v1.thetvapp.to/hls/WNBCDT1/tracks-v2a1/mono.m3u8?token=ceMh0pBwSSXJz10P24eNkA&expires=1759628164&user_id=OUd1RUZoZlhXMUR1MmpPV2lmQ3lmTERVd2NXMzhubW40cmdJRG83cw==
+https://v14.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=8Ed6Kd_9RpjKi4C63CrxfQ&expires=1759642705&user_id=QmtucnhkYVVlM2F1dXQxYlNsdXljdUw1UThEbkF5RWNjd1VEOEkwdQ==
 #EXTINF:-1 group-title="TheTVApp - NCAAF",11:30:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Minnesota Golden Gophers @ Ohio State Buckeyes - 10/4/25 - 11:30:00 PM UTC HD
-https://e4.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=au3-Vi9kp4sIhmlkrP5-zA&expires=1759628169&user_id=OUd1RUZoZlhXMUR1MmpPV2lmQ3lmTERVd2NXMzhubW40cmdJRG83cw==
+https://v12.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=181mJDFSsf8o0XS1yAL63Q&expires=1759642714&user_id=QmtucnhkYVVlM2F1dXQxYlNsdXljdUw1UThEbkF5RWNjd1VEOEkwdQ==
 #EXTINF:-1 group-title="TheTVApp - NCAAF",11:30:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Mississippi State Bulldogs @ Texas A&M Aggies - 10/4/25 - 11:30:00 PM UTC SD
-https://e5.thetvapp.to/hls/SECN/tracks-v2a1/mono.m3u8?token=gz7iDAM6IGBcS5-5UWUl6g&expires=1759628174&user_id=OUd1RUZoZlhXMUR1MmpPV2lmQ3lmTERVd2NXMzhubW40cmdJRG83cw==
+https://v4.thetvapp.to/hls/SECN/tracks-v2a1/mono.m3u8?token=qE7ymIiU7i0rvCvPKRHv0w&expires=1759642719&user_id=QmtucnhkYVVlM2F1dXQxYlNsdXljdUw1UThEbkF5RWNjd1VEOEkwdQ==
 #EXTINF:-1 group-title="TheTVApp - NCAAF",11:30:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Mississippi State Bulldogs @ Texas A&M Aggies - 10/4/25 - 11:30:00 PM UTC HD
-https://e5.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=yPh2G9VlxWEkwxlyq2d8Qw&expires=1759628178&user_id=OUd1RUZoZlhXMUR1MmpPV2lmQ3lmTERVd2NXMzhubW40cmdJRG83cw==
+https://v4.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=1g2cxunhZANx68FUEFNexw&expires=1759642724&user_id=QmtucnhkYVVlM2F1dXQxYlNsdXljdUw1UThEbkF5RWNjd1VEOEkwdQ==
 #EXTINF:-1 group-title="TheTVApp - NCAAF",12:00:00 AM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Tulsa Golden Hurricane @ Memphis Tigers - 10/5/25 - 12:00:00 AM UTC SD
-https://v4.thetvapp.to/hls/ESPNU/tracks-v2a1/mono.m3u8?token=zow91CV_r922mvO1HtHfpw&expires=1759628183&user_id=OUd1RUZoZlhXMUR1MmpPV2lmQ3lmTERVd2NXMzhubW40cmdJRG83cw==
+https://e2.thetvapp.to/hls/ESPNU/tracks-v2a1/mono.m3u8?token=J_EdQsY_9h_KwTS7LBiV7w&expires=1759642728&user_id=QmtucnhkYVVlM2F1dXQxYlNsdXljdUw1UThEbkF5RWNjd1VEOEkwdQ==
 #EXTINF:-1 group-title="TheTVApp - NCAAF",12:00:00 AM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Tulsa Golden Hurricane @ Memphis Tigers - 10/5/25 - 12:00:00 AM UTC HD
-https://v4.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=kYaXhFvInktZicHRyCRXoA&expires=1759628187&user_id=OUd1RUZoZlhXMUR1MmpPV2lmQ3lmTERVd2NXMzhubW40cmdJRG83cw==
+https://e1.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=8fXLBS722pEtbO2QfDRUyQ&expires=1759642733&user_id=QmtucnhkYVVlM2F1dXQxYlNsdXljdUw1UThEbkF5RWNjd1VEOEkwdQ==
 #EXTINF:-1 group-title="TheTVApp - NCAAF",2:30:00 AM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Duke Blue Devils @ California Golden Bears - 10/5/25 - 2:30:00 AM UTC SD
-https://v14.thetvapp.to/hls/ESPN/tracks-v2a1/mono.m3u8?token=M7NI7lXYhQ69hUwD1Q2IjA&expires=1759628192&user_id=OUd1RUZoZlhXMUR1MmpPV2lmQ3lmTERVd2NXMzhubW40cmdJRG83cw==
+https://v17.thetvapp.to/hls/ESPN/tracks-v2a1/mono.m3u8?token=zYQVOB9u7WtTkRZYEbnsCA&expires=1759642737&user_id=QmtucnhkYVVlM2F1dXQxYlNsdXljdUw1UThEbkF5RWNjd1VEOEkwdQ==
 #EXTINF:-1 group-title="TheTVApp - NCAAF",2:30:00 AM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Duke Blue Devils @ California Golden Bears - 10/5/25 - 2:30:00 AM UTC HD
-https://v18.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=bsqdjMUV4htAID70zC3K6Q&expires=1759628196&user_id=OUd1RUZoZlhXMUR1MmpPV2lmQ3lmTERVd2NXMzhubW40cmdJRG83cw==
+https://v17.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=X_Xl-oCGu2aSW8q7Ay7vYg&expires=1759642742&user_id=QmtucnhkYVVlM2F1dXQxYlNsdXljdUw1UThEbkF5RWNjd1VEOEkwdQ==
 #EXTINF:-1 group-title="TheTVApp - NCAAF",2:30:00 AM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Nevada Wolf Pack @ Fresno State Bulldogs - 10/5/25 - 2:30:00 AM UTC SD
-https://v18.thetvapp.to/hls/CBSSportsNetworkUSA/tracks-v2a1/mono.m3u8?token=uJMEbVYtJ7Pq8GjFK4_WlQ&expires=1759628201&user_id=OUd1RUZoZlhXMUR1MmpPV2lmQ3lmTERVd2NXMzhubW40cmdJRG83cw==
+https://v16.thetvapp.to/hls/CBSSportsNetworkUSA/tracks-v2a1/mono.m3u8?token=UoeeuQ4Otb5YVTQwu264ew&expires=1759642746&user_id=QmtucnhkYVVlM2F1dXQxYlNsdXljdUw1UThEbkF5RWNjd1VEOEkwdQ==
 #EXTINF:-1 group-title="TheTVApp - NCAAF",2:30:00 AM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Nevada Wolf Pack @ Fresno State Bulldogs - 10/5/25 - 2:30:00 AM UTC HD
-https://e2.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=NhnHBgkS60xAj__T3kLyBQ&expires=1759628205&user_id=OUd1RUZoZlhXMUR1MmpPV2lmQ3lmTERVd2NXMzhubW40cmdJRG83cw==
+https://e4.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=fJNESfZlbsawf2Y-_eaH6w&expires=1759642751&user_id=QmtucnhkYVVlM2F1dXQxYlNsdXljdUw1UThEbkF5RWNjd1VEOEkwdQ==
 #EXTINF:-1 group-title="SamsungTVPlus - CA",beIN SPORTS XTRA (CA)
 https://jmp2.uk/stvp-CABA8000043F
 #EXTINF:-1 group-title="SamsungTVPlus - CA",CG MMA En EspaÃ±ol (CA)
