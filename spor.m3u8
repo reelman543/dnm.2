@@ -343,36 +343,10 @@ https://mt01.utako.moe/js2/index.m3u8
 https://mt01.utako.moe/js3/index.m3u8
 #EXTINF:-1 group-title="JapanTV",JSport 4
 https://mt01.utako.moe/js4/index.m3u8
-#EXTINF:-1 group-title="PlexTV - Australia",Court Sports Network
-https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-652875586425fdb1f32d2169.m3u8
-#EXTINF:-1 group-title="PlexTV - Australia",Cricket Gold
-https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-65e0c8c6d899afe817b9d224.m3u8
-#EXTINF:-1 group-title="PlexTV - Australia",El Conflicto TV
-https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-621674f168c966be92737ce6.m3u8
-#EXTINF:-1 group-title="PlexTV - Australia",FTF Sports
-https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-605a309dc5acdc002c7a20aa.m3u8
-#EXTINF:-1 group-title="PlexTV - Australia",GLORY Kickboxing
-https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-63f914bffe2c3d32e1a7929f.m3u8
-#EXTINF:-1 group-title="PlexTV - Australia",ITV Deportes
-https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-688d3402a6fe30698ab42007.m3u8
-#EXTINF:-1 group-title="PlexTV - Australia",Motorsport.tv
-https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6408c82eebb23ab878e8ddbb.m3u8
-#EXTINF:-1 group-title="PlexTV - Australia",Motorvision TV
-https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4.m3u8
-#EXTINF:-1 group-title="PlexTV - Australia",PFL MMA
-https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-643f0ecd76de2b4015ae6c01.m3u8
-#EXTINF:-1 group-title="PlexTV - Australia",Racing America
-https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-61a945156547ba4d6d238dc9.m3u8
-#EXTINF:-1 group-title="PlexTV - Australia",Sports Illustrated TV
-https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6216ae22c3bbca2de8704f65.m3u8
-#EXTINF:-1 group-title="PlexTV - Australia",SportsGrid
-https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-5ef11485d33ab9004048a1ca.m3u8
-#EXTINF:-1 group-title="PlexTV - Australia",Strongman Champions
-https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-644b13a3a1c0a5b2024c8403.m3u8
-#EXTINF:-1 group-title="PlexTV - Australia",Tennis+
-https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6761f91555e174e95ccc4e4c.m3u8
-#EXTINF:-1 group-title="PlexTV - Australia",Women's Sports Network
-https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-630fa9e577ec3866def38fa2.m3u8
+#EXTINF:-1 group-title="JapanTV",Gaora Sports
+https://mt01.utako.moe/gaora/index.m3u8
+#EXTINF:-1 group-title="JapanTV",Sport Live Plus
+https://ca01.utako.moe/sport_live_plus/index.m3u8
 #EXTINF:-1 group-title="PlexTV - Canada",beIN Sports Xtra en Español
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-64a8903d273b89c4e7396553.m3u8
 #EXTINF:-1 group-title="PlexTV - Canada",Court Sports Network
@@ -535,54 +509,80 @@ https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-630fa9e577ec3866def38fa2.m3u8
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-68b0af6097cf9742e13391a5.m3u8
 #EXTINF:-1 group-title="DrewLive - XXX",Emma Magnolia
 https://cdn.baddiehub.com/Emma10.mp4
+#EXTINF:-1 group-title="DrewLive - XXX",Luna Star & Emma Magnolia - Brazzers
+http://drewlive24.duckdns.org:9000/DrewLive%20NSFW/Luna%20Star%20%26%20Emma%20Magnolia%20-%20Brazzers/BrazzersExxtra.24.07.19.Luna.Star.And.Emma.Magnolia.XXX.1080p.HEVC.x265.PRT.mkv
+#EXTINF:-1 group-title="DrewLive - VOD",Immaculate (2024)
+http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Immaculate.2024.1080p.BluRay.DDP5.1.x265.10bit-GalaxyRG265.mkv
+#EXTINF:-1 group-title="DrewLive - VOD",Love & Basketball (2000)
+http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Love.Basketball.2000.1080p.BluRay.x264.AAC5.1-%5BYTS.MX%5D.mp4
 #EXTINF:-1 group-title="TheTVApp",CBS Sports Network SD
-https://e3.thetvapp.to/hls/CBSSportsNetworkUSA/tracks-v1a1/mono.m3u8?token=H_fqhpWg6y0fB9vYlezHpg&expires=1760548538&user_id=bWpBcEx3QzBFa3paRUUwQTFOSXhLaFhjbmxRdW1oaU1mazIyVVMxTw==
+https://v13.thetvapp.to/hls/CBSSportsNetworkUSA/tracks-v1a1/mono.m3u8?token=bBqVDL81dNSqGW63SKF5Nw&expires=1760591799&user_id=dVMwUjVaNmt0M0FvWXltY1cxM0x5b2xwR0dFWGhYRkpJYjhPdlRaMA==
 #EXTINF:-1 group-title="TheTVApp",CBS Sports Network HD
-https://v12.thetvapp.to/hls/CBSSportsNetworkUSA/tracks-v1a1/mono.m3u8?token=g-T0woCAkgUXtI2hqRyPCA&expires=1760548547&user_id=bWpBcEx3QzBFa3paRUUwQTFOSXhLaFhjbmxRdW1oaU1mazIyVVMxTw==
+https://e5.thetvapp.to/hls/CBSSportsNetworkUSA/tracks-v1a1/mono.m3u8?token=qFkq9zYCAhpvMhBD8CGCYg&expires=1760591808&user_id=dVMwUjVaNmt0M0FvWXltY1cxM0x5b2xwR0dFWGhYRkpJYjhPdlRaMA==
 #EXTINF:-1 group-title="TheTVApp",FOX Sports 1 SD
-https://v1.thetvapp.to/hls/FoxSports1/tracks-v1a1/mono.m3u8?token=i87UwtXZikUW8VImC5KNWw&expires=1760549009&user_id=bWpBcEx3QzBFa3paRUUwQTFOSXhLaFhjbmxRdW1oaU1mazIyVVMxTw==
+https://e3.thetvapp.to/hls/FoxSports1/tracks-v1a1/mono.m3u8?token=_3zht3MZHZpZYY4vrTqerw&expires=1760592271&user_id=dVMwUjVaNmt0M0FvWXltY1cxM0x5b2xwR0dFWGhYRkpJYjhPdlRaMA==
 #EXTINF:-1 group-title="TheTVApp",FOX Sports 1 HD
-https://v5.thetvapp.to/hls/FoxSports1/tracks-v1a1/mono.m3u8?token=SKiP0cnZm2XLcPkIvTTKfw&expires=1760549019&user_id=bWpBcEx3QzBFa3paRUUwQTFOSXhLaFhjbmxRdW1oaU1mazIyVVMxTw==
+https://v5.thetvapp.to/hls/FoxSports1/tracks-v1a1/mono.m3u8?token=EBH2jwenthoLY164vniXtA&expires=1760592280&user_id=dVMwUjVaNmt0M0FvWXltY1cxM0x5b2xwR0dFWGhYRkpJYjhPdlRaMA==
 #EXTINF:-1 group-title="TheTVApp",FOX Sports 2 SD
-https://e3.thetvapp.to/hls/FoxSports2/tracks-v1a1/mono.m3u8?token=csWJd4n9mXITrk9q9T3ObA&expires=1760549028&user_id=bWpBcEx3QzBFa3paRUUwQTFOSXhLaFhjbmxRdW1oaU1mazIyVVMxTw==
+https://v15.thetvapp.to/hls/FoxSports2/tracks-v1a1/mono.m3u8?token=3L34a77fiTS_dtXz43xrtQ&expires=1760592289&user_id=dVMwUjVaNmt0M0FvWXltY1cxM0x5b2xwR0dFWGhYRkpJYjhPdlRaMA==
 #EXTINF:-1 group-title="TheTVApp",FOX Sports 2 HD
-https://v4.thetvapp.to/hls/FoxSports2/tracks-v1a1/mono.m3u8?token=YmeCMdP-djlTRjr_Lx_ANg&expires=1760549037&user_id=bWpBcEx3QzBFa3paRUUwQTFOSXhLaFhjbmxRdW1oaU1mazIyVVMxTw==
+https://e2.thetvapp.to/hls/FoxSports2/tracks-v1a1/mono.m3u8?token=POSO55AJt4yQxQoR7Y9GSQ&expires=1760592299&user_id=dVMwUjVaNmt0M0FvWXltY1cxM0x5b2xwR0dFWGhYRkpJYjhPdlRaMA==
 #EXTINF:-1 group-title="TheTVApp",Golf Channel SD
-https://v14.thetvapp.to/hls/GolfChannel/tracks-v1a1/mono.m3u8?token=de7rCWhj0ln8p-T7pYuREw&expires=1760549160&user_id=bWpBcEx3QzBFa3paRUUwQTFOSXhLaFhjbmxRdW1oaU1mazIyVVMxTw==
+https://e5.thetvapp.to/hls/GolfChannel/tracks-v1a1/mono.m3u8?token=q6P7Za7xb4vbLPjUjzhi4g&expires=1760592422&user_id=dVMwUjVaNmt0M0FvWXltY1cxM0x5b2xwR0dFWGhYRkpJYjhPdlRaMA==
 #EXTINF:-1 group-title="TheTVApp",Golf Channel HD
-https://e1.thetvapp.to/hls/GolfChannel/tracks-v1a1/mono.m3u8?token=7I6yLF9xGbEygFCtKNm7Ew&expires=1760549170&user_id=bWpBcEx3QzBFa3paRUUwQTFOSXhLaFhjbmxRdW1oaU1mazIyVVMxTw==
+https://e4.thetvapp.to/hls/GolfChannel/tracks-v1a1/mono.m3u8?token=UuJDmrOfMj8Mjc7zEpt7Cw&expires=1760592431&user_id=dVMwUjVaNmt0M0FvWXltY1cxM0x5b2xwR0dFWGhYRkpJYjhPdlRaMA==
 #EXTINF:-1 group-title="TheTVApp",MLB Network SD
-https://e1.thetvapp.to/hls/MLBNetwork/tracks-v1a1/mono.m3u8?token=84fSGMqw3sKzAyeGpfO2nw&expires=1760549538&user_id=bWpBcEx3QzBFa3paRUUwQTFOSXhLaFhjbmxRdW1oaU1mazIyVVMxTw==
+https://v14.thetvapp.to/hls/MLBNetwork/tracks-v1a1/mono.m3u8?token=riumX3brUWq9dGShqCVIXA&expires=1760592799&user_id=dVMwUjVaNmt0M0FvWXltY1cxM0x5b2xwR0dFWGhYRkpJYjhPdlRaMA==
 #EXTINF:-1 group-title="TheTVApp",MLB Network HD
-https://v3.thetvapp.to/hls/MLBNetwork/tracks-v1a1/mono.m3u8?token=LZ4Ylux0dBwIxdA9oJmgJA&expires=1760549547&user_id=bWpBcEx3QzBFa3paRUUwQTFOSXhLaFhjbmxRdW1oaU1mazIyVVMxTw==
+https://v13.thetvapp.to/hls/MLBNetwork/tracks-v1a1/mono.m3u8?token=1LvqNSDVaae6lNuUFlI7CA&expires=1760592809&user_id=dVMwUjVaNmt0M0FvWXltY1cxM0x5b2xwR0dFWGhYRkpJYjhPdlRaMA==
 #EXTINF:-1 group-title="TheTVApp",MotorTrend HD SD
-https://v18.thetvapp.to/hls/Motortrend/tracks-v1a1/mono.m3u8?token=09EeHs7pYP0hLorqtnVz5g&expires=1760549575&user_id=bWpBcEx3QzBFa3paRUUwQTFOSXhLaFhjbmxRdW1oaU1mazIyVVMxTw==
+https://v8.thetvapp.to/hls/Motortrend/tracks-v1a1/mono.m3u8?token=0EVKk5qeS4CGLLH-lADkEA&expires=1760592837&user_id=dVMwUjVaNmt0M0FvWXltY1cxM0x5b2xwR0dFWGhYRkpJYjhPdlRaMA==
 #EXTINF:-1 group-title="TheTVApp",MotorTrend HD HD
-https://e5.thetvapp.to/hls/Motortrend/tracks-v1a1/mono.m3u8?token=vb3ToRIOfdutAjZAMM6vrQ&expires=1760549585&user_id=bWpBcEx3QzBFa3paRUUwQTFOSXhLaFhjbmxRdW1oaU1mazIyVVMxTw==
+https://v13.thetvapp.to/hls/Motortrend/tracks-v1a1/mono.m3u8?token=MNRNgV9BslmO9MwZosiBDw&expires=1760592847&user_id=dVMwUjVaNmt0M0FvWXltY1cxM0x5b2xwR0dFWGhYRkpJYjhPdlRaMA==
 #EXTINF:-1 group-title="TheTVApp",NBA TV SD
-https://e2.thetvapp.to/hls/NBATV/tracks-v1a1/mono.m3u8?token=ll778PD6NoUfpjRjPrSjMw&expires=1760549689&user_id=bWpBcEx3QzBFa3paRUUwQTFOSXhLaFhjbmxRdW1oaU1mazIyVVMxTw==
+https://v2.thetvapp.to/hls/NBATV/tracks-v1a1/mono.m3u8?token=L9WqHufUhf5UKHkqUxO3cg&expires=1760592950&user_id=dVMwUjVaNmt0M0FvWXltY1cxM0x5b2xwR0dFWGhYRkpJYjhPdlRaMA==
 #EXTINF:-1 group-title="TheTVApp",NBA TV HD
-https://v3.thetvapp.to/hls/NBATV/tracks-v1a1/mono.m3u8?token=9eWLqOjLDN0OqWaH5pdCHA&expires=1760549698&user_id=bWpBcEx3QzBFa3paRUUwQTFOSXhLaFhjbmxRdW1oaU1mazIyVVMxTw==
+https://e2.thetvapp.to/hls/NBATV/tracks-v1a1/mono.m3u8?token=ReitiHg63-yNaBX0z5piJA&expires=1760592960&user_id=dVMwUjVaNmt0M0FvWXltY1cxM0x5b2xwR0dFWGhYRkpJYjhPdlRaMA==
 #EXTINF:-1 group-title="TheTVApp",NFL Network SD
-https://v13.thetvapp.to/hls/NFLNetwork/tracks-v1a1/mono.m3u8?token=ACgaqHZJxZX9XI3TwPxVsw&expires=1760549726&user_id=bWpBcEx3QzBFa3paRUUwQTFOSXhLaFhjbmxRdW1oaU1mazIyVVMxTw==
+https://v1.thetvapp.to/hls/NFLNetwork/tracks-v1a1/mono.m3u8?token=K96AFBhtN7zHVkpocbe3KQ&expires=1760592988&user_id=dVMwUjVaNmt0M0FvWXltY1cxM0x5b2xwR0dFWGhYRkpJYjhPdlRaMA==
 #EXTINF:-1 group-title="TheTVApp",NFL Network HD
-https://v12.thetvapp.to/hls/NFLNetwork/tracks-v1a1/mono.m3u8?token=cUFFXiUjyfwl0uVr4XoD7A&expires=1760549736&user_id=bWpBcEx3QzBFa3paRUUwQTFOSXhLaFhjbmxRdW1oaU1mazIyVVMxTw==
+https://v12.thetvapp.to/hls/NFLNetwork/tracks-v1a1/mono.m3u8?token=2x-FOPuk4nlb1KBPQgUICA&expires=1760592998&user_id=dVMwUjVaNmt0M0FvWXltY1cxM0x5b2xwR0dFWGhYRkpJYjhPdlRaMA==
 #EXTINF:-1 group-title="TheTVApp",NFL Red Zone SD
-https://v17.thetvapp.to/hls/NFLRedZone/tracks-v1a1/mono.m3u8?token=PX8XWVGKf1Y5EJvBXK_H4w&expires=1760549745&user_id=bWpBcEx3QzBFa3paRUUwQTFOSXhLaFhjbmxRdW1oaU1mazIyVVMxTw==
+https://e1.thetvapp.to/hls/NFLRedZone/tracks-v1a1/mono.m3u8?token=G-vCTAq7aasc8cXNoKFYsw&expires=1760593007&user_id=dVMwUjVaNmt0M0FvWXltY1cxM0x5b2xwR0dFWGhYRkpJYjhPdlRaMA==
 #EXTINF:-1 group-title="TheTVApp",NFL Red Zone HD
-https://v2.thetvapp.to/hls/NFLRedZone/tracks-v1a1/mono.m3u8?token=kmueOn4Np4USRv8Rd6-gCw&expires=1760549755&user_id=bWpBcEx3QzBFa3paRUUwQTFOSXhLaFhjbmxRdW1oaU1mazIyVVMxTw==
+https://v4.thetvapp.to/hls/NFLRedZone/tracks-v1a1/mono.m3u8?token=RSXQqVLIz6G2OuPegLUUSA&expires=1760593016&user_id=dVMwUjVaNmt0M0FvWXltY1cxM0x5b2xwR0dFWGhYRkpJYjhPdlRaMA==
 #EXTINF:-1 group-title="TheTVApp",NHL Network SD
-https://e4.thetvapp.to/hls/NHLNetwork/tracks-v1a1/mono.m3u8?token=3GmyOqbOPndPxCmDd4IX2A&expires=1760549764&user_id=bWpBcEx3QzBFa3paRUUwQTFOSXhLaFhjbmxRdW1oaU1mazIyVVMxTw==
+https://e3.thetvapp.to/hls/NHLNetwork/tracks-v1a1/mono.m3u8?token=tOnfcjkiQ-re0kh_R0OlrQ&expires=1760593026&user_id=dVMwUjVaNmt0M0FvWXltY1cxM0x5b2xwR0dFWGhYRkpJYjhPdlRaMA==
 #EXTINF:-1 group-title="TheTVApp",NHL Network HD
-https://v16.thetvapp.to/hls/NHLNetwork/tracks-v1a1/mono.m3u8?token=UtfAAEV5helWriRUrT1P9A&expires=1760549773&user_id=bWpBcEx3QzBFa3paRUUwQTFOSXhLaFhjbmxRdW1oaU1mazIyVVMxTw==
+https://v15.thetvapp.to/hls/NHLNetwork/tracks-v1a1/mono.m3u8?token=edCyVir4ogx_mm6bsm8-MA&expires=1760593035&user_id=dVMwUjVaNmt0M0FvWXltY1cxM0x5b2xwR0dFWGhYRkpJYjhPdlRaMA==
 #EXTINF:-1 group-title="TheTVApp",Tennis Channel SD
-https://e2.thetvapp.to/hls/TennisChannel/tracks-v1a1/mono.m3u8?token=hKqqM1egCNpXdTiTXHbnBQ&expires=1760550141&user_id=bWpBcEx3QzBFa3paRUUwQTFOSXhLaFhjbmxRdW1oaU1mazIyVVMxTw==
+https://v18.thetvapp.to/hls/TennisChannel/tracks-v1a1/mono.m3u8?token=18r4qCvPocjMrJl57bc3IA&expires=1760593404&user_id=dVMwUjVaNmt0M0FvWXltY1cxM0x5b2xwR0dFWGhYRkpJYjhPdlRaMA==
 #EXTINF:-1 group-title="TheTVApp",Tennis Channel HD
-https://v1.thetvapp.to/hls/TennisChannel/tracks-v1a1/mono.m3u8?token=m9U3jwGqIjXcdwTOCNztLg&expires=1760550151&user_id=bWpBcEx3QzBFa3paRUUwQTFOSXhLaFhjbmxRdW1oaU1mazIyVVMxTw==
-#EXTINF:-1 group-title="TheTVApp - MLB",12:09:00 AM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="TheTVApp - MLB",Los Angeles Dodgers @ Milwaukee Brewers - 10/15/25 - 12:09:00 AM UTC SD
-https://v17.thetvapp.to/hls/TBSEast/tracks-v1a1/mono.m3u8?token=3kBDNPN1kQIn_k_RgtaNDA&expires=1760543644&user_id=MEtSZUlreEZXTW1qUWRjd3Q2QVdMVUpOcGl0QjB0UnMyY2xYeUZCZQ==
-#EXTINF:-1 group-title="TheTVApp - MLB",12:09:00 AM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="TheTVApp - MLB",Los Angeles Dodgers @ Milwaukee Brewers - 10/15/25 - 12:09:00 AM UTC HD
-https://v17.thetvapp.to/hls/TBSEast/tracks-v1a1/mono.m3u8?token=eK2xLQHcdDrrnlkQwnGKRA&expires=1760543650&user_id=MEtSZUlreEZXTW1qUWRjd3Q2QVdMVUpOcGl0QjB0UnMyY2xYeUZCZQ==
+https://v4.thetvapp.to/hls/TennisChannel/tracks-v1a1/mono.m3u8?token=DbkijT6MFrwQRWQWH50VYA&expires=1760593413&user_id=dVMwUjVaNmt0M0FvWXltY1cxM0x5b2xwR0dFWGhYRkpJYjhPdlRaMA==
+#EXTINF:-1 group-title="TheTVApp - NBA",11:00:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="TheTVApp - NBA",Memphis Grizzlies @ Charlotte Hornets - 10/15/25 - 11:00:00 PM UTC SD
+https://v16.thetvapp.to/hls/NBA01/tracks-v1a1/mono.m3u8?token=OQ-d7jQcgngDA-kn8xpiQw&expires=1760593765&user_id=cDlHb05BMWducUNnRll5RUIxMExWZURyeWt1ZUh0aXNZTVZ2QnpZTw==
+#EXTINF:-1 group-title="TheTVApp - NBA",11:00:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="TheTVApp - NBA",Memphis Grizzlies @ Charlotte Hornets - 10/15/25 - 11:00:00 PM UTC HD
+https://v16.thetvapp.to/hls/NBA01/tracks-v1a1/mono.m3u8?token=fN9IByFTIEg_gagL6ThIBA&expires=1760593770&user_id=cDlHb05BMWducUNnRll5RUIxMExWZURyeWt1ZUh0aXNZTVZ2QnpZTw==
+#EXTINF:-1 group-title="TheTVApp - NBA",11:30:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="TheTVApp - NBA",Toronto Raptors @ Boston Celtics - 10/15/25 - 11:30:00 PM UTC SD
+https://e2.thetvapp.to/hls/NBATV/tracks-v1a1/mono.m3u8?token=q7D7m6kCZIYbQjUeeHs1EA&expires=1760593776&user_id=cDlHb05BMWducUNnRll5RUIxMExWZURyeWt1ZUh0aXNZTVZ2QnpZTw==
+#EXTINF:-1 group-title="TheTVApp - NBA",11:30:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="TheTVApp - NBA",Toronto Raptors @ Boston Celtics - 10/15/25 - 11:30:00 PM UTC HD
+https://v5.thetvapp.to/hls/NBATV/tracks-v1a1/mono.m3u8?token=9YX40m-7vqeD05A7gnxBRg&expires=1760593781&user_id=cDlHb05BMWducUNnRll5RUIxMExWZURyeWt1ZUh0aXNZTVZ2QnpZTw==
+#EXTINF:-1 group-title="TheTVApp - NBA",2:30:00 AM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="TheTVApp - NBA",Dallas Mavericks @ Los Angeles Lakers - 10/16/25 - 2:30:00 AM UTC SD
+https://v3.thetvapp.to/hls/ESPN/tracks-v1a1/mono.m3u8?token=h0gQm0JsuImG_MDPiMJxOg&expires=1760593798&user_id=cDlHb05BMWducUNnRll5RUIxMExWZURyeWt1ZUh0aXNZTVZ2QnpZTw==
+#EXTINF:-1 group-title="TheTVApp - NBA",2:30:00 AM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="TheTVApp - NBA",Dallas Mavericks @ Los Angeles Lakers - 10/16/25 - 2:30:00 AM UTC HD
+https://e3.thetvapp.to/hls/ESPN/tracks-v1a1/mono.m3u8?token=FR9zvxVlgoXwDyzCrdnGcA&expires=1760593803&user_id=cDlHb05BMWducUNnRll5RUIxMExWZURyeWt1ZUh0aXNZTVZ2QnpZTw==
+#EXTINF:-1 group-title="TheTVApp - MLB",12:09:00 AM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="TheTVApp - MLB",Toronto Blue Jays @ Seattle Mariners - 10/16/25 - 12:09:00 AM UTC SD
+https://e3.thetvapp.to/hls/FoxSports1/tracks-v1a1/mono.m3u8?token=Vv_7WdbUeEacxJdKgKNS1Q&expires=1760593809&user_id=cDlHb05BMWducUNnRll5RUIxMExWZURyeWt1ZUh0aXNZTVZ2QnpZTw==
+#EXTINF:-1 group-title="TheTVApp - MLB",12:09:00 AM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="TheTVApp - MLB",Toronto Blue Jays @ Seattle Mariners - 10/16/25 - 12:09:00 AM UTC HD
+https://e5.thetvapp.to/hls/FoxSports1/tracks-v1a1/mono.m3u8?token=e57YfzbXSH9pWCfyAuHI7w&expires=1760593814&user_id=cDlHb05BMWducUNnRll5RUIxMExWZURyeWt1ZUh0aXNZTVZ2QnpZTw==
+#EXTINF:-1 group-title="TheTVApp - NCAAF",11:00:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Delaware Blue Hens @ Jacksonville State Gamecocks - 10/15/25 - 11:00:00 PM UTC SD
+https://v17.thetvapp.to/hls/ESPN/tracks-v1a1/mono.m3u8?token=DtrKKh84l2TTmvDX8TNHZw&expires=1760593821&user_id=cDlHb05BMWducUNnRll5RUIxMExWZURyeWt1ZUh0aXNZTVZ2QnpZTw==
+#EXTINF:-1 group-title="TheTVApp - NCAAF",11:00:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Delaware Blue Hens @ Jacksonville State Gamecocks - 10/15/25 - 11:00:00 PM UTC HD
+https://v4.thetvapp.to/hls/ESPN/tracks-v1a1/mono.m3u8?token=hvVMf5JDtMLlBaU215MdkQ&expires=1760593827&user_id=cDlHb05BMWducUNnRll5RUIxMExWZURyeWt1ZUh0aXNZTVZ2QnpZTw==
+#EXTINF:-1 group-title="TheTVApp - NCAAF",11:00:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",UTEP Miners @ Sam Houston State Bearkats - 10/15/25 - 11:00:00 PM UTC SD
+https://v5.thetvapp.to/hls/CBSSportsNetworkUSA/tracks-v1a1/mono.m3u8?token=zlsB6mLZdxcPHkzJMbqrPA&expires=1760593832&user_id=cDlHb05BMWducUNnRll5RUIxMExWZURyeWt1ZUh0aXNZTVZ2QnpZTw==
+#EXTINF:-1 group-title="TheTVApp - NCAAF",11:00:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",UTEP Miners @ Sam Houston State Bearkats - 10/15/25 - 11:00:00 PM UTC HD
+https://v8.thetvapp.to/hls/CBSSportsNetworkUSA/tracks-v1a1/mono.m3u8?token=iVOiMt29ysD7pfvkhCmr1g&expires=1760593837&user_id=cDlHb05BMWducUNnRll5RUIxMExWZURyeWt1ZUh0aXNZTVZ2QnpZTw==
 #EXTINF:-1 group-title="SamsungTVPlus - CA",beIN SPORTS XTRA (CA)
 https://jmp2.uk/stvp-CABA8000043F
 #EXTINF:-1 group-title="SamsungTVPlus - CA",CG MMA En EspaÃ±ol (CA)
