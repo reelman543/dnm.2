@@ -15,7 +15,7 @@ jobs:
 
       - name: Fetch playlist.m3u8 from Worker
         run: |
-          curl -L https://SENIN-WORKER.workers.dev/playlist.m3u8 -o playlist.m3u8
+          curl -L https://github.com/reelman543/dnm.2/blob/main/worker.js/playlist.m3u8 -o playlist.m3u8
 
       - name: Commit and push if changed
         run: |
