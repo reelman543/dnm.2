@@ -1,0 +1,31 @@
+name: Generate M3U Playlist
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/30 * * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Repo checkout
+        uses: actions/checkout@v4
+
+      - name: Fetch playlist.m3u8 from Worker
+        run: |
+          curl -L https://SENIN-WORKER.workers.dev/playlist.m3u8 -o playlist.m3u8
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+          if git diff --quiet; then
+            echo "Degisiklik yok"
+          else
+            git add playlist.m3u8
+            git commit -m "Auto update playlist.m3u8"
+            git push
+          fi
